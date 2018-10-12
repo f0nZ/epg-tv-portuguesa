@@ -18,4 +18,7 @@ Utilizando um exemplo de lista IPTV, basta que no campo "tvg-id" ou o campo do n
 http://null
 ```
 
+# Utilização
+O link a colocar na parte de epg pode ser o seguinte: http://bit.ly/epg-pt
+
 Qualquer dúvida ou canais que queiram adicionados/removidos, façam pedido!
