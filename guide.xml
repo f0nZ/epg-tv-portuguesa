@@ -32,12 +32,24 @@
     <display-name lang="pt">CAÇAVISION</display-name>
     <url>http://www.mag.sapo.pt</url>
   </channel>
+  <channel id="CBS REALITY">
+    <display-name lang="pt">CBS REALITY</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
   <channel id="CLUBBING TV">
     <display-name lang="pt">CLUBBING TV</display-name>
     <url>http://www.mag.sapo.pt</url>
   </channel>
   <channel id="CMTV">
     <display-name lang="pt">CMTV</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="C-Music">
+    <display-name lang="pt">C-Music</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="CUBAVINT">
+    <display-name lang="pt">CUBAVINT</display-name>
     <url>http://www.mag.sapo.pt</url>
   </channel>
   <channel id="DEUTSCHE WELLE">
@@ -56,6 +68,10 @@
     <display-name lang="pt">GLOBO PREMIUM</display-name>
     <url>http://www.mag.sapo.pt</url>
   </channel>
+  <channel id="JIMJAM">
+    <display-name lang="pt">JIMJAM</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
   <channel id="i24 NEWS">
     <display-name lang="pt">i24 NEWS</display-name>
     <url>http://www.mag.sapo.pt</url>
@@ -66,6 +82,10 @@
   </channel>
   <channel id="MÁS CHIC">
     <display-name lang="pt">MÁS CHIC</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="MOTORSPORT TV">
+    <display-name lang="pt">MOTORSPORT TV</display-name>
     <url>http://www.mag.sapo.pt</url>
   </channel>
   <channel id="MTV LIVE">
@@ -151,11 +171,6 @@
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=100&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
-  <channel id="CUBAVINT">
-    <display-name lang="pt">CUBAVINT</display-name>
-    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=101&amp;mime=true&amp;no_default=false" />
-    <url>http://www.vodafone.pt</url>
-  </channel>
   <channel id="FOX LIFE">
     <display-name lang="pt">FOX LIFE</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=103&amp;mime=true&amp;no_default=false" />
@@ -189,11 +204,6 @@
   <channel id="SIC MULHER">
     <display-name lang="pt">SIC MULHER</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=12&amp;mime=true&amp;no_default=false" />
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="JIMJAM">
-    <display-name lang="pt">JIMJAM</display-name>
-    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
   <channel id="STINGRAY BRAVA">
@@ -376,11 +386,6 @@
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=31&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
-  <channel id="C-Music">
-    <display-name lang="pt">C-Music</display-name>
-    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=34&amp;mime=true&amp;no_default=false" />
-    <url>http://www.vodafone.pt</url>
-  </channel>
   <channel id="BBC ENTERTAINMENT">
     <display-name lang="pt">BBC ENTERTAINMENT</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=341&amp;mime=true&amp;no_default=false" />
@@ -404,11 +409,6 @@
   <channel id="DOG TV">
     <display-name lang="pt">DOG TV</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=348&amp;mime=true&amp;no_default=false" />
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="BABY FIRST">
-    <display-name lang="pt">BABY FIRST</display-name>
-    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=35&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
   <channel id="CINEMUNDO">
@@ -556,11 +556,6 @@
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=56&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
-  <channel id="MOTORSPORT TV">
-    <display-name lang="pt">MOTORSPORT TV</display-name>
-    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=58&amp;mime=true&amp;no_default=false" />
-    <url>http://www.vodafone.pt</url>
-  </channel>
   <channel id="BLOOMBERG">
     <display-name lang="pt">BLOOMBERG</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=59&amp;mime=true&amp;no_default=false" />
@@ -614,11 +609,6 @@
   <channel id="FRANCE 24">
     <display-name lang="pt">FRANCE 24</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=81&amp;mime=true&amp;no_default=false" />
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="CBS REALITY">
-    <display-name lang="pt">CBS REALITY</display-name>
-    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
   <channel id="TVR">
@@ -2501,6 +2491,403 @@
   <programme start="20181014235300 +0100" stop="20181015002300 +0100" channel="CAÇAVISION">
     <title lang="pt">Caça Nas Astúrias - Ep. 2</title>
   </programme>
+  <programme start="20181013001500 +0100" stop="20181013004000 +0100" channel="CBS REALITY">
+    <title lang="pt">Operation Repo</title>
+    <episode-num>T4 Ep. 8</episode-num>
+  </programme>
+  <programme start="20181013004000 +0100" stop="20181013013000 +0100" channel="CBS REALITY">
+    <title lang="pt">Stalker!</title>
+    <desc lang="pt">A terrifying look at stalking in the digital age, exploring who\u0027s most likely to become a stalker, what sets them off and motivates them, and what the warning signs are(n)</desc>
+    <episode-num>T1 Ep. 5</episode-num>
+  </programme>
+  <programme start="20181013013000 +0100" stop="20181013022000 +0100" channel="CBS REALITY">
+    <title lang="pt">Double Murder</title>
+  </programme>
+  <programme start="20181013022000 +0100" stop="20181013024000 +0100" channel="CBS REALITY">
+    <title lang="pt">Judge Judy</title>
+    <desc lang="pt">Punchy reality show about a female judge that has made a real impact on the American justice system. Judge Judy is real, honest and keen to get to the bottom of emotional cases(n)</desc>
+    <episode-num>T12 Ep. 118</episode-num>
+  </programme>
+  <programme start="20181013024000 +0100" stop="20181013030500 +0100" channel="CBS REALITY">
+    <title lang="pt">Judge Judy</title>
+    <desc lang="pt">Punchy reality show about a female judge that has made a real impact on the American justice system. Judge Judy is real, honest and keen to get to the bottom of emotional cases(n)</desc>
+    <episode-num>T12 Ep. 119</episode-num>
+  </programme>
+  <programme start="20181013030500 +0100" stop="20181013032500 +0100" channel="CBS REALITY">
+    <title lang="pt">Judge Judy</title>
+    <desc lang="pt">Punchy reality show about a female judge that has made a real impact on the American justice system. Judge Judy is real, honest and keen to get to the bottom of emotional cases(n)</desc>
+    <episode-num>T12 Ep. 120</episode-num>
+  </programme>
+  <programme start="20181013032500 +0100" stop="20181013041000 +0100" channel="CBS REALITY">
+    <title lang="pt">The Nightmare Neighbour Next Door</title>
+    <desc lang="pt">This new series goes behind closed doors to find out what really happens between neighbours when disputes arise(n)</desc>
+    <episode-num>T4 Ep. 3</episode-num>
+  </programme>
+  <programme start="20181013041000 +0100" stop="20181013043500 +0100" channel="CBS REALITY">
+    <title lang="pt">Speeders</title>
+    <desc lang="pt">Get behind the wheel with America\u0027s finest and experience the thrill and terror of police pursuits. Hear the unbelievable excuses, and the surprising confessions of the indefensible culprits(n)</desc>
+    <episode-num>T3 Ep. 2</episode-num>
+  </programme>
+  <programme start="20181013043500 +0100" stop="20181013050000 +0100" channel="CBS REALITY">
+    <title lang="pt">Speeders</title>
+    <desc lang="pt">Get behind the wheel with America\u0027s finest and experience the thrill and terror of police pursuits. Hear the unbelievable excuses, and the surprising confessions of the indefensible culprits(n)</desc>
+    <episode-num>T3 Ep. 1</episode-num>
+  </programme>
+  <programme start="20181013050000 +0100" stop="20181013052500 +0100" channel="CBS REALITY">
+    <title lang="pt">Judge Judy</title>
+    <desc lang="pt">Punchy reality show about a female judge that has made a real impact on the American justice system. Judge Judy is real, honest and keen to get to the bottom of emotional cases(n)</desc>
+    <episode-num>T12 Ep. 209</episode-num>
+  </programme>
+  <programme start="20181013052500 +0100" stop="20181013055000 +0100" channel="CBS REALITY">
+    <title lang="pt">Judge Judy</title>
+    <desc lang="pt">Punchy reality show about a female judge that has made a real impact on the American justice system. Judge Judy is real, honest and keen to get to the bottom of emotional cases(n)</desc>
+    <episode-num>T12 Ep. 210</episode-num>
+  </programme>
+  <programme start="20181013055000 +0100" stop="20181013061500 +0100" channel="CBS REALITY">
+    <title lang="pt">Judge Judy</title>
+    <desc lang="pt">Punchy reality show about a female judge that has made a real impact on the American justice system. Judge Judy is real, honest and keen to get to the bottom of emotional cases(n)</desc>
+    <episode-num>T12 Ep. 211</episode-num>
+  </programme>
+  <programme start="20181013061500 +0100" stop="20181013064000 +0100" channel="CBS REALITY">
+    <title lang="pt">Judge Judy</title>
+    <desc lang="pt">Punchy reality show about a female judge that has made a real impact on the American justice system. Judge Judy is real, honest and keen to get to the bottom of emotional cases(n)</desc>
+    <episode-num>T12 Ep. 212</episode-num>
+  </programme>
+  <programme start="20181013064000 +0100" stop="20181013070500 +0100" channel="CBS REALITY">
+    <title lang="pt">Caught Red Handed</title>
+    <desc lang="pt">Caught Red Handed takes a close look at the daily life of loss-prevention agents as they apprehend shoplifting suspects(n)</desc>
+    <episode-num>T1 Ep. 1</episode-num>
+  </programme>
+  <programme start="20181013070500 +0100" stop="20181013073000 +0100" channel="CBS REALITY">
+    <title lang="pt">Caught Red Handed</title>
+    <desc lang="pt">Caught Red Handed takes a close look at the daily life of loss-prevention agents as they apprehend shoplifting suspects(n)</desc>
+    <episode-num>T1 Ep. 2</episode-num>
+  </programme>
+  <programme start="20181013073000 +0100" stop="20181013082000 +0100" channel="CBS REALITY">
+    <title lang="pt">High Alert</title>
+    <episode-num>T1 Ep. 3</episode-num>
+  </programme>
+  <programme start="20181013082000 +0100" stop="20181013091000 +0100" channel="CBS REALITY">
+    <title lang="pt">Amazing Medical Stories</title>
+    <desc lang="pt">This fascinating and inspiring series reveals a plethora of unusual human diseases and afflictions, and the research and courage that goes into beating them, scientifically and emotionally(n)</desc>
+    <episode-num>T3 Ep. 3</episode-num>
+  </programme>
+  <programme start="20181013091000 +0100" stop="20181013100000 +0100" channel="CBS REALITY">
+    <title lang="pt">Babies: Special Delivery</title>
+    <desc lang="pt">This emotional observational documentary series travels the US to spend intimate last moments with families as they enter the final hours of pregnancy, labour and delivery(n)</desc>
+    <episode-num>T1 Ep. 3</episode-num>
+  </programme>
+  <programme start="20181013100000 +0100" stop="20181013105000 +0100" channel="CBS REALITY">
+    <title lang="pt">Police Women Of Cincinnati</title>
+    <desc lang="pt">This series goes behind-the-scenes in Ohio\u0027s third largest city to capture the dangerous reality of female law enforcement. From robberies to homicides, drug busts to domestic violence(n)</desc>
+    <episode-num>T1 Ep. 5</episode-num>
+  </programme>
+  <programme start="20181013105000 +0100" stop="20181013111500 +0100" channel="CBS REALITY">
+    <title lang="pt">Ocean Patrol</title>
+    <desc lang="pt">There\u0027s an unexpected twist at a check-point in Northland, and injury hampers a helicopter winch rescue at sea(n)</desc>
+    <episode-num>T7 Ep. 4</episode-num>
+  </programme>
+  <programme start="20181013111500 +0100" stop="20181013114000 +0100" channel="CBS REALITY">
+    <title lang="pt">Ocean Patrol</title>
+    <desc lang="pt">An operation along the Kapiti Coast nets a load of illegal paua, and a massive Search and Rescue operation is launched in Te Anau(n)</desc>
+    <episode-num>T7 Ep. 5</episode-num>
+  </programme>
+  <programme start="20181013114000 +0100" stop="20181013123000 +0100" channel="CBS REALITY">
+    <title lang="pt">Deal Makers</title>
+    <desc lang="pt">This series will unearth everything from high-value family heirlooms, stunning jewellery and flash cars to curious collectables, unique antiques and weird memorabilia(n)</desc>
+    <episode-num>T1 Ep. 11</episode-num>
+  </programme>
+  <programme start="20181013123000 +0100" stop="20181013125500 +0100" channel="CBS REALITY">
+    <title lang="pt">Judge Judy</title>
+    <desc lang="pt">A daycare provider sues for slander after parents claim she was unlicensed, negligent, and had alcohol on the premises(n)</desc>
+    <episode-num>T13 Ep. 11</episode-num>
+  </programme>
+  <programme start="20181013125500 +0100" stop="20181013132000 +0100" channel="CBS REALITY">
+    <title lang="pt">Judge Judy</title>
+    <desc lang="pt">A woman sues her ex-boyfriend for car payments, vehicle damage, unpaid parking tickets, and for the return of property; he counter sues for the value of the car in question(n)</desc>
+    <episode-num>T13 Ep. 12</episode-num>
+  </programme>
+  <programme start="20181013132000 +0100" stop="20181013134500 +0100" channel="CBS REALITY">
+    <title lang="pt">Judge Judy</title>
+    <desc lang="pt">A woman claims her ex asked her to pawn jewelry to pay their bills; he says she offered to do it. A loan to pay bills is disputed by ex-lovers, one of whom claims it was a gift(n)</desc>
+    <episode-num>T13 Ep. 13</episode-num>
+  </programme>
+  <programme start="20181013134500 +0100" stop="20181013141000 +0100" channel="CBS REALITY">
+    <title lang="pt">Judge Judy</title>
+    <desc lang="pt">Teenagers, romantically linked to the same man, bicker over backstabbing, an assault at a party, and car vandalism(n)</desc>
+    <episode-num>T13 Ep. 14</episode-num>
+  </programme>
+  <programme start="20181013141000 +0100" stop="20181013143500 +0100" channel="CBS REALITY">
+    <title lang="pt">Judge Judy</title>
+    <desc lang="pt">After an arrest for stealing a lawnmower, a man is allegedly bailed out by his girlfriend who claims she helped pay for his gall bladder surgery(n)</desc>
+    <episode-num>T13 Ep. 15</episode-num>
+  </programme>
+  <programme start="20181013143500 +0100" stop="20181013150000 +0100" channel="CBS REALITY">
+    <title lang="pt">Close Calls On Camera</title>
+    <episode-num>T4 Ep. 1</episode-num>
+  </programme>
+  <programme start="20181013150000 +0100" stop="20181013152500 +0100" channel="CBS REALITY">
+    <title lang="pt">Operation Repo</title>
+    <episode-num>T4 Ep. 3</episode-num>
+  </programme>
+  <programme start="20181013152500 +0100" stop="20181013155000 +0100" channel="CBS REALITY">
+    <title lang="pt">Operation Repo</title>
+    <episode-num>T4 Ep. 4</episode-num>
+  </programme>
+  <programme start="20181013155000 +0100" stop="20181013161500 +0100" channel="CBS REALITY">
+    <title lang="pt">Operation Repo</title>
+    <episode-num>T4 Ep. 5</episode-num>
+  </programme>
+  <programme start="20181013161500 +0100" stop="20181013164000 +0100" channel="CBS REALITY">
+    <title lang="pt">Operation Repo</title>
+    <episode-num>T4 Ep. 6</episode-num>
+  </programme>
+  <programme start="20181013164000 +0100" stop="20181013170500 +0100" channel="CBS REALITY">
+    <title lang="pt">Speeders</title>
+    <desc lang="pt">Get behind the wheel with America\u0027s finest and experience the thrill and terror of police pursuits. Hear the unbelievable excuses, and the surprising confessions of the indefensible culprits(n)</desc>
+    <episode-num>T4 Ep. 4</episode-num>
+  </programme>
+  <programme start="20181013170500 +0100" stop="20181013173000 +0100" channel="CBS REALITY">
+    <title lang="pt">Speeders</title>
+    <desc lang="pt">Get behind the wheel with America\u0027s finest and experience the thrill and terror of police pursuits. Hear the unbelievable excuses, and the surprising confessions of the indefensible culprits(n)</desc>
+    <episode-num>T4 Ep. 5</episode-num>
+  </programme>
+  <programme start="20181013173000 +0100" stop="20181013175500 +0100" channel="CBS REALITY">
+    <title lang="pt">Ocean Patrol</title>
+    <desc lang="pt">There\u0027s an unexpected twist at a check-point in Northland, and injury hampers a helicopter winch rescue at sea(n)</desc>
+    <episode-num>T7 Ep. 4</episode-num>
+  </programme>
+  <programme start="20181013175500 +0100" stop="20181013182000 +0100" channel="CBS REALITY">
+    <title lang="pt">Ocean Patrol</title>
+    <desc lang="pt">An operation along the Kapiti Coast nets a load of illegal paua, and a massive Search and Rescue operation is launched in Te Anau(n)</desc>
+    <episode-num>T7 Ep. 5</episode-num>
+  </programme>
+  <programme start="20181013182000 +0100" stop="20181013191000 +0100" channel="CBS REALITY">
+    <title lang="pt">High Alert</title>
+    <episode-num>T1 Ep. 3</episode-num>
+  </programme>
+  <programme start="20181013191000 +0100" stop="20181013200000 +0100" channel="CBS REALITY">
+    <title lang="pt">48 Hours</title>
+    <episode-num>T17 Ep. 3</episode-num>
+  </programme>
+  <programme start="20181013200000 +0100" stop="20181013205000 +0100" channel="CBS REALITY">
+    <title lang="pt">Crimes That Shook Australia</title>
+    <desc lang="pt">The stories behind the biggest crimes to hit the country, through the eyes of the people placed right at the heart of the tragedies(n)</desc>
+    <episode-num>T2 Ep. 3</episode-num>
+  </programme>
+  <programme start="20181013205000 +0100" stop="20181013214000 +0100" channel="CBS REALITY">
+    <title lang="pt">Broke and Famous</title>
+    <episode-num>T1 Ep. 3</episode-num>
+  </programme>
+  <programme start="20181013214000 +0100" stop="20181013223000 +0100" channel="CBS REALITY">
+    <title lang="pt">Broke and Famous</title>
+    <episode-num>T1 Ep. 4</episode-num>
+  </programme>
+  <programme start="20181013223000 +0100" stop="20181013232000 +0100" channel="CBS REALITY">
+    <title lang="pt">Wives With Knives</title>
+    <episode-num>T4 Ep. 7</episode-num>
+  </programme>
+  <programme start="20181013232000 +0100" stop="20181014001000 +0100" channel="CBS REALITY">
+    <title lang="pt">Wives With Knives</title>
+    <episode-num>T4 Ep. 8</episode-num>
+  </programme>
+  <programme start="20181014001000 +0100" stop="20181014010000 +0100" channel="CBS REALITY">
+    <title lang="pt">24 Hours to Kill</title>
+    <desc lang="pt">This compelling series deconstructs and examines a selection of Ireland\u0027s most shocking killings, which in turn sparked some of the country\u0027s most infamous murder trials(n)</desc>
+    <episode-num>T1 Ep. 7</episode-num>
+  </programme>
+  <programme start="20181014010000 +0100" stop="20181014012500 +0100" channel="CBS REALITY">
+    <title lang="pt">Robbed, Raided, Reunited</title>
+    <desc lang="pt">Robbed, Raided, Reunited is a series about a crime that could affect anyone and happens every single minute in Britain - burglary(n)</desc>
+    <episode-num>T2 Ep. 10</episode-num>
+  </programme>
+  <programme start="20181014012500 +0100" stop="20181014021500 +0100" channel="CBS REALITY">
+    <title lang="pt">Crimes That Shook Australia</title>
+    <desc lang="pt">The stories behind the biggest crimes to hit the country, through the eyes of the people placed right at the heart of the tragedies(n)</desc>
+    <episode-num>T2 Ep. 3</episode-num>
+  </programme>
+  <programme start="20181014021500 +0100" stop="20181014024000 +0100" channel="CBS REALITY">
+    <title lang="pt">Ocean Patrol</title>
+    <desc lang="pt">There\u0027s an unexpected twist at a check-point in Northland, and injury hampers a helicopter winch rescue at sea(n)</desc>
+    <episode-num>T7 Ep. 4</episode-num>
+  </programme>
+  <programme start="20181014024000 +0100" stop="20181014030500 +0100" channel="CBS REALITY">
+    <title lang="pt">Ocean Patrol</title>
+    <desc lang="pt">An operation along the Kapiti Coast nets a load of illegal paua, and a massive Search and Rescue operation is launched in Te Anau(n)</desc>
+    <episode-num>T7 Ep. 5</episode-num>
+  </programme>
+  <programme start="20181014030500 +0100" stop="20181014035000 +0100" channel="CBS REALITY">
+    <title lang="pt">High Alert</title>
+    <episode-num>T1 Ep. 3</episode-num>
+  </programme>
+  <programme start="20181014035000 +0100" stop="20181014043500 +0100" channel="CBS REALITY">
+    <title lang="pt">Donal Macintyre: Unsolved</title>
+    <desc lang="pt">In 1992, a lorry driver discovered the body of Natalie Jane Pearman in a lay-by in Norfolk. Forensic swabs revealed semen present in her body, but this have never been matched to a suspect(n)</desc>
+    <episode-num>T1 Ep. 3</episode-num>
+  </programme>
+  <programme start="20181014043500 +0100" stop="20181014050000 +0100" channel="CBS REALITY">
+    <title lang="pt">Judge Judy</title>
+    <desc lang="pt">After being arrested for assault, a young man has a dirty drug test, violates his probation, and is bailed out by his girlfriend. He claims the bailout was a birthday gift(n)</desc>
+    <episode-num>T13 Ep. 39</episode-num>
+  </programme>
+  <programme start="20181014050000 +0100" stop="20181014052500 +0100" channel="CBS REALITY">
+    <title lang="pt">Judge Judy</title>
+    <desc lang="pt">Punchy reality show about a female judge that has made a real impact on the American justice system. Judge Judy is real, honest and keen to get to the bottom of emotional cases(n)</desc>
+    <episode-num>T12 Ep. 213</episode-num>
+  </programme>
+  <programme start="20181014052500 +0100" stop="20181014055000 +0100" channel="CBS REALITY">
+    <title lang="pt">Judge Judy</title>
+    <desc lang="pt">Punchy reality show about a female judge that has made a real impact on the American justice system. Judge Judy is real, honest and keen to get to the bottom of emotional cases(n)</desc>
+    <episode-num>T12 Ep. 214</episode-num>
+  </programme>
+  <programme start="20181014055000 +0100" stop="20181014061500 +0100" channel="CBS REALITY">
+    <title lang="pt">Judge Judy</title>
+    <desc lang="pt">Punchy reality show about a female judge that has made a real impact on the American justice system. Judge Judy is real, honest and keen to get to the bottom of emotional cases(n)</desc>
+    <episode-num>T12 Ep. 215</episode-num>
+  </programme>
+  <programme start="20181014061500 +0100" stop="20181014064000 +0100" channel="CBS REALITY">
+    <title lang="pt">Judge Judy</title>
+    <desc lang="pt">Punchy reality show about a female judge that has made a real impact on the American justice system. Judge Judy is real, honest and keen to get to the bottom of emotional cases(n)</desc>
+    <episode-num>T12 Ep. 216</episode-num>
+  </programme>
+  <programme start="20181014064000 +0100" stop="20181014070500 +0100" channel="CBS REALITY">
+    <title lang="pt">Caught Red Handed</title>
+    <desc lang="pt">Caught Red Handed takes a close look at the daily life of loss-prevention agents as they apprehend shoplifting suspects(n)</desc>
+    <episode-num>T1 Ep. 3</episode-num>
+  </programme>
+  <programme start="20181014070500 +0100" stop="20181014073000 +0100" channel="CBS REALITY">
+    <title lang="pt">Caught Red Handed</title>
+    <desc lang="pt">Caught Red Handed takes a close look at the daily life of loss-prevention agents as they apprehend shoplifting suspects(n)</desc>
+    <episode-num>T1 Ep. 4</episode-num>
+  </programme>
+  <programme start="20181014073000 +0100" stop="20181014082000 +0100" channel="CBS REALITY">
+    <title lang="pt">High Alert</title>
+    <episode-num>T1 Ep. 4</episode-num>
+  </programme>
+  <programme start="20181014082000 +0100" stop="20181014091000 +0100" channel="CBS REALITY">
+    <title lang="pt">Amazing Medical Stories</title>
+    <desc lang="pt">This fascinating and inspiring series reveals a plethora of unusual human diseases and afflictions, and the research and courage that goes into beating them, scientifically and emotionally(n)</desc>
+    <episode-num>T3 Ep. 4</episode-num>
+  </programme>
+  <programme start="20181014091000 +0100" stop="20181014100000 +0100" channel="CBS REALITY">
+    <title lang="pt">Babies: Special Delivery</title>
+    <desc lang="pt">This emotional observational documentary series travels the US to spend intimate last moments with families as they enter the final hours of pregnancy, labour and delivery(n)</desc>
+    <episode-num>T1 Ep. 4</episode-num>
+  </programme>
+  <programme start="20181014100000 +0100" stop="20181014105000 +0100" channel="CBS REALITY">
+    <title lang="pt">Police Women Of Cincinnati</title>
+    <desc lang="pt">This series goes behind-the-scenes in Ohio\u0027s third largest city to capture the dangerous reality of female law enforcement. From robberies to homicides, drug busts to domestic violence(n)</desc>
+    <episode-num>T1 Ep. 6</episode-num>
+  </programme>
+  <programme start="20181014105000 +0100" stop="20181014111500 +0100" channel="CBS REALITY">
+    <title lang="pt">Ocean Patrol</title>
+    <desc lang="pt">Christchurch Fisheries crack down on illegal fishing, and a cliff fall leads to a frantic search for the Northland Electricity Rescue Helicopter(n)</desc>
+    <episode-num>T7 Ep. 6</episode-num>
+  </programme>
+  <programme start="20181014111500 +0100" stop="20181014114000 +0100" channel="CBS REALITY">
+    <title lang="pt">Ocean Patrol</title>
+    <desc lang="pt">Boaties come to grief in the Waitemata Harbour, and Auckland Fisheries are out in force to net those not sticking to the rules(n)</desc>
+    <episode-num>T7 Ep. 7</episode-num>
+  </programme>
+  <programme start="20181014114000 +0100" stop="20181014123000 +0100" channel="CBS REALITY">
+    <title lang="pt">Deal Makers</title>
+    <desc lang="pt">This series will unearth everything from high-value family heirlooms, stunning jewellery and flash cars to curious collectables, unique antiques and weird memorabilia(n)</desc>
+    <episode-num>T1 Ep. 12</episode-num>
+  </programme>
+  <programme start="20181014123000 +0100" stop="20181014125500 +0100" channel="CBS REALITY">
+    <title lang="pt">Judge Judy</title>
+    <desc lang="pt">An attempt to serve divorce papers to a man and his new girlfriend allegedly ends in an act of vandalism and assault(n)</desc>
+    <episode-num>T13 Ep. 16</episode-num>
+  </programme>
+  <programme start="20181014125500 +0100" stop="20181014132000 +0100" channel="CBS REALITY">
+    <title lang="pt">Judge Judy</title>
+    <desc lang="pt">Lying to the police about suicidal behavior, cheating with the babysitter, and feeding a gambling addiction are allegations estranged parents fight over and deny(n)</desc>
+    <episode-num>T13 Ep. 17</episode-num>
+  </programme>
+  <programme start="20181014132000 +0100" stop="20181014134500 +0100" channel="CBS REALITY">
+    <title lang="pt">Judge Judy</title>
+    <desc lang="pt">Teenagers steal a car and vandalize property in a junkyard. When one boy is caught and pleads guilty, he demands that a co-conspirator help pay for part of his $15,000 in fines(n)</desc>
+    <episode-num>T13 Ep. 18</episode-num>
+  </programme>
+  <programme start="20181014134500 +0100" stop="20181014141000 +0100" channel="CBS REALITY">
+    <title lang="pt">Judge Judy</title>
+    <desc lang="pt">A man claims his ex-girlfriend ordered her escort to attack him in a bar; she denies all charges and sues him for the balance on the dirt bike, vandalism to her car, and harassment(n)</desc>
+    <episode-num>T13 Ep. 19</episode-num>
+  </programme>
+  <programme start="20181014141000 +0100" stop="20181014143500 +0100" channel="CBS REALITY">
+    <title lang="pt">Judge Judy</title>
+    <desc lang="pt">Amid accusations of marijuana use, a woman sues her ex-roommate for back rent and utilities. She\u0027s countersued for the cost of allegedly damaged property(n)</desc>
+    <episode-num>T13 Ep. 20</episode-num>
+  </programme>
+  <programme start="20181014143500 +0100" stop="20181014150000 +0100" channel="CBS REALITY">
+    <title lang="pt">Close Calls On Camera</title>
+    <episode-num>T4 Ep. 2</episode-num>
+  </programme>
+  <programme start="20181014150000 +0100" stop="20181014152500 +0100" channel="CBS REALITY">
+    <title lang="pt">Operation Repo</title>
+    <episode-num>T4 Ep. 7</episode-num>
+  </programme>
+  <programme start="20181014152500 +0100" stop="20181014155000 +0100" channel="CBS REALITY">
+    <title lang="pt">Operation Repo</title>
+    <episode-num>T4 Ep. 8</episode-num>
+  </programme>
+  <programme start="20181014155000 +0100" stop="20181014161500 +0100" channel="CBS REALITY">
+    <title lang="pt">Operation Repo</title>
+    <episode-num>T4 Ep. 9</episode-num>
+  </programme>
+  <programme start="20181014161500 +0100" stop="20181014164000 +0100" channel="CBS REALITY">
+    <title lang="pt">Operation Repo</title>
+    <episode-num>T4 Ep. 10</episode-num>
+  </programme>
+  <programme start="20181014164000 +0100" stop="20181014170500 +0100" channel="CBS REALITY">
+    <title lang="pt">Speeders</title>
+    <desc lang="pt">Get behind the wheel with America\u0027s finest and experience the thrill and terror of police pursuits. Hear the unbelievable excuses, and the surprising confessions of the indefensible culprits(n)</desc>
+    <episode-num>T4 Ep. 6</episode-num>
+  </programme>
+  <programme start="20181014170500 +0100" stop="20181014173000 +0100" channel="CBS REALITY">
+    <title lang="pt">Speeders</title>
+    <desc lang="pt">Get behind the wheel with America\u0027s finest and experience the thrill and terror of police pursuits. Hear the unbelievable excuses, and the surprising confessions of the indefensible culprits(n)</desc>
+    <episode-num>T4 Ep. 7</episode-num>
+  </programme>
+  <programme start="20181014173000 +0100" stop="20181014175500 +0100" channel="CBS REALITY">
+    <title lang="pt">Ocean Patrol</title>
+    <desc lang="pt">Christchurch Fisheries crack down on illegal fishing, and a cliff fall leads to a frantic search for the Northland Electricity Rescue Helicopter(n)</desc>
+    <episode-num>T7 Ep. 6</episode-num>
+  </programme>
+  <programme start="20181014175500 +0100" stop="20181014182000 +0100" channel="CBS REALITY">
+    <title lang="pt">Ocean Patrol</title>
+    <desc lang="pt">Boaties come to grief in the Waitemata Harbour, and Auckland Fisheries are out in force to net those not sticking to the rules(n)</desc>
+    <episode-num>T7 Ep. 7</episode-num>
+  </programme>
+  <programme start="20181014182000 +0100" stop="20181014191000 +0100" channel="CBS REALITY">
+    <title lang="pt">High Alert</title>
+    <episode-num>T1 Ep. 4</episode-num>
+  </programme>
+  <programme start="20181014191000 +0100" stop="20181014200000 +0100" channel="CBS REALITY">
+    <title lang="pt">48 Hours</title>
+    <episode-num>T17 Ep. 4</episode-num>
+  </programme>
+  <programme start="20181014200000 +0100" stop="20181014205000 +0100" channel="CBS REALITY">
+    <title lang="pt">Crimes That Shook Australia</title>
+    <desc lang="pt">The stories behind the biggest crimes to hit the country, through the eyes of the people placed right at the heart of the tragedies(n)</desc>
+    <episode-num>T2 Ep. 4</episode-num>
+  </programme>
+  <programme start="20181014205000 +0100" stop="20181014214000 +0100" channel="CBS REALITY">
+    <title lang="pt">Broke and Famous</title>
+    <episode-num>T1 Ep. 5</episode-num>
+  </programme>
+  <programme start="20181014214000 +0100" stop="20181014223000 +0100" channel="CBS REALITY">
+    <title lang="pt">Broke and Famous</title>
+    <episode-num>T1 Ep. 6</episode-num>
+  </programme>
+  <programme start="20181014223000 +0100" stop="20181014232000 +0100" channel="CBS REALITY">
+    <title lang="pt">Stranger in my Home</title>
+    <episode-num>T1 Ep. 1</episode-num>
+  </programme>
+  <programme start="20181014232000 +0100" stop="20181015001000 +0100" channel="CBS REALITY">
+    <title lang="pt">Stranger in my Home</title>
+    <episode-num>T1 Ep. 2</episode-num>
+  </programme>
   <programme start="20181013000000 +0100" stop="20181013050000 +0100" channel="CLUBBING TV">
     <title lang="pt">Big Bang Festival</title>
   </programme>
@@ -3040,6 +3427,18 @@
   </programme>
   <programme start="20181014215700 +0100" stop="20181015003000 +0100" channel="CMTV">
     <title lang="pt">Golos - Ep. 135</title>
+  </programme>
+  <programme start="20181013010000 +0100" stop="20181013130000 +0100" channel="CUBAVINT">
+    <title lang="pt">CUBAVISION</title>
+  </programme>
+  <programme start="20181013130000 +0100" stop="20181014010000 +0100" channel="CUBAVINT">
+    <title lang="pt">CUBAVISION</title>
+  </programme>
+  <programme start="20181014010000 +0100" stop="20181014130000 +0100" channel="CUBAVINT">
+    <title lang="pt">CUBAVISION</title>
+  </programme>
+  <programme start="20181014130000 +0100" stop="20181015010000 +0100" channel="CUBAVINT">
+    <title lang="pt">CUBAVISION</title>
   </programme>
   <programme start="20181013000000 +0100" stop="20181013000200 +0100" channel="DEUTSCHE WELLE">
     <title lang="pt">DW News</title>
@@ -3799,6 +4198,1235 @@
   </programme>
   <programme start="20181014232800 +0100" stop="20181015014100 +0100" channel="GLOBO PREMIUM">
     <title lang="pt">Telefilme - O Brado Retumbante</title>
+  </programme>
+  <programme start="20181013000000 +0100" stop="20181013001000 +0100" channel="JIMJAM">
+    <title lang="pt">O Bombeiro Sam</title>
+    <episode-num>T9 Ep. 7</episode-num>
+  </programme>
+  <programme start="20181013001000 +0100" stop="20181013002000 +0100" channel="JIMJAM">
+    <title lang="pt">O Bombeiro Sam</title>
+    <episode-num>T9 Ep. 8</episode-num>
+  </programme>
+  <programme start="20181013002000 +0100" stop="20181013003000 +0100" channel="JIMJAM">
+    <title lang="pt">Bob O Construtor</title>
+    <desc lang="pt">Da construção à escavação, Bob, o Construtor , e a sua equipa de máquinas estão sempre prontos a enfrentar novos projetos. À medida que vão trabalhando, demonstram o poder do pensamento positivo e do trabalho em equipa para resolver problemas(n)</desc>
+    <episode-num>T9 Ep. 13</episode-num>
+  </programme>
+  <programme start="20181013003000 +0100" stop="20181013004100 +0100" channel="JIMJAM">
+    <title lang="pt">Aí Vem O Noddy</title>
+    <episode-num>T1 Ep. 79</episode-num>
+  </programme>
+  <programme start="20181013004100 +0100" stop="20181013005200 +0100" channel="JIMJAM">
+    <title lang="pt">Aí Vem O Noddy</title>
+    <episode-num>T1 Ep. 80</episode-num>
+  </programme>
+  <programme start="20181013005200 +0100" stop="20181013010000 +0100" channel="JIMJAM">
+    <title lang="pt">Os Trigémeos</title>
+    <episode-num>T1 Ep. 40</episode-num>
+  </programme>
+  <programme start="20181013010000 +0100" stop="20181013011000 +0100" channel="JIMJAM">
+    <title lang="pt">Chuggington</title>
+    <episode-num>T2 Ep. 13</episode-num>
+  </programme>
+  <programme start="20181013011000 +0100" stop="20181013011500 +0100" channel="JIMJAM">
+    <title lang="pt">Chuggington Em Busca Do Crachá</title>
+    <episode-num>T1 Ep. 25</episode-num>
+  </programme>
+  <programme start="20181013011500 +0100" stop="20181013012000 +0100" channel="JIMJAM">
+    <title lang="pt">Chuggington Em Busca Do Crachá</title>
+    <episode-num>T1 Ep. 26</episode-num>
+  </programme>
+  <programme start="20181013012000 +0100" stop="20181013013100 +0100" channel="JIMJAM">
+    <title lang="pt">Dot.</title>
+    <episode-num>T1 Ep. 39</episode-num>
+  </programme>
+  <programme start="20181013013100 +0100" stop="20181013015400 +0100" channel="JIMJAM">
+    <title lang="pt">Viva o Óscar!</title>
+    <episode-num>T1 Ep. 13</episode-num>
+  </programme>
+  <programme start="20181013015400 +0100" stop="20181013020500 +0100" channel="JIMJAM">
+    <title lang="pt">Messy Vai A Okido</title>
+    <desc lang="pt">O adorável monstrinho Messy decide procura uma resposta para a sua pergunta em Okido. Acompanha as aventuras do curioso Messy, pelas ruas de Okido(n)</desc>
+    <episode-num>T1 Ep. 39</episode-num>
+  </programme>
+  <programme start="20181013020500 +0100" stop="20181013021600 +0100" channel="JIMJAM">
+    <title lang="pt">Ruff Ruff, Tweet e Dave</title>
+    <desc lang="pt">Ruff-Ruff é um cachorrinho, Tweet é um passarinho fofinho e Dave é um desembaraçado panda azul. Junta-te a eles e a seu amigo Hatty, o Hamster, para viver mil aventuras em locais fantásticos(n)</desc>
+    <episode-num>T1 Ep. 25</episode-num>
+  </programme>
+  <programme start="20181013021600 +0100" stop="20181013022700 +0100" channel="JIMJAM">
+    <title lang="pt">Ruff Ruff, Tweet e Dave</title>
+    <desc lang="pt">Ruff-Ruff é um cachorrinho, Tweet é um passarinho fofinho e Dave é um desembaraçado panda azul. Junta-te a eles e a seu amigo Hatty, o Hamster, para viver mil aventuras em locais fantásticos(n)</desc>
+    <episode-num>T1 Ep. 26</episode-num>
+  </programme>
+  <programme start="20181013022700 +0100" stop="20181013023800 +0100" channel="JIMJAM">
+    <title lang="pt">Aí Vem O Noddy</title>
+    <episode-num>T1 Ep. 39</episode-num>
+  </programme>
+  <programme start="20181013023800 +0100" stop="20181013025000 +0100" channel="JIMJAM">
+    <title lang="pt">Dot.</title>
+    <episode-num>T1 Ep. 39</episode-num>
+  </programme>
+  <programme start="20181013025000 +0100" stop="20181013030100 +0100" channel="JIMJAM">
+    <title lang="pt">Adivinha o Quanto Gosto de Ti</title>
+    <desc lang="pt">Esta é a história de duas lebres castanhas, uma Grande e uma Pequena. A Pequena Lebre Castanha pergunta à Grande Lebre Castanha: “Adivinha o quanto gosto de ti?” e o programa continua com as duas a tentarem encontrar medidas cada vez maiores para quantificar o amor que sentem uma pela outra de modo a responderem à questão(n)</desc>
+    <episode-num>T1 Ep. 25</episode-num>
+  </programme>
+  <programme start="20181013030100 +0100" stop="20181013031200 +0100" channel="JIMJAM">
+    <title lang="pt">Adivinha o Quanto Gosto de Ti</title>
+    <desc lang="pt">Esta é a história de duas lebres castanhas, uma Grande e uma Pequena. A Pequena Lebre Castanha pergunta à Grande Lebre Castanha: “Adivinha o quanto gosto de ti?” e o programa continua com as duas a tentarem encontrar medidas cada vez maiores para quantificar o amor que sentem uma pela outra de modo a responderem à questão(n)</desc>
+    <episode-num>T1 Ep. 26</episode-num>
+  </programme>
+  <programme start="20181013031200 +0100" stop="20181013033600 +0100" channel="JIMJAM">
+    <title lang="pt">Popples</title>
+    <episode-num>T1 Ep. 25</episode-num>
+  </programme>
+  <programme start="20181013033600 +0100" stop="20181013040000 +0100" channel="JIMJAM">
+    <title lang="pt">Popples</title>
+    <episode-num>T1 Ep. 26</episode-num>
+  </programme>
+  <programme start="20181013040000 +0100" stop="20181013040600 +0100" channel="JIMJAM">
+    <title lang="pt">A Grande Descoberta</title>
+    <desc lang="pt">Este programa segue Hugo, cujo apetite pelo pensamento crítico encoraja os mais pequenos a questionar o mundo que os rodeia(n)</desc>
+    <episode-num>T1 Ep. 39</episode-num>
+  </programme>
+  <programme start="20181013040600 +0100" stop="20181013041300 +0100" channel="JIMJAM">
+    <title lang="pt">Formas</title>
+    <desc lang="pt">Em Shapes as fábulas famosas são trazidas à vida usando caracteres animais criados a partir de dezenas de formas diferentes(n)</desc>
+    <episode-num>T1 Ep. 37</episode-num>
+  </programme>
+  <programme start="20181013041300 +0100" stop="20181013042000 +0100" channel="JIMJAM">
+    <title lang="pt">Formas</title>
+    <desc lang="pt">Em Shapes as fábulas famosas são trazidas à vida usando caracteres animais criados a partir de dezenas de formas diferentes(n)</desc>
+    <episode-num>T1 Ep. 38</episode-num>
+  </programme>
+  <programme start="20181013042000 +0100" stop="20181013043200 +0100" channel="JIMJAM">
+    <title lang="pt">Messy Vai A Okido</title>
+    <desc lang="pt">O adorável monstrinho Messy decide procura uma resposta para a sua pergunta em Okido. Acompanha as aventuras do curioso Messy, pelas ruas de Okido(n)</desc>
+    <episode-num>T1 Ep. 39</episode-num>
+  </programme>
+  <programme start="20181013043200 +0100" stop="20181013043700 +0100" channel="JIMJAM">
+    <title lang="pt">Aprende Com O Timmy</title>
+    <episode-num>T1 Ep. 13</episode-num>
+  </programme>
+  <programme start="20181013043700 +0100" stop="20181013044000 +0100" channel="JIMJAM">
+    <title lang="pt">Aprende Com O Noddy</title>
+    <episode-num>T1 Ep. 39</episode-num>
+  </programme>
+  <programme start="20181013044000 +0100" stop="20181013044200 +0100" channel="JIMJAM">
+    <title lang="pt">Aprende Com O Noddy</title>
+    <episode-num>T1 Ep. 21</episode-num>
+  </programme>
+  <programme start="20181013044200 +0100" stop="20181013044400 +0100" channel="JIMJAM">
+    <title lang="pt">Aprende Com O Noddy</title>
+    <episode-num>T1 Ep. 22</episode-num>
+  </programme>
+  <programme start="20181013044400 +0100" stop="20181013044900 +0100" channel="JIMJAM">
+    <title lang="pt">Badanamu TV Show (ABC)</title>
+    <episode-num>T1 Ep. 5</episode-num>
+  </programme>
+  <programme start="20181013044900 +0100" stop="20181013045100 +0100" channel="JIMJAM">
+    <title lang="pt">Badanamu Nursery Rhymes</title>
+    <episode-num>T1 Ep. 17</episode-num>
+  </programme>
+  <programme start="20181013045100 +0100" stop="20181013045800 +0100" channel="JIMJAM">
+    <title lang="pt">Badanamu Talk</title>
+    <episode-num>T1 Ep. 5</episode-num>
+  </programme>
+  <programme start="20181013045800 +0100" stop="20181013050000 +0100" channel="JIMJAM">
+    <title lang="pt">Badanamu Pop</title>
+    <episode-num>T1 Ep. 20</episode-num>
+  </programme>
+  <programme start="20181013050000 +0100" stop="20181013051000 +0100" channel="JIMJAM">
+    <title lang="pt">Kipper</title>
+    <desc lang="pt">Kipper é uma criança hiperativa com muita imaginação, que delicia as crianças com suas travessuras adoráveis e charme inesquecível. A sua mente reflete a criança com todas as suas perguntas. Kipper está sempre no caminho da aventura com ajuda dos seus amigos: Tiger, Pig e Arnold(n)</desc>
+    <episode-num>T1 Ep. 7</episode-num>
+  </programme>
+  <programme start="20181013051000 +0100" stop="20181013052000 +0100" channel="JIMJAM">
+    <title lang="pt">Kipper</title>
+    <desc lang="pt">Kipper é uma criança hiperativa com muita imaginação, que delicia as crianças com suas travessuras adoráveis e charme inesquecível. A sua mente reflete a criança com todas as suas perguntas. Kipper está sempre no caminho da aventura com ajuda dos seus amigos: Tiger, Pig e Arnold(n)</desc>
+    <episode-num>T1 Ep. 8</episode-num>
+  </programme>
+  <programme start="20181013052000 +0100" stop="20181013053000 +0100" channel="JIMJAM">
+    <title lang="pt">Thomas E Os Seus Amigos</title>
+    <desc lang="pt">Thomas e seus amigos convidam as crianças a entrar num mundo de imaginação através dos carris dos comboios(n)</desc>
+    <episode-num>T10 Ep. 3</episode-num>
+  </programme>
+  <programme start="20181013053000 +0100" stop="20181013054000 +0100" channel="JIMJAM">
+    <title lang="pt">Thomas E Os Seus Amigos</title>
+    <desc lang="pt">Thomas e seus amigos convidam as crianças a entrar num mundo de imaginação através dos carris dos comboios(n)</desc>
+    <episode-num>T10 Ep. 4</episode-num>
+  </programme>
+  <programme start="20181013054000 +0100" stop="20181013055000 +0100" channel="JIMJAM">
+    <title lang="pt">O Bombeiro Sam</title>
+    <episode-num>T9 Ep. 13</episode-num>
+  </programme>
+  <programme start="20181013055000 +0100" stop="20181013060000 +0100" channel="JIMJAM">
+    <title lang="pt">O Bombeiro Sam</title>
+    <episode-num>T9 Ep. 14</episode-num>
+  </programme>
+  <programme start="20181013060000 +0100" stop="20181013061000 +0100" channel="JIMJAM">
+    <title lang="pt">Chuggington</title>
+    <episode-num>T2 Ep. 17</episode-num>
+  </programme>
+  <programme start="20181013061000 +0100" stop="20181013061500 +0100" channel="JIMJAM">
+    <title lang="pt">Chuggington Em Busca Do Crachá</title>
+    <episode-num>T1 Ep. 7</episode-num>
+  </programme>
+  <programme start="20181013061500 +0100" stop="20181013062000 +0100" channel="JIMJAM">
+    <title lang="pt">Chuggington Em Busca Do Crachá</title>
+    <episode-num>T1 Ep. 8</episode-num>
+  </programme>
+  <programme start="20181013062000 +0100" stop="20181013063100 +0100" channel="JIMJAM">
+    <title lang="pt">Dot.</title>
+    <episode-num>T1 Ep. 43</episode-num>
+  </programme>
+  <programme start="20181013063100 +0100" stop="20181013065400 +0100" channel="JIMJAM">
+    <title lang="pt">Viva o Óscar!</title>
+    <episode-num>T1 Ep. 17</episode-num>
+  </programme>
+  <programme start="20181013065400 +0100" stop="20181013070500 +0100" channel="JIMJAM">
+    <title lang="pt">Messy Vai A Okido</title>
+    <desc lang="pt">O adorável monstrinho Messy decide procura uma resposta para a sua pergunta em Okido. Acompanha as aventuras do curioso Messy, pelas ruas de Okido(n)</desc>
+    <episode-num>T1 Ep. 43</episode-num>
+  </programme>
+  <programme start="20181013070500 +0100" stop="20181013071600 +0100" channel="JIMJAM">
+    <title lang="pt">Ruff Ruff, Tweet e Dave</title>
+    <desc lang="pt">Ruff-Ruff é um cachorrinho, Tweet é um passarinho fofinho e Dave é um desembaraçado panda azul. Junta-te a eles e a seu amigo Hatty, o Hamster, para viver mil aventuras em locais fantásticos(n)</desc>
+    <episode-num>T1 Ep. 33</episode-num>
+  </programme>
+  <programme start="20181013071600 +0100" stop="20181013072700 +0100" channel="JIMJAM">
+    <title lang="pt">Ruff Ruff, Tweet e Dave</title>
+    <desc lang="pt">Ruff-Ruff é um cachorrinho, Tweet é um passarinho fofinho e Dave é um desembaraçado panda azul. Junta-te a eles e a seu amigo Hatty, o Hamster, para viver mil aventuras em locais fantásticos(n)</desc>
+    <episode-num>T1 Ep. 34</episode-num>
+  </programme>
+  <programme start="20181013072700 +0100" stop="20181013073800 +0100" channel="JIMJAM">
+    <title lang="pt">Aí Vem O Noddy</title>
+    <episode-num>T1 Ep. 5</episode-num>
+  </programme>
+  <programme start="20181013073800 +0100" stop="20181013074900 +0100" channel="JIMJAM">
+    <title lang="pt">Aí Vem O Noddy</title>
+    <episode-num>T1 Ep. 6</episode-num>
+  </programme>
+  <programme start="20181013074900 +0100" stop="20181013075900 +0100" channel="JIMJAM">
+    <title lang="pt">A Hora Do Timmy</title>
+    <episode-num>T1 Ep. 7</episode-num>
+  </programme>
+  <programme start="20181013075900 +0100" stop="20181013080900 +0100" channel="JIMJAM">
+    <title lang="pt">A Hora Do Timmy</title>
+    <episode-num>T1 Ep. 8</episode-num>
+  </programme>
+  <programme start="20181013080900 +0100" stop="20181013082000 +0100" channel="JIMJAM">
+    <title lang="pt">A Hora Do Timmy</title>
+    <episode-num>T1 Ep. 9</episode-num>
+  </programme>
+  <programme start="20181013082000 +0100" stop="20181013083100 +0100" channel="JIMJAM">
+    <title lang="pt">Messy Vai A Okido</title>
+    <desc lang="pt">O adorável monstrinho Messy decide procura uma resposta para a sua pergunta em Okido. Acompanha as aventuras do curioso Messy, pelas ruas de Okido(n)</desc>
+    <episode-num>T1 Ep. 37</episode-num>
+  </programme>
+  <programme start="20181013083100 +0100" stop="20181013084200 +0100" channel="JIMJAM">
+    <title lang="pt">Messy Vai A Okido</title>
+    <desc lang="pt">O adorável monstrinho Messy decide procura uma resposta para a sua pergunta em Okido. Acompanha as aventuras do curioso Messy, pelas ruas de Okido(n)</desc>
+    <episode-num>T1 Ep. 38</episode-num>
+  </programme>
+  <programme start="20181013084200 +0100" stop="20181013085300 +0100" channel="JIMJAM">
+    <title lang="pt">Messy Vai A Okido</title>
+    <desc lang="pt">O adorável monstrinho Messy decide procura uma resposta para a sua pergunta em Okido. Acompanha as aventuras do curioso Messy, pelas ruas de Okido(n)</desc>
+    <episode-num>T1 Ep. 39</episode-num>
+  </programme>
+  <programme start="20181013085300 +0100" stop="20181013085700 +0100" channel="JIMJAM">
+    <title lang="pt">Animanimals</title>
+    <episode-num>T1 Ep. 25</episode-num>
+  </programme>
+  <programme start="20181013085700 +0100" stop="20181013090000 +0100" channel="JIMJAM">
+    <title lang="pt">Animanimals</title>
+    <episode-num>T1 Ep. 26</episode-num>
+  </programme>
+  <programme start="20181013090000 +0100" stop="20181013090500 +0100" channel="JIMJAM">
+    <title lang="pt">Badanamu TV Show (ABC)</title>
+    <episode-num>T1 Ep. 20</episode-num>
+  </programme>
+  <programme start="20181013090500 +0100" stop="20181013090700 +0100" channel="JIMJAM">
+    <title lang="pt">Badanamu Nursery Rhymes</title>
+    <episode-num>T1 Ep. 8</episode-num>
+  </programme>
+  <programme start="20181013090700 +0100" stop="20181013091400 +0100" channel="JIMJAM">
+    <title lang="pt">Badanamu Talk</title>
+    <episode-num>T1 Ep. 9</episode-num>
+  </programme>
+  <programme start="20181013091400 +0100" stop="20181013091600 +0100" channel="JIMJAM">
+    <title lang="pt">Badanamu Pop</title>
+    <episode-num>T1 Ep. 26</episode-num>
+  </programme>
+  <programme start="20181013091600 +0100" stop="20181013091800 +0100" channel="JIMJAM">
+    <title lang="pt">Aprende Com O Noddy</title>
+    <episode-num>T1 Ep. 27</episode-num>
+  </programme>
+  <programme start="20181013091800 +0100" stop="20181013092000 +0100" channel="JIMJAM">
+    <title lang="pt">Aprende Com O Noddy</title>
+    <episode-num>T1 Ep. 86</episode-num>
+  </programme>
+  <programme start="20181013092000 +0100" stop="20181013092500 +0100" channel="JIMJAM">
+    <title lang="pt">Aprende Com O Timmy</title>
+    <episode-num>T1 Ep. 7</episode-num>
+  </programme>
+  <programme start="20181013092500 +0100" stop="20181013093000 +0100" channel="JIMJAM">
+    <title lang="pt">Aprende Com O Timmy</title>
+    <episode-num>T1 Ep. 8</episode-num>
+  </programme>
+  <programme start="20181013093000 +0100" stop="20181013103000 +0100" channel="JIMJAM">
+    <title lang="pt">Bob O Construtor: Férias No Oeste</title>
+  </programme>
+  <programme start="20181013103000 +0100" stop="20181013104000 +0100" channel="JIMJAM">
+    <title lang="pt">Thomas E Os Seus Amigos</title>
+    <desc lang="pt">Thomas e seus amigos convidam as crianças a entrar num mundo de imaginação através dos carris dos comboios(n)</desc>
+    <episode-num>T10 Ep. 2</episode-num>
+  </programme>
+  <programme start="20181013104000 +0100" stop="20181013105000 +0100" channel="JIMJAM">
+    <title lang="pt">O Bombeiro Sam</title>
+    <desc lang="pt">O Bombeiro Sam está sempre metido em emocionantes histórias de salvamento. Os incêndios têm de ser apagados, os gatos têm de ser resgatados das árvores, entre muitas outras aventuras. Felizmente, Sam está sempre pronto a ajudar(n)</desc>
+    <episode-num>T9 Ep. 11</episode-num>
+  </programme>
+  <programme start="20181013105000 +0100" stop="20181013110000 +0100" channel="JIMJAM">
+    <title lang="pt">O Bombeiro Sam</title>
+    <episode-num>T9 Ep. 12</episode-num>
+  </programme>
+  <programme start="20181013110000 +0100" stop="20181013110600 +0100" channel="JIMJAM">
+    <title lang="pt">Pingu</title>
+    <episode-num>T5 Ep. 16</episode-num>
+  </programme>
+  <programme start="20181013110600 +0100" stop="20181013113200 +0100" channel="JIMJAM">
+    <title lang="pt">Barney e os seus Amigos</title>
+    <desc lang="pt">Barney, o dinossauro, dá às crianças a gama de habilidades que elas precisam para crescer(n)</desc>
+    <episode-num>T7 Ep. 5</episode-num>
+  </programme>
+  <programme start="20181013113200 +0100" stop="20181013115800 +0100" channel="JIMJAM">
+    <title lang="pt">Barney e os seus Amigos</title>
+    <desc lang="pt">Barney, o dinossauro, dá às crianças a gama de habilidades que elas precisam para crescer(n)</desc>
+    <episode-num>T7 Ep. 6</episode-num>
+  </programme>
+  <programme start="20181013115800 +0100" stop="20181013120000 +0100" channel="JIMJAM">
+    <title lang="pt">O Meu Universo</title>
+    <desc lang="pt">\u0027O Meu Universo\u0027 explora o espaço pela perspectiva de uma criança, através de um conjunto de pequenos blocos educacionais repletos de belas imagens e factos científicos. Cada episódio começa com uma criança a descrever o seu planeta ou estrela (ou outra coisa qualquer que exista no espaço) preferida(n)</desc>
+    <episode-num>T1 Ep. 17</episode-num>
+  </programme>
+  <programme start="20181013120000 +0100" stop="20181013121000 +0100" channel="JIMJAM">
+    <title lang="pt">O Bombeiro Sam</title>
+    <episode-num>T9 Ep. 9</episode-num>
+  </programme>
+  <programme start="20181013121000 +0100" stop="20181013122000 +0100" channel="JIMJAM">
+    <title lang="pt">O Bombeiro Sam</title>
+    <episode-num>T9 Ep. 10</episode-num>
+  </programme>
+  <programme start="20181013122000 +0100" stop="20181013123000 +0100" channel="JIMJAM">
+    <title lang="pt">Bob O Construtor</title>
+    <desc lang="pt">Da construção à escavação, Bob, o Construtor , e a sua equipa de máquinas estão sempre prontos a enfrentar novos projetos. À medida que vão trabalhando, demonstram o poder do pensamento positivo e do trabalho em equipa para resolver problemas(n)</desc>
+    <episode-num>T9 Ep. 4</episode-num>
+  </programme>
+  <programme start="20181013123000 +0100" stop="20181013124100 +0100" channel="JIMJAM">
+    <title lang="pt">Aí Vem O Noddy</title>
+    <episode-num>T1 Ep. 85</episode-num>
+  </programme>
+  <programme start="20181013124100 +0100" stop="20181013125200 +0100" channel="JIMJAM">
+    <title lang="pt">Aí Vem O Noddy</title>
+    <episode-num>T1 Ep. 86</episode-num>
+  </programme>
+  <programme start="20181013125200 +0100" stop="20181013130000 +0100" channel="JIMJAM">
+    <title lang="pt">Os Trigémeos</title>
+    <episode-num>T1 Ep. 43</episode-num>
+  </programme>
+  <programme start="20181013130000 +0100" stop="20181013130500 +0100" channel="JIMJAM">
+    <title lang="pt">Badanamu TV Show (ABC)</title>
+    <episode-num>T1 Ep. 19</episode-num>
+  </programme>
+  <programme start="20181013130500 +0100" stop="20181013130700 +0100" channel="JIMJAM">
+    <title lang="pt">Badanamu Nursery Rhymes</title>
+    <episode-num>T1 Ep. 7</episode-num>
+  </programme>
+  <programme start="20181013130700 +0100" stop="20181013131400 +0100" channel="JIMJAM">
+    <title lang="pt">Badanamu Talk</title>
+    <episode-num>T1 Ep. 7</episode-num>
+  </programme>
+  <programme start="20181013131400 +0100" stop="20181013131600 +0100" channel="JIMJAM">
+    <title lang="pt">Badanamu Pop</title>
+    <episode-num>T1 Ep. 25</episode-num>
+  </programme>
+  <programme start="20181013131600 +0100" stop="20181013131800 +0100" channel="JIMJAM">
+    <title lang="pt">Aprende Com O Noddy</title>
+    <episode-num>T1 Ep. 26</episode-num>
+  </programme>
+  <programme start="20181013131800 +0100" stop="20181013132000 +0100" channel="JIMJAM">
+    <title lang="pt">Aprende Com O Noddy</title>
+    <episode-num>T1 Ep. 35</episode-num>
+  </programme>
+  <programme start="20181013132000 +0100" stop="20181013132500 +0100" channel="JIMJAM">
+    <title lang="pt">Aprende Com O Timmy</title>
+    <episode-num>T1 Ep. 5</episode-num>
+  </programme>
+  <programme start="20181013132500 +0100" stop="20181013133000 +0100" channel="JIMJAM">
+    <title lang="pt">Aprende Com O Timmy</title>
+    <episode-num>T1 Ep. 6</episode-num>
+  </programme>
+  <programme start="20181013133000 +0100" stop="20181013134200 +0100" channel="JIMJAM">
+    <title lang="pt">Messy Vai A Okido</title>
+    <desc lang="pt">O adorável monstrinho Messy decide procura uma resposta para a sua pergunta em Okido. Acompanha as aventuras do curioso Messy, pelas ruas de Okido(n)</desc>
+    <episode-num>T1 Ep. 43</episode-num>
+  </programme>
+  <programme start="20181013134200 +0100" stop="20181013134800 +0100" channel="JIMJAM">
+    <title lang="pt">Formas</title>
+    <desc lang="pt">Em Shapes as fábulas famosas são trazidas à vida usando caracteres animais criados a partir de dezenas de formas diferentes(n)</desc>
+    <episode-num>T1 Ep. 3</episode-num>
+  </programme>
+  <programme start="20181013134800 +0100" stop="20181013135400 +0100" channel="JIMJAM">
+    <title lang="pt">Formas</title>
+    <desc lang="pt">Em Shapes as fábulas famosas são trazidas à vida usando caracteres animais criados a partir de dezenas de formas diferentes(n)</desc>
+    <episode-num>T1 Ep. 4</episode-num>
+  </programme>
+  <programme start="20181013135400 +0100" stop="20181013140000 +0100" channel="JIMJAM">
+    <title lang="pt">A Grande Descoberta</title>
+    <desc lang="pt">Este programa segue Hugo, cujo apetite pelo pensamento crítico encoraja os mais pequenos a questionar o mundo que os rodeia(n)</desc>
+    <episode-num>T1 Ep. 42</episode-num>
+  </programme>
+  <programme start="20181013140000 +0100" stop="20181013140600 +0100" channel="JIMJAM">
+    <title lang="pt">Pingu</title>
+    <episode-num>T5 Ep. 17</episode-num>
+  </programme>
+  <programme start="20181013140600 +0100" stop="20181013143200 +0100" channel="JIMJAM">
+    <title lang="pt">Barney e os seus Amigos</title>
+    <desc lang="pt">Barney, o dinossauro, dá às crianças a gama de habilidades que elas precisam para crescer(n)</desc>
+    <episode-num>T7 Ep. 5</episode-num>
+  </programme>
+  <programme start="20181013143200 +0100" stop="20181013145800 +0100" channel="JIMJAM">
+    <title lang="pt">Barney e os seus Amigos</title>
+    <desc lang="pt">Barney, o dinossauro, dá às crianças a gama de habilidades que elas precisam para crescer(n)</desc>
+    <episode-num>T7 Ep. 6</episode-num>
+  </programme>
+  <programme start="20181013145800 +0100" stop="20181013150000 +0100" channel="JIMJAM">
+    <title lang="pt">O Meu Universo</title>
+    <desc lang="pt">\u0027O Meu Universo\u0027 explora o espaço pela perspectiva de uma criança, através de um conjunto de pequenos blocos educacionais repletos de belas imagens e factos científicos. Cada episódio começa com uma criança a descrever o seu planeta ou estrela (ou outra coisa qualquer que exista no espaço) preferida(n)</desc>
+    <episode-num>T1 Ep. 17</episode-num>
+  </programme>
+  <programme start="20181013150000 +0100" stop="20181013151000 +0100" channel="JIMJAM">
+    <title lang="pt">Chuggington</title>
+    <episode-num>T2 Ep. 16</episode-num>
+  </programme>
+  <programme start="20181013151000 +0100" stop="20181013151500 +0100" channel="JIMJAM">
+    <title lang="pt">Chuggington Em Busca Do Crachá</title>
+    <episode-num>T1 Ep. 5</episode-num>
+  </programme>
+  <programme start="20181013151500 +0100" stop="20181013152000 +0100" channel="JIMJAM">
+    <title lang="pt">Chuggington Em Busca Do Crachá</title>
+    <episode-num>T1 Ep. 6</episode-num>
+  </programme>
+  <programme start="20181013152000 +0100" stop="20181013153100 +0100" channel="JIMJAM">
+    <title lang="pt">Dot.</title>
+    <episode-num>T1 Ep. 42</episode-num>
+  </programme>
+  <programme start="20181013153100 +0100" stop="20181013155500 +0100" channel="JIMJAM">
+    <title lang="pt">Viva o Óscar!</title>
+    <episode-num>T1 Ep. 16</episode-num>
+  </programme>
+  <programme start="20181013155500 +0100" stop="20181013160500 +0100" channel="JIMJAM">
+    <title lang="pt">Messy Vai A Okido</title>
+    <desc lang="pt">O adorável monstrinho Messy decide procura uma resposta para a sua pergunta em Okido. Acompanha as aventuras do curioso Messy, pelas ruas de Okido(n)</desc>
+    <episode-num>T1 Ep. 42</episode-num>
+  </programme>
+  <programme start="20181013160500 +0100" stop="20181013170500 +0100" channel="JIMJAM">
+    <title lang="pt">Bob O Construtor: Férias No Oeste</title>
+  </programme>
+  <programme start="20181013170500 +0100" stop="20181013171200 +0100" channel="JIMJAM">
+    <title lang="pt">Aprende Com O Timmy</title>
+    <episode-num>T1 Ep. 18</episode-num>
+  </programme>
+  <programme start="20181013171200 +0100" stop="20181013173600 +0100" channel="JIMJAM">
+    <title lang="pt">Popples</title>
+    <episode-num>T1 Ep. 5</episode-num>
+  </programme>
+  <programme start="20181013173600 +0100" stop="20181013180000 +0100" channel="JIMJAM">
+    <title lang="pt">Popples</title>
+    <episode-num>T1 Ep. 6</episode-num>
+  </programme>
+  <programme start="20181013180000 +0100" stop="20181013181000 +0100" channel="JIMJAM">
+    <title lang="pt">O Bombeiro Sam</title>
+    <desc lang="pt">O Bombeiro Sam está sempre metido em emocionantes histórias de salvamento. Os incêndios têm de ser apagados, os gatos têm de ser resgatados das árvores, entre muitas outras aventuras. Felizmente, Sam está sempre pronto a ajudar(n)</desc>
+    <episode-num>T9 Ep. 11</episode-num>
+  </programme>
+  <programme start="20181013181000 +0100" stop="20181013182000 +0100" channel="JIMJAM">
+    <title lang="pt">O Bombeiro Sam</title>
+    <episode-num>T9 Ep. 12</episode-num>
+  </programme>
+  <programme start="20181013182000 +0100" stop="20181013183000 +0100" channel="JIMJAM">
+    <title lang="pt">Bob O Construtor</title>
+    <desc lang="pt">Da construção à escavação, Bob, o Construtor , e a sua equipa de máquinas estão sempre prontos a enfrentar novos projetos. À medida que vão trabalhando, demonstram o poder do pensamento positivo e do trabalho em equipa para resolver problemas(n)</desc>
+    <episode-num>T9 Ep. 3</episode-num>
+  </programme>
+  <programme start="20181013183000 +0100" stop="20181013184100 +0100" channel="JIMJAM">
+    <title lang="pt">Aí Vem O Noddy</title>
+    <episode-num>T1 Ep. 83</episode-num>
+  </programme>
+  <programme start="20181013184100 +0100" stop="20181013185200 +0100" channel="JIMJAM">
+    <title lang="pt">Aí Vem O Noddy</title>
+    <episode-num>T1 Ep. 84</episode-num>
+  </programme>
+  <programme start="20181013185200 +0100" stop="20181013190000 +0100" channel="JIMJAM">
+    <title lang="pt">Os Trigémeos</title>
+    <episode-num>T1 Ep. 42</episode-num>
+  </programme>
+  <programme start="20181013190000 +0100" stop="20181013191000 +0100" channel="JIMJAM">
+    <title lang="pt">Chuggington</title>
+    <episode-num>T2 Ep. 15</episode-num>
+  </programme>
+  <programme start="20181013191000 +0100" stop="20181013191500 +0100" channel="JIMJAM">
+    <title lang="pt">Chuggington Em Busca Do Crachá</title>
+    <episode-num>T1 Ep. 3</episode-num>
+  </programme>
+  <programme start="20181013191500 +0100" stop="20181013192000 +0100" channel="JIMJAM">
+    <title lang="pt">Chuggington Em Busca Do Crachá</title>
+    <episode-num>T1 Ep. 4</episode-num>
+  </programme>
+  <programme start="20181013192000 +0100" stop="20181013193100 +0100" channel="JIMJAM">
+    <title lang="pt">Dot.</title>
+    <episode-num>T1 Ep. 41</episode-num>
+  </programme>
+  <programme start="20181013193100 +0100" stop="20181013195400 +0100" channel="JIMJAM">
+    <title lang="pt">Viva o Óscar!</title>
+    <episode-num>T1 Ep. 15</episode-num>
+  </programme>
+  <programme start="20181013195400 +0100" stop="20181013200500 +0100" channel="JIMJAM">
+    <title lang="pt">Messy Vai A Okido</title>
+    <desc lang="pt">O adorável monstrinho Messy decide procura uma resposta para a sua pergunta em Okido. Acompanha as aventuras do curioso Messy, pelas ruas de Okido(n)</desc>
+    <episode-num>T1 Ep. 41</episode-num>
+  </programme>
+  <programme start="20181013200500 +0100" stop="20181013201600 +0100" channel="JIMJAM">
+    <title lang="pt">Ruff Ruff, Tweet e Dave</title>
+    <desc lang="pt">Ruff-Ruff é um cachorrinho, Tweet é um passarinho fofinho e Dave é um desembaraçado panda azul. Junta-te a eles e a seu amigo Hatty, o Hamster, para viver mil aventuras em locais fantásticos(n)</desc>
+    <episode-num>T1 Ep. 29</episode-num>
+  </programme>
+  <programme start="20181013201600 +0100" stop="20181013202700 +0100" channel="JIMJAM">
+    <title lang="pt">Ruff Ruff, Tweet e Dave</title>
+    <desc lang="pt">Ruff-Ruff é um cachorrinho, Tweet é um passarinho fofinho e Dave é um desembaraçado panda azul. Junta-te a eles e a seu amigo Hatty, o Hamster, para viver mil aventuras em locais fantásticos(n)</desc>
+    <episode-num>T1 Ep. 30</episode-num>
+  </programme>
+  <programme start="20181013202700 +0100" stop="20181013203800 +0100" channel="JIMJAM">
+    <title lang="pt">Aí Vem O Noddy</title>
+    <episode-num>T1 Ep. 41</episode-num>
+  </programme>
+  <programme start="20181013203800 +0100" stop="20181013205000 +0100" channel="JIMJAM">
+    <title lang="pt">Dot.</title>
+    <episode-num>T1 Ep. 40</episode-num>
+  </programme>
+  <programme start="20181013205000 +0100" stop="20181013210100 +0100" channel="JIMJAM">
+    <title lang="pt">Adivinha o Quanto Gosto de Ti</title>
+    <desc lang="pt">Esta é a história de duas lebres castanhas, uma Grande e uma Pequena. A Pequena Lebre Castanha pergunta à Grande Lebre Castanha: “Adivinha o quanto gosto de ti?” e o programa continua com as duas a tentarem encontrar medidas cada vez maiores para quantificar o amor que sentem uma pela outra de modo a responderem à questão(n)</desc>
+    <episode-num>T1 Ep. 29</episode-num>
+  </programme>
+  <programme start="20181013210100 +0100" stop="20181013211200 +0100" channel="JIMJAM">
+    <title lang="pt">Adivinha o Quanto Gosto de Ti</title>
+    <desc lang="pt">Esta é a história de duas lebres castanhas, uma Grande e uma Pequena. A Pequena Lebre Castanha pergunta à Grande Lebre Castanha: “Adivinha o quanto gosto de ti?” e o programa continua com as duas a tentarem encontrar medidas cada vez maiores para quantificar o amor que sentem uma pela outra de modo a responderem à questão(n)</desc>
+    <episode-num>T1 Ep. 30</episode-num>
+  </programme>
+  <programme start="20181013211200 +0100" stop="20181013213600 +0100" channel="JIMJAM">
+    <title lang="pt">Popples</title>
+    <episode-num>T1 Ep. 3</episode-num>
+  </programme>
+  <programme start="20181013213600 +0100" stop="20181013220000 +0100" channel="JIMJAM">
+    <title lang="pt">Popples</title>
+    <episode-num>T1 Ep. 4</episode-num>
+  </programme>
+  <programme start="20181013220000 +0100" stop="20181013221000 +0100" channel="JIMJAM">
+    <title lang="pt">Kipper</title>
+    <desc lang="pt">Kipper é uma criança hiperativa com muita imaginação, que delicia as crianças com suas travessuras adoráveis e charme inesquecível. A sua mente reflete a criança com todas as suas perguntas. Kipper está sempre no caminho da aventura com ajuda dos seus amigos: Tiger, Pig e Arnold(n)</desc>
+    <episode-num>T1 Ep. 3</episode-num>
+  </programme>
+  <programme start="20181013221000 +0100" stop="20181013222000 +0100" channel="JIMJAM">
+    <title lang="pt">Kipper</title>
+    <desc lang="pt">Kipper é uma criança hiperativa com muita imaginação, que delicia as crianças com suas travessuras adoráveis e charme inesquecível. A sua mente reflete a criança com todas as suas perguntas. Kipper está sempre no caminho da aventura com ajuda dos seus amigos: Tiger, Pig e Arnold(n)</desc>
+    <episode-num>T1 Ep. 4</episode-num>
+  </programme>
+  <programme start="20181013222000 +0100" stop="20181013223000 +0100" channel="JIMJAM">
+    <title lang="pt">Thomas E Os Seus Amigos</title>
+    <desc lang="pt">Thomas e seus amigos convidam as crianças a entrar num mundo de imaginação através dos carris dos comboios(n)</desc>
+    <episode-num>T9 Ep. 1</episode-num>
+  </programme>
+  <programme start="20181013223000 +0100" stop="20181013224000 +0100" channel="JIMJAM">
+    <title lang="pt">Thomas E Os Seus Amigos</title>
+    <desc lang="pt">Thomas e seus amigos convidam as crianças a entrar num mundo de imaginação através dos carris dos comboios(n)</desc>
+    <episode-num>T9 Ep. 2</episode-num>
+  </programme>
+  <programme start="20181013224000 +0100" stop="20181013225000 +0100" channel="JIMJAM">
+    <title lang="pt">O Bombeiro Sam</title>
+    <episode-num>T9 Ep. 9</episode-num>
+  </programme>
+  <programme start="20181013225000 +0100" stop="20181013230000 +0100" channel="JIMJAM">
+    <title lang="pt">O Bombeiro Sam</title>
+    <episode-num>T9 Ep. 10</episode-num>
+  </programme>
+  <programme start="20181013230000 +0100" stop="20181013230500 +0100" channel="JIMJAM">
+    <title lang="pt">Badanamu TV Show (ABC)</title>
+    <episode-num>T1 Ep. 7</episode-num>
+  </programme>
+  <programme start="20181013230500 +0100" stop="20181013230700 +0100" channel="JIMJAM">
+    <title lang="pt">Badanamu Nursery Rhymes</title>
+    <episode-num>T1 Ep. 19</episode-num>
+  </programme>
+  <programme start="20181013230700 +0100" stop="20181013231400 +0100" channel="JIMJAM">
+    <title lang="pt">Badanamu Talk</title>
+    <episode-num>T1 Ep. 7</episode-num>
+  </programme>
+  <programme start="20181013231400 +0100" stop="20181013231600 +0100" channel="JIMJAM">
+    <title lang="pt">Badanamu Pop</title>
+    <episode-num>T1 Ep. 22</episode-num>
+  </programme>
+  <programme start="20181013231600 +0100" stop="20181013231800 +0100" channel="JIMJAM">
+    <title lang="pt">Aprende Com O Noddy</title>
+    <episode-num>T1 Ep. 25</episode-num>
+  </programme>
+  <programme start="20181013231800 +0100" stop="20181013232000 +0100" channel="JIMJAM">
+    <title lang="pt">Aprende Com O Noddy</title>
+    <episode-num>T1 Ep. 26</episode-num>
+  </programme>
+  <programme start="20181013232000 +0100" stop="20181013232500 +0100" channel="JIMJAM">
+    <title lang="pt">Aprende Com O Timmy</title>
+    <episode-num>T1 Ep. 3</episode-num>
+  </programme>
+  <programme start="20181013232500 +0100" stop="20181013233100 +0100" channel="JIMJAM">
+    <title lang="pt">Aprende Com O Timmy</title>
+    <episode-num>T1 Ep. 4</episode-num>
+  </programme>
+  <programme start="20181013233100 +0100" stop="20181013234200 +0100" channel="JIMJAM">
+    <title lang="pt">Messy Vai A Okido</title>
+    <desc lang="pt">O adorável monstrinho Messy decide procura uma resposta para a sua pergunta em Okido. Acompanha as aventuras do curioso Messy, pelas ruas de Okido(n)</desc>
+    <episode-num>T1 Ep. 6</episode-num>
+  </programme>
+  <programme start="20181013234200 +0100" stop="20181013234800 +0100" channel="JIMJAM">
+    <title lang="pt">Formas</title>
+    <desc lang="pt">Em Shapes as fábulas famosas são trazidas à vida usando caracteres animais criados a partir de dezenas de formas diferentes(n)</desc>
+    <episode-num>T1 Ep. 39</episode-num>
+  </programme>
+  <programme start="20181013234800 +0100" stop="20181013235400 +0100" channel="JIMJAM">
+    <title lang="pt">Formas</title>
+    <desc lang="pt">Em Shapes as fábulas famosas são trazidas à vida usando caracteres animais criados a partir de dezenas de formas diferentes(n)</desc>
+    <episode-num>T1 Ep. 1</episode-num>
+  </programme>
+  <programme start="20181013235400 +0100" stop="20181014000000 +0100" channel="JIMJAM">
+    <title lang="pt">A Grande Descoberta</title>
+    <desc lang="pt">Este programa segue Hugo, cujo apetite pelo pensamento crítico encoraja os mais pequenos a questionar o mundo que os rodeia(n)</desc>
+    <episode-num>T1 Ep. 40</episode-num>
+  </programme>
+  <programme start="20181014000000 +0100" stop="20181014001000 +0100" channel="JIMJAM">
+    <title lang="pt">O Bombeiro Sam</title>
+    <episode-num>T9 Ep. 9</episode-num>
+  </programme>
+  <programme start="20181014001000 +0100" stop="20181014002000 +0100" channel="JIMJAM">
+    <title lang="pt">O Bombeiro Sam</title>
+    <episode-num>T9 Ep. 10</episode-num>
+  </programme>
+  <programme start="20181014002000 +0100" stop="20181014003000 +0100" channel="JIMJAM">
+    <title lang="pt">Bob O Construtor</title>
+    <desc lang="pt">Da construção à escavação, Bob, o Construtor , e a sua equipa de máquinas estão sempre prontos a enfrentar novos projetos. À medida que vão trabalhando, demonstram o poder do pensamento positivo e do trabalho em equipa para resolver problemas(n)</desc>
+    <episode-num>T9 Ep. 1</episode-num>
+  </programme>
+  <programme start="20181014003000 +0100" stop="20181014004100 +0100" channel="JIMJAM">
+    <title lang="pt">Aí Vem O Noddy</title>
+    <episode-num>T1 Ep. 81</episode-num>
+  </programme>
+  <programme start="20181014004100 +0100" stop="20181014005200 +0100" channel="JIMJAM">
+    <title lang="pt">Aí Vem O Noddy</title>
+    <episode-num>T1 Ep. 82</episode-num>
+  </programme>
+  <programme start="20181014005200 +0100" stop="20181014010000 +0100" channel="JIMJAM">
+    <title lang="pt">Os Trigémeos</title>
+    <episode-num>T1 Ep. 41</episode-num>
+  </programme>
+  <programme start="20181014010000 +0100" stop="20181014011000 +0100" channel="JIMJAM">
+    <title lang="pt">Chuggington</title>
+    <episode-num>T2 Ep. 14</episode-num>
+  </programme>
+  <programme start="20181014011000 +0100" stop="20181014011500 +0100" channel="JIMJAM">
+    <title lang="pt">Chuggington Em Busca Do Crachá</title>
+    <episode-num>T1 Ep. 1</episode-num>
+  </programme>
+  <programme start="20181014011500 +0100" stop="20181014012000 +0100" channel="JIMJAM">
+    <title lang="pt">Chuggington Em Busca Do Crachá</title>
+    <episode-num>T1 Ep. 2</episode-num>
+  </programme>
+  <programme start="20181014012000 +0100" stop="20181014013100 +0100" channel="JIMJAM">
+    <title lang="pt">Dot.</title>
+    <episode-num>T1 Ep. 40</episode-num>
+  </programme>
+  <programme start="20181014013100 +0100" stop="20181014015400 +0100" channel="JIMJAM">
+    <title lang="pt">Viva o Óscar!</title>
+    <episode-num>T1 Ep. 14</episode-num>
+  </programme>
+  <programme start="20181014015400 +0100" stop="20181014020500 +0100" channel="JIMJAM">
+    <title lang="pt">Messy Vai A Okido</title>
+    <desc lang="pt">O adorável monstrinho Messy decide procura uma resposta para a sua pergunta em Okido. Acompanha as aventuras do curioso Messy, pelas ruas de Okido(n)</desc>
+    <episode-num>T1 Ep. 40</episode-num>
+  </programme>
+  <programme start="20181014020500 +0100" stop="20181014021600 +0100" channel="JIMJAM">
+    <title lang="pt">Ruff Ruff, Tweet e Dave</title>
+    <desc lang="pt">Ruff-Ruff é um cachorrinho, Tweet é um passarinho fofinho e Dave é um desembaraçado panda azul. Junta-te a eles e a seu amigo Hatty, o Hamster, para viver mil aventuras em locais fantásticos(n)</desc>
+    <episode-num>T1 Ep. 27</episode-num>
+  </programme>
+  <programme start="20181014021600 +0100" stop="20181014022700 +0100" channel="JIMJAM">
+    <title lang="pt">Ruff Ruff, Tweet e Dave</title>
+    <desc lang="pt">Ruff-Ruff é um cachorrinho, Tweet é um passarinho fofinho e Dave é um desembaraçado panda azul. Junta-te a eles e a seu amigo Hatty, o Hamster, para viver mil aventuras em locais fantásticos(n)</desc>
+    <episode-num>T1 Ep. 28</episode-num>
+  </programme>
+  <programme start="20181014022700 +0100" stop="20181014023800 +0100" channel="JIMJAM">
+    <title lang="pt">Aí Vem O Noddy</title>
+    <episode-num>T1 Ep. 40</episode-num>
+  </programme>
+  <programme start="20181014023800 +0100" stop="20181014025000 +0100" channel="JIMJAM">
+    <title lang="pt">Dot.</title>
+    <episode-num>T1 Ep. 40</episode-num>
+  </programme>
+  <programme start="20181014025000 +0100" stop="20181014030100 +0100" channel="JIMJAM">
+    <title lang="pt">Adivinha o Quanto Gosto de Ti</title>
+    <desc lang="pt">Esta é a história de duas lebres castanhas, uma Grande e uma Pequena. A Pequena Lebre Castanha pergunta à Grande Lebre Castanha: “Adivinha o quanto gosto de ti?” e o programa continua com as duas a tentarem encontrar medidas cada vez maiores para quantificar o amor que sentem uma pela outra de modo a responderem à questão(n)</desc>
+    <episode-num>T1 Ep. 27</episode-num>
+  </programme>
+  <programme start="20181014030100 +0100" stop="20181014031200 +0100" channel="JIMJAM">
+    <title lang="pt">Adivinha o Quanto Gosto de Ti</title>
+    <desc lang="pt">Esta é a história de duas lebres castanhas, uma Grande e uma Pequena. A Pequena Lebre Castanha pergunta à Grande Lebre Castanha: “Adivinha o quanto gosto de ti?” e o programa continua com as duas a tentarem encontrar medidas cada vez maiores para quantificar o amor que sentem uma pela outra de modo a responderem à questão(n)</desc>
+    <episode-num>T1 Ep. 28</episode-num>
+  </programme>
+  <programme start="20181014031200 +0100" stop="20181014033600 +0100" channel="JIMJAM">
+    <title lang="pt">Popples</title>
+    <episode-num>T1 Ep. 1</episode-num>
+  </programme>
+  <programme start="20181014033600 +0100" stop="20181014040000 +0100" channel="JIMJAM">
+    <title lang="pt">Popples</title>
+    <episode-num>T1 Ep. 2</episode-num>
+  </programme>
+  <programme start="20181014040000 +0100" stop="20181014040600 +0100" channel="JIMJAM">
+    <title lang="pt">A Grande Descoberta</title>
+    <desc lang="pt">Este programa segue Hugo, cujo apetite pelo pensamento crítico encoraja os mais pequenos a questionar o mundo que os rodeia(n)</desc>
+    <episode-num>T1 Ep. 40</episode-num>
+  </programme>
+  <programme start="20181014040600 +0100" stop="20181014041300 +0100" channel="JIMJAM">
+    <title lang="pt">Formas</title>
+    <desc lang="pt">Em Shapes as fábulas famosas são trazidas à vida usando caracteres animais criados a partir de dezenas de formas diferentes(n)</desc>
+    <episode-num>T1 Ep. 39</episode-num>
+  </programme>
+  <programme start="20181014041300 +0100" stop="20181014042000 +0100" channel="JIMJAM">
+    <title lang="pt">Formas</title>
+    <desc lang="pt">Em Shapes as fábulas famosas são trazidas à vida usando caracteres animais criados a partir de dezenas de formas diferentes(n)</desc>
+    <episode-num>T1 Ep. 1</episode-num>
+  </programme>
+  <programme start="20181014042000 +0100" stop="20181014043200 +0100" channel="JIMJAM">
+    <title lang="pt">Messy Vai A Okido</title>
+    <desc lang="pt">O adorável monstrinho Messy decide procura uma resposta para a sua pergunta em Okido. Acompanha as aventuras do curioso Messy, pelas ruas de Okido(n)</desc>
+    <episode-num>T1 Ep. 40</episode-num>
+  </programme>
+  <programme start="20181014043200 +0100" stop="20181014043700 +0100" channel="JIMJAM">
+    <title lang="pt">Aprende Com O Timmy</title>
+    <episode-num>T1 Ep. 14</episode-num>
+  </programme>
+  <programme start="20181014043700 +0100" stop="20181014044000 +0100" channel="JIMJAM">
+    <title lang="pt">Aprende Com O Noddy</title>
+    <episode-num>T1 Ep. 40</episode-num>
+  </programme>
+  <programme start="20181014044000 +0100" stop="20181014044200 +0100" channel="JIMJAM">
+    <title lang="pt">Aprende Com O Noddy</title>
+    <episode-num>T1 Ep. 23</episode-num>
+  </programme>
+  <programme start="20181014044200 +0100" stop="20181014044400 +0100" channel="JIMJAM">
+    <title lang="pt">Aprende Com O Noddy</title>
+    <episode-num>T1 Ep. 24</episode-num>
+  </programme>
+  <programme start="20181014044400 +0100" stop="20181014044900 +0100" channel="JIMJAM">
+    <title lang="pt">Badanamu TV Show (ABC)</title>
+    <episode-num>T1 Ep. 6</episode-num>
+  </programme>
+  <programme start="20181014044900 +0100" stop="20181014045100 +0100" channel="JIMJAM">
+    <title lang="pt">Badanamu Nursery Rhymes</title>
+    <episode-num>T1 Ep. 18</episode-num>
+  </programme>
+  <programme start="20181014045100 +0100" stop="20181014045800 +0100" channel="JIMJAM">
+    <title lang="pt">Badanamu Talk</title>
+    <episode-num>T1 Ep. 6</episode-num>
+  </programme>
+  <programme start="20181014045800 +0100" stop="20181014050000 +0100" channel="JIMJAM">
+    <title lang="pt">Badanamu Pop</title>
+    <episode-num>T1 Ep. 21</episode-num>
+  </programme>
+  <programme start="20181014050000 +0100" stop="20181014051000 +0100" channel="JIMJAM">
+    <title lang="pt">Kipper</title>
+    <desc lang="pt">Kipper é uma criança hiperativa com muita imaginação, que delicia as crianças com suas travessuras adoráveis e charme inesquecível. A sua mente reflete a criança com todas as suas perguntas. Kipper está sempre no caminho da aventura com ajuda dos seus amigos: Tiger, Pig e Arnold(n)</desc>
+    <episode-num>T1 Ep. 9</episode-num>
+  </programme>
+  <programme start="20181014051000 +0100" stop="20181014052000 +0100" channel="JIMJAM">
+    <title lang="pt">Kipper</title>
+    <desc lang="pt">Kipper é uma criança hiperativa com muita imaginação, que delicia as crianças com suas travessuras adoráveis e charme inesquecível. A sua mente reflete a criança com todas as suas perguntas. Kipper está sempre no caminho da aventura com ajuda dos seus amigos: Tiger, Pig e Arnold(n)</desc>
+    <episode-num>T1 Ep. 10</episode-num>
+  </programme>
+  <programme start="20181014052000 +0100" stop="20181014053000 +0100" channel="JIMJAM">
+    <title lang="pt">Thomas E Os Seus Amigos</title>
+    <desc lang="pt">Thomas e seus amigos convidam as crianças a entrar num mundo de imaginação através dos carris dos comboios(n)</desc>
+    <episode-num>T10 Ep. 5</episode-num>
+  </programme>
+  <programme start="20181014053000 +0100" stop="20181014054000 +0100" channel="JIMJAM">
+    <title lang="pt">Thomas E Os Seus Amigos</title>
+    <desc lang="pt">Thomas e seus amigos convidam as crianças a entrar num mundo de imaginação através dos carris dos comboios(n)</desc>
+    <episode-num>T10 Ep. 6</episode-num>
+  </programme>
+  <programme start="20181014054000 +0100" stop="20181014055000 +0100" channel="JIMJAM">
+    <title lang="pt">O Bombeiro Sam</title>
+    <episode-num>T9 Ep. 15</episode-num>
+  </programme>
+  <programme start="20181014055000 +0100" stop="20181014060000 +0100" channel="JIMJAM">
+    <title lang="pt">O Bombeiro Sam</title>
+    <episode-num>T9 Ep. 16</episode-num>
+  </programme>
+  <programme start="20181014060000 +0100" stop="20181014061000 +0100" channel="JIMJAM">
+    <title lang="pt">Chuggington</title>
+    <episode-num>T2 Ep. 18</episode-num>
+  </programme>
+  <programme start="20181014061000 +0100" stop="20181014061500 +0100" channel="JIMJAM">
+    <title lang="pt">Chuggington Em Busca Do Crachá</title>
+    <episode-num>T1 Ep. 9</episode-num>
+  </programme>
+  <programme start="20181014061500 +0100" stop="20181014062000 +0100" channel="JIMJAM">
+    <title lang="pt">Chuggington Em Busca Do Crachá</title>
+    <episode-num>T1 Ep. 10</episode-num>
+  </programme>
+  <programme start="20181014062000 +0100" stop="20181014063100 +0100" channel="JIMJAM">
+    <title lang="pt">Dot.</title>
+    <episode-num>T1 Ep. 44</episode-num>
+  </programme>
+  <programme start="20181014063100 +0100" stop="20181014065400 +0100" channel="JIMJAM">
+    <title lang="pt">Viva o Óscar!</title>
+    <episode-num>T1 Ep. 18</episode-num>
+  </programme>
+  <programme start="20181014065400 +0100" stop="20181014070500 +0100" channel="JIMJAM">
+    <title lang="pt">Messy Vai A Okido</title>
+    <desc lang="pt">O adorável monstrinho Messy decide procura uma resposta para a sua pergunta em Okido. Acompanha as aventuras do curioso Messy, pelas ruas de Okido(n)</desc>
+    <episode-num>T1 Ep. 44</episode-num>
+  </programme>
+  <programme start="20181014070500 +0100" stop="20181014071600 +0100" channel="JIMJAM">
+    <title lang="pt">Ruff Ruff, Tweet e Dave</title>
+    <desc lang="pt">Ruff-Ruff é um cachorrinho, Tweet é um passarinho fofinho e Dave é um desembaraçado panda azul. Junta-te a eles e a seu amigo Hatty, o Hamster, para viver mil aventuras em locais fantásticos(n)</desc>
+    <episode-num>T1 Ep. 35</episode-num>
+  </programme>
+  <programme start="20181014071600 +0100" stop="20181014072700 +0100" channel="JIMJAM">
+    <title lang="pt">Ruff Ruff, Tweet e Dave</title>
+    <desc lang="pt">Ruff-Ruff é um cachorrinho, Tweet é um passarinho fofinho e Dave é um desembaraçado panda azul. Junta-te a eles e a seu amigo Hatty, o Hamster, para viver mil aventuras em locais fantásticos(n)</desc>
+    <episode-num>T1 Ep. 36</episode-num>
+  </programme>
+  <programme start="20181014072700 +0100" stop="20181014073800 +0100" channel="JIMJAM">
+    <title lang="pt">Aí Vem O Noddy</title>
+    <episode-num>T1 Ep. 7</episode-num>
+  </programme>
+  <programme start="20181014073800 +0100" stop="20181014074900 +0100" channel="JIMJAM">
+    <title lang="pt">Aí Vem O Noddy</title>
+    <episode-num>T1 Ep. 8</episode-num>
+  </programme>
+  <programme start="20181014074900 +0100" stop="20181014075900 +0100" channel="JIMJAM">
+    <title lang="pt">A Hora Do Timmy</title>
+    <episode-num>T1 Ep. 10</episode-num>
+  </programme>
+  <programme start="20181014075900 +0100" stop="20181014080900 +0100" channel="JIMJAM">
+    <title lang="pt">A Hora Do Timmy</title>
+    <episode-num>T1 Ep. 11</episode-num>
+  </programme>
+  <programme start="20181014080900 +0100" stop="20181014082000 +0100" channel="JIMJAM">
+    <title lang="pt">A Hora Do Timmy</title>
+    <episode-num>T1 Ep. 12</episode-num>
+  </programme>
+  <programme start="20181014082000 +0100" stop="20181014083100 +0100" channel="JIMJAM">
+    <title lang="pt">Messy Vai A Okido</title>
+    <desc lang="pt">O adorável monstrinho Messy decide procura uma resposta para a sua pergunta em Okido. Acompanha as aventuras do curioso Messy, pelas ruas de Okido(n)</desc>
+    <episode-num>T1 Ep. 40</episode-num>
+  </programme>
+  <programme start="20181014083100 +0100" stop="20181014084200 +0100" channel="JIMJAM">
+    <title lang="pt">Messy Vai A Okido</title>
+    <desc lang="pt">O adorável monstrinho Messy decide procura uma resposta para a sua pergunta em Okido. Acompanha as aventuras do curioso Messy, pelas ruas de Okido(n)</desc>
+    <episode-num>T1 Ep. 41</episode-num>
+  </programme>
+  <programme start="20181014084200 +0100" stop="20181014085300 +0100" channel="JIMJAM">
+    <title lang="pt">Messy Vai A Okido</title>
+    <desc lang="pt">O adorável monstrinho Messy decide procura uma resposta para a sua pergunta em Okido. Acompanha as aventuras do curioso Messy, pelas ruas de Okido(n)</desc>
+    <episode-num>T1 Ep. 42</episode-num>
+  </programme>
+  <programme start="20181014085300 +0100" stop="20181014085700 +0100" channel="JIMJAM">
+    <title lang="pt">Animanimals</title>
+    <episode-num>T1 Ep. 1</episode-num>
+  </programme>
+  <programme start="20181014085700 +0100" stop="20181014090000 +0100" channel="JIMJAM">
+    <title lang="pt">Animanimals</title>
+    <episode-num>T1 Ep. 2</episode-num>
+  </programme>
+  <programme start="20181014090000 +0100" stop="20181014090500 +0100" channel="JIMJAM">
+    <title lang="pt">Badanamu TV Show (ABC)</title>
+    <episode-num>T1 Ep. 21</episode-num>
+  </programme>
+  <programme start="20181014090500 +0100" stop="20181014090700 +0100" channel="JIMJAM">
+    <title lang="pt">Badanamu Nursery Rhymes</title>
+    <episode-num>T1 Ep. 9</episode-num>
+  </programme>
+  <programme start="20181014090700 +0100" stop="20181014091400 +0100" channel="JIMJAM">
+    <title lang="pt">Badanamu Talk</title>
+    <episode-num>T1 Ep. 10</episode-num>
+  </programme>
+  <programme start="20181014091400 +0100" stop="20181014091600 +0100" channel="JIMJAM">
+    <title lang="pt">Badanamu Pop</title>
+    <episode-num>T1 Ep. 27</episode-num>
+  </programme>
+  <programme start="20181014091600 +0100" stop="20181014091800 +0100" channel="JIMJAM">
+    <title lang="pt">Aprende Com O Noddy</title>
+    <episode-num>T1 Ep. 28</episode-num>
+  </programme>
+  <programme start="20181014091800 +0100" stop="20181014092000 +0100" channel="JIMJAM">
+    <title lang="pt">Aprende Com O Noddy</title>
+    <episode-num>T1 Ep. 87</episode-num>
+  </programme>
+  <programme start="20181014092000 +0100" stop="20181014092500 +0100" channel="JIMJAM">
+    <title lang="pt">Aprende Com O Timmy</title>
+    <episode-num>T1 Ep. 9</episode-num>
+  </programme>
+  <programme start="20181014092500 +0100" stop="20181014093000 +0100" channel="JIMJAM">
+    <title lang="pt">Aprende Com O Timmy</title>
+    <episode-num>T1 Ep. 10</episode-num>
+  </programme>
+  <programme start="20181014093000 +0100" stop="20181014103300 +0100" channel="JIMJAM">
+    <title lang="pt">Bob O Construtor: Comboios E Casas Nas Árvores</title>
+  </programme>
+  <programme start="20181014103300 +0100" stop="20181014104000 +0100" channel="JIMJAM">
+    <title lang="pt">Pingu</title>
+    <episode-num>T5 Ep. 3</episode-num>
+  </programme>
+  <programme start="20181014104000 +0100" stop="20181014105000 +0100" channel="JIMJAM">
+    <title lang="pt">O Bombeiro Sam</title>
+    <episode-num>T9 Ep. 13</episode-num>
+  </programme>
+  <programme start="20181014105000 +0100" stop="20181014110000 +0100" channel="JIMJAM">
+    <title lang="pt">O Bombeiro Sam</title>
+    <episode-num>T9 Ep. 14</episode-num>
+  </programme>
+  <programme start="20181014110000 +0100" stop="20181014110600 +0100" channel="JIMJAM">
+    <title lang="pt">Pingu</title>
+    <episode-num>T5 Ep. 17</episode-num>
+  </programme>
+  <programme start="20181014110600 +0100" stop="20181014113200 +0100" channel="JIMJAM">
+    <title lang="pt">Barney e os seus Amigos</title>
+    <desc lang="pt">Barney, o dinossauro, dá às crianças a gama de habilidades que elas precisam para crescer(n)</desc>
+    <episode-num>T7 Ep. 7</episode-num>
+  </programme>
+  <programme start="20181014113200 +0100" stop="20181014115800 +0100" channel="JIMJAM">
+    <title lang="pt">Barney e os seus Amigos</title>
+    <desc lang="pt">Barney, o dinossauro, dá às crianças a gama de habilidades que elas precisam para crescer(n)</desc>
+    <episode-num>T7 Ep. 8</episode-num>
+  </programme>
+  <programme start="20181014115800 +0100" stop="20181014120000 +0100" channel="JIMJAM">
+    <title lang="pt">O Meu Universo</title>
+    <desc lang="pt">\u0027O Meu Universo\u0027 explora o espaço pela perspectiva de uma criança, através de um conjunto de pequenos blocos educacionais repletos de belas imagens e factos científicos. Cada episódio começa com uma criança a descrever o seu planeta ou estrela (ou outra coisa qualquer que exista no espaço) preferida(n)</desc>
+    <episode-num>T1 Ep. 18</episode-num>
+  </programme>
+  <programme start="20181014120000 +0100" stop="20181014121000 +0100" channel="JIMJAM">
+    <title lang="pt">O Bombeiro Sam</title>
+    <desc lang="pt">O Bombeiro Sam está sempre metido em emocionantes histórias de salvamento. Os incêndios têm de ser apagados, os gatos têm de ser resgatados das árvores, entre muitas outras aventuras. Felizmente, Sam está sempre pronto a ajudar(n)</desc>
+    <episode-num>T9 Ep. 11</episode-num>
+  </programme>
+  <programme start="20181014121000 +0100" stop="20181014122000 +0100" channel="JIMJAM">
+    <title lang="pt">O Bombeiro Sam</title>
+    <episode-num>T9 Ep. 12</episode-num>
+  </programme>
+  <programme start="20181014122000 +0100" stop="20181014123000 +0100" channel="JIMJAM">
+    <title lang="pt">Bob O Construtor</title>
+    <desc lang="pt">Da construção à escavação, Bob, o Construtor , e a sua equipa de máquinas estão sempre prontos a enfrentar novos projetos. À medida que vão trabalhando, demonstram o poder do pensamento positivo e do trabalho em equipa para resolver problemas(n)</desc>
+    <episode-num>T9 Ep. 5</episode-num>
+  </programme>
+  <programme start="20181014123000 +0100" stop="20181014124100 +0100" channel="JIMJAM">
+    <title lang="pt">Aí Vem O Noddy</title>
+    <episode-num>T1 Ep. 87</episode-num>
+  </programme>
+  <programme start="20181014124100 +0100" stop="20181014125200 +0100" channel="JIMJAM">
+    <title lang="pt">Aí Vem O Noddy</title>
+    <episode-num>T1 Ep. 88</episode-num>
+  </programme>
+  <programme start="20181014125200 +0100" stop="20181014130000 +0100" channel="JIMJAM">
+    <title lang="pt">Os Trigémeos</title>
+    <episode-num>T1 Ep. 44</episode-num>
+  </programme>
+  <programme start="20181014130000 +0100" stop="20181014130500 +0100" channel="JIMJAM">
+    <title lang="pt">Badanamu TV Show (ABC)</title>
+    <episode-num>T1 Ep. 20</episode-num>
+  </programme>
+  <programme start="20181014130500 +0100" stop="20181014130700 +0100" channel="JIMJAM">
+    <title lang="pt">Badanamu Nursery Rhymes</title>
+    <episode-num>T1 Ep. 8</episode-num>
+  </programme>
+  <programme start="20181014130700 +0100" stop="20181014131400 +0100" channel="JIMJAM">
+    <title lang="pt">Badanamu Talk</title>
+    <episode-num>T1 Ep. 8</episode-num>
+  </programme>
+  <programme start="20181014131400 +0100" stop="20181014131600 +0100" channel="JIMJAM">
+    <title lang="pt">Badanamu Pop</title>
+    <episode-num>T1 Ep. 26</episode-num>
+  </programme>
+  <programme start="20181014131600 +0100" stop="20181014131800 +0100" channel="JIMJAM">
+    <title lang="pt">Aprende Com O Noddy</title>
+    <episode-num>T1 Ep. 27</episode-num>
+  </programme>
+  <programme start="20181014131800 +0100" stop="20181014132000 +0100" channel="JIMJAM">
+    <title lang="pt">Aprende Com O Noddy</title>
+    <episode-num>T1 Ep. 36</episode-num>
+  </programme>
+  <programme start="20181014132000 +0100" stop="20181014132500 +0100" channel="JIMJAM">
+    <title lang="pt">Aprende Com O Timmy</title>
+    <episode-num>T1 Ep. 7</episode-num>
+  </programme>
+  <programme start="20181014132500 +0100" stop="20181014133000 +0100" channel="JIMJAM">
+    <title lang="pt">Aprende Com O Timmy</title>
+    <episode-num>T1 Ep. 8</episode-num>
+  </programme>
+  <programme start="20181014133000 +0100" stop="20181014134200 +0100" channel="JIMJAM">
+    <title lang="pt">Messy Vai A Okido</title>
+    <desc lang="pt">O adorável monstrinho Messy decide procura uma resposta para a sua pergunta em Okido. Acompanha as aventuras do curioso Messy, pelas ruas de Okido(n)</desc>
+    <episode-num>T1 Ep. 44</episode-num>
+  </programme>
+  <programme start="20181014134200 +0100" stop="20181014134800 +0100" channel="JIMJAM">
+    <title lang="pt">Formas</title>
+    <desc lang="pt">Em Shapes as fábulas famosas são trazidas à vida usando caracteres animais criados a partir de dezenas de formas diferentes(n)</desc>
+    <episode-num>T1 Ep. 5</episode-num>
+  </programme>
+  <programme start="20181014134800 +0100" stop="20181014135400 +0100" channel="JIMJAM">
+    <title lang="pt">Formas</title>
+    <desc lang="pt">Em Shapes as fábulas famosas são trazidas à vida usando caracteres animais criados a partir de dezenas de formas diferentes(n)</desc>
+    <episode-num>T1 Ep. 6</episode-num>
+  </programme>
+  <programme start="20181014135400 +0100" stop="20181014140000 +0100" channel="JIMJAM">
+    <title lang="pt">A Grande Descoberta</title>
+    <desc lang="pt">Este programa segue Hugo, cujo apetite pelo pensamento crítico encoraja os mais pequenos a questionar o mundo que os rodeia(n)</desc>
+    <episode-num>T1 Ep. 43</episode-num>
+  </programme>
+  <programme start="20181014140000 +0100" stop="20181014140600 +0100" channel="JIMJAM">
+    <title lang="pt">Pingu</title>
+    <episode-num>T5 Ep. 18</episode-num>
+  </programme>
+  <programme start="20181014140600 +0100" stop="20181014143200 +0100" channel="JIMJAM">
+    <title lang="pt">Barney e os seus Amigos</title>
+    <desc lang="pt">Barney, o dinossauro, dá às crianças a gama de habilidades que elas precisam para crescer(n)</desc>
+    <episode-num>T7 Ep. 7</episode-num>
+  </programme>
+  <programme start="20181014143200 +0100" stop="20181014145800 +0100" channel="JIMJAM">
+    <title lang="pt">Barney e os seus Amigos</title>
+    <desc lang="pt">Barney, o dinossauro, dá às crianças a gama de habilidades que elas precisam para crescer(n)</desc>
+    <episode-num>T7 Ep. 8</episode-num>
+  </programme>
+  <programme start="20181014145800 +0100" stop="20181014150000 +0100" channel="JIMJAM">
+    <title lang="pt">O Meu Universo</title>
+    <desc lang="pt">\u0027O Meu Universo\u0027 explora o espaço pela perspectiva de uma criança, através de um conjunto de pequenos blocos educacionais repletos de belas imagens e factos científicos. Cada episódio começa com uma criança a descrever o seu planeta ou estrela (ou outra coisa qualquer que exista no espaço) preferida(n)</desc>
+    <episode-num>T1 Ep. 18</episode-num>
+  </programme>
+  <programme start="20181014150000 +0100" stop="20181014151000 +0100" channel="JIMJAM">
+    <title lang="pt">Chuggington</title>
+    <episode-num>T2 Ep. 17</episode-num>
+  </programme>
+  <programme start="20181014151000 +0100" stop="20181014151500 +0100" channel="JIMJAM">
+    <title lang="pt">Chuggington Em Busca Do Crachá</title>
+    <episode-num>T1 Ep. 7</episode-num>
+  </programme>
+  <programme start="20181014151500 +0100" stop="20181014152000 +0100" channel="JIMJAM">
+    <title lang="pt">Chuggington Em Busca Do Crachá</title>
+    <episode-num>T1 Ep. 8</episode-num>
+  </programme>
+  <programme start="20181014152000 +0100" stop="20181014153100 +0100" channel="JIMJAM">
+    <title lang="pt">Dot.</title>
+    <episode-num>T1 Ep. 43</episode-num>
+  </programme>
+  <programme start="20181014153100 +0100" stop="20181014155500 +0100" channel="JIMJAM">
+    <title lang="pt">Viva o Óscar!</title>
+    <episode-num>T1 Ep. 17</episode-num>
+  </programme>
+  <programme start="20181014155500 +0100" stop="20181014160500 +0100" channel="JIMJAM">
+    <title lang="pt">Messy Vai A Okido</title>
+    <desc lang="pt">O adorável monstrinho Messy decide procura uma resposta para a sua pergunta em Okido. Acompanha as aventuras do curioso Messy, pelas ruas de Okido(n)</desc>
+    <episode-num>T1 Ep. 43</episode-num>
+  </programme>
+  <programme start="20181014160500 +0100" stop="20181014170600 +0100" channel="JIMJAM">
+    <title lang="pt">Bob O Construtor: Comboios E Casas Nas Árvores</title>
+  </programme>
+  <programme start="20181014170600 +0100" stop="20181014171200 +0100" channel="JIMJAM">
+    <title lang="pt">Aprende Com O Timmy</title>
+    <episode-num>T1 Ep. 20</episode-num>
+  </programme>
+  <programme start="20181014171200 +0100" stop="20181014173600 +0100" channel="JIMJAM">
+    <title lang="pt">Popples</title>
+    <episode-num>T1 Ep. 7</episode-num>
+  </programme>
+  <programme start="20181014173600 +0100" stop="20181014180000 +0100" channel="JIMJAM">
+    <title lang="pt">Popples</title>
+    <episode-num>T1 Ep. 8</episode-num>
+  </programme>
+  <programme start="20181014180000 +0100" stop="20181014181000 +0100" channel="JIMJAM">
+    <title lang="pt">O Bombeiro Sam</title>
+    <episode-num>T9 Ep. 13</episode-num>
+  </programme>
+  <programme start="20181014181000 +0100" stop="20181014182000 +0100" channel="JIMJAM">
+    <title lang="pt">O Bombeiro Sam</title>
+    <episode-num>T9 Ep. 14</episode-num>
+  </programme>
+  <programme start="20181014182000 +0100" stop="20181014183000 +0100" channel="JIMJAM">
+    <title lang="pt">Bob O Construtor</title>
+    <desc lang="pt">Da construção à escavação, Bob, o Construtor , e a sua equipa de máquinas estão sempre prontos a enfrentar novos projetos. À medida que vão trabalhando, demonstram o poder do pensamento positivo e do trabalho em equipa para resolver problemas(n)</desc>
+    <episode-num>T9 Ep. 4</episode-num>
+  </programme>
+  <programme start="20181014183000 +0100" stop="20181014184100 +0100" channel="JIMJAM">
+    <title lang="pt">Aí Vem O Noddy</title>
+    <episode-num>T1 Ep. 85</episode-num>
+  </programme>
+  <programme start="20181014184100 +0100" stop="20181014185200 +0100" channel="JIMJAM">
+    <title lang="pt">Aí Vem O Noddy</title>
+    <episode-num>T1 Ep. 86</episode-num>
+  </programme>
+  <programme start="20181014185200 +0100" stop="20181014190000 +0100" channel="JIMJAM">
+    <title lang="pt">Os Trigémeos</title>
+    <episode-num>T1 Ep. 43</episode-num>
+  </programme>
+  <programme start="20181014190000 +0100" stop="20181014191000 +0100" channel="JIMJAM">
+    <title lang="pt">Chuggington</title>
+    <episode-num>T2 Ep. 16</episode-num>
+  </programme>
+  <programme start="20181014191000 +0100" stop="20181014191500 +0100" channel="JIMJAM">
+    <title lang="pt">Chuggington Em Busca Do Crachá</title>
+    <episode-num>T1 Ep. 5</episode-num>
+  </programme>
+  <programme start="20181014191500 +0100" stop="20181014192000 +0100" channel="JIMJAM">
+    <title lang="pt">Chuggington Em Busca Do Crachá</title>
+    <episode-num>T1 Ep. 6</episode-num>
+  </programme>
+  <programme start="20181014192000 +0100" stop="20181014193100 +0100" channel="JIMJAM">
+    <title lang="pt">Dot.</title>
+    <episode-num>T1 Ep. 42</episode-num>
+  </programme>
+  <programme start="20181014193100 +0100" stop="20181014195400 +0100" channel="JIMJAM">
+    <title lang="pt">Viva o Óscar!</title>
+    <episode-num>T1 Ep. 16</episode-num>
+  </programme>
+  <programme start="20181014195400 +0100" stop="20181014200500 +0100" channel="JIMJAM">
+    <title lang="pt">Messy Vai A Okido</title>
+    <desc lang="pt">O adorável monstrinho Messy decide procura uma resposta para a sua pergunta em Okido. Acompanha as aventuras do curioso Messy, pelas ruas de Okido(n)</desc>
+    <episode-num>T1 Ep. 42</episode-num>
+  </programme>
+  <programme start="20181014200500 +0100" stop="20181014201600 +0100" channel="JIMJAM">
+    <title lang="pt">Ruff Ruff, Tweet e Dave</title>
+    <desc lang="pt">Ruff-Ruff é um cachorrinho, Tweet é um passarinho fofinho e Dave é um desembaraçado panda azul. Junta-te a eles e a seu amigo Hatty, o Hamster, para viver mil aventuras em locais fantásticos(n)</desc>
+    <episode-num>T1 Ep. 31</episode-num>
+  </programme>
+  <programme start="20181014201600 +0100" stop="20181014202700 +0100" channel="JIMJAM">
+    <title lang="pt">Ruff Ruff, Tweet e Dave</title>
+    <desc lang="pt">Ruff-Ruff é um cachorrinho, Tweet é um passarinho fofinho e Dave é um desembaraçado panda azul. Junta-te a eles e a seu amigo Hatty, o Hamster, para viver mil aventuras em locais fantásticos(n)</desc>
+    <episode-num>T1 Ep. 32</episode-num>
+  </programme>
+  <programme start="20181014202700 +0100" stop="20181014203800 +0100" channel="JIMJAM">
+    <title lang="pt">Aí Vem O Noddy</title>
+    <episode-num>T1 Ep. 42</episode-num>
+  </programme>
+  <programme start="20181014203800 +0100" stop="20181014205000 +0100" channel="JIMJAM">
+    <title lang="pt">Dot.</title>
+    <episode-num>T1 Ep. 41</episode-num>
+  </programme>
+  <programme start="20181014205000 +0100" stop="20181014210100 +0100" channel="JIMJAM">
+    <title lang="pt">Adivinha o Quanto Gosto de Ti</title>
+    <desc lang="pt">Esta é a história de duas lebres castanhas, uma Grande e uma Pequena. A Pequena Lebre Castanha pergunta à Grande Lebre Castanha: “Adivinha o quanto gosto de ti?” e o programa continua com as duas a tentarem encontrar medidas cada vez maiores para quantificar o amor que sentem uma pela outra de modo a responderem à questão(n)</desc>
+    <episode-num>T1 Ep. 31</episode-num>
+  </programme>
+  <programme start="20181014210100 +0100" stop="20181014211200 +0100" channel="JIMJAM">
+    <title lang="pt">Adivinha o Quanto Gosto de Ti</title>
+    <desc lang="pt">Esta é a história de duas lebres castanhas, uma Grande e uma Pequena. A Pequena Lebre Castanha pergunta à Grande Lebre Castanha: “Adivinha o quanto gosto de ti?” e o programa continua com as duas a tentarem encontrar medidas cada vez maiores para quantificar o amor que sentem uma pela outra de modo a responderem à questão(n)</desc>
+    <episode-num>T1 Ep. 32</episode-num>
+  </programme>
+  <programme start="20181014211200 +0100" stop="20181014213600 +0100" channel="JIMJAM">
+    <title lang="pt">Popples</title>
+    <episode-num>T1 Ep. 5</episode-num>
+  </programme>
+  <programme start="20181014213600 +0100" stop="20181014220000 +0100" channel="JIMJAM">
+    <title lang="pt">Popples</title>
+    <episode-num>T1 Ep. 6</episode-num>
+  </programme>
+  <programme start="20181014220000 +0100" stop="20181014221000 +0100" channel="JIMJAM">
+    <title lang="pt">Kipper</title>
+    <desc lang="pt">Kipper é uma criança hiperativa com muita imaginação, que delicia as crianças com suas travessuras adoráveis e charme inesquecível. A sua mente reflete a criança com todas as suas perguntas. Kipper está sempre no caminho da aventura com ajuda dos seus amigos: Tiger, Pig e Arnold(n)</desc>
+    <episode-num>T1 Ep. 5</episode-num>
+  </programme>
+  <programme start="20181014221000 +0100" stop="20181014222000 +0100" channel="JIMJAM">
+    <title lang="pt">Kipper</title>
+    <desc lang="pt">Kipper é uma criança hiperativa com muita imaginação, que delicia as crianças com suas travessuras adoráveis e charme inesquecível. A sua mente reflete a criança com todas as suas perguntas. Kipper está sempre no caminho da aventura com ajuda dos seus amigos: Tiger, Pig e Arnold(n)</desc>
+    <episode-num>T1 Ep. 6</episode-num>
+  </programme>
+  <programme start="20181014222000 +0100" stop="20181014223000 +0100" channel="JIMJAM">
+    <title lang="pt">Thomas E Os Seus Amigos</title>
+    <desc lang="pt">Thomas e seus amigos convidam as crianças a entrar num mundo de imaginação através dos carris dos comboios(n)</desc>
+    <episode-num>T9 Ep. 3</episode-num>
+  </programme>
+  <programme start="20181014223000 +0100" stop="20181014224000 +0100" channel="JIMJAM">
+    <title lang="pt">Thomas E Os Seus Amigos</title>
+    <desc lang="pt">Thomas e seus amigos convidam as crianças a entrar num mundo de imaginação através dos carris dos comboios(n)</desc>
+    <episode-num>T9 Ep. 4</episode-num>
+  </programme>
+  <programme start="20181014224000 +0100" stop="20181014225000 +0100" channel="JIMJAM">
+    <title lang="pt">O Bombeiro Sam</title>
+    <desc lang="pt">O Bombeiro Sam está sempre metido em emocionantes histórias de salvamento. Os incêndios têm de ser apagados, os gatos têm de ser resgatados das árvores, entre muitas outras aventuras. Felizmente, Sam está sempre pronto a ajudar(n)</desc>
+    <episode-num>T9 Ep. 11</episode-num>
+  </programme>
+  <programme start="20181014225000 +0100" stop="20181014230000 +0100" channel="JIMJAM">
+    <title lang="pt">O Bombeiro Sam</title>
+    <episode-num>T9 Ep. 12</episode-num>
+  </programme>
+  <programme start="20181014230000 +0100" stop="20181014230500 +0100" channel="JIMJAM">
+    <title lang="pt">Badanamu TV Show (ABC)</title>
+    <episode-num>T1 Ep. 8</episode-num>
+  </programme>
+  <programme start="20181014230500 +0100" stop="20181014230700 +0100" channel="JIMJAM">
+    <title lang="pt">Badanamu Nursery Rhymes</title>
+    <episode-num>T1 Ep. 20</episode-num>
+  </programme>
+  <programme start="20181014230700 +0100" stop="20181014231400 +0100" channel="JIMJAM">
+    <title lang="pt">Badanamu Talk</title>
+    <episode-num>T1 Ep. 8</episode-num>
+  </programme>
+  <programme start="20181014231400 +0100" stop="20181014231600 +0100" channel="JIMJAM">
+    <title lang="pt">Badanamu Pop</title>
+    <episode-num>T1 Ep. 23</episode-num>
+  </programme>
+  <programme start="20181014231600 +0100" stop="20181014231800 +0100" channel="JIMJAM">
+    <title lang="pt">Aprende Com O Noddy</title>
+    <episode-num>T1 Ep. 27</episode-num>
+  </programme>
+  <programme start="20181014231800 +0100" stop="20181014232000 +0100" channel="JIMJAM">
+    <title lang="pt">Aprende Com O Noddy</title>
+    <episode-num>T1 Ep. 28</episode-num>
+  </programme>
+  <programme start="20181014232000 +0100" stop="20181014232500 +0100" channel="JIMJAM">
+    <title lang="pt">Aprende Com O Timmy</title>
+    <episode-num>T1 Ep. 5</episode-num>
+  </programme>
+  <programme start="20181014232500 +0100" stop="20181014233100 +0100" channel="JIMJAM">
+    <title lang="pt">Aprende Com O Timmy</title>
+    <episode-num>T1 Ep. 6</episode-num>
+  </programme>
+  <programme start="20181014233100 +0100" stop="20181014234200 +0100" channel="JIMJAM">
+    <title lang="pt">Messy Vai A Okido</title>
+    <desc lang="pt">O adorável monstrinho Messy decide procura uma resposta para a sua pergunta em Okido. Acompanha as aventuras do curioso Messy, pelas ruas de Okido(n)</desc>
+    <episode-num>T1 Ep. 7</episode-num>
+  </programme>
+  <programme start="20181014234200 +0100" stop="20181014234800 +0100" channel="JIMJAM">
+    <title lang="pt">Formas</title>
+    <desc lang="pt">Em Shapes as fábulas famosas são trazidas à vida usando caracteres animais criados a partir de dezenas de formas diferentes(n)</desc>
+    <episode-num>T1 Ep. 2</episode-num>
+  </programme>
+  <programme start="20181014234800 +0100" stop="20181014235400 +0100" channel="JIMJAM">
+    <title lang="pt">Formas</title>
+    <desc lang="pt">Em Shapes as fábulas famosas são trazidas à vida usando caracteres animais criados a partir de dezenas de formas diferentes(n)</desc>
+    <episode-num>T1 Ep. 3</episode-num>
+  </programme>
+  <programme start="20181014235400 +0100" stop="20181015000000 +0100" channel="JIMJAM">
+    <title lang="pt">A Grande Descoberta</title>
+    <desc lang="pt">Este programa segue Hugo, cujo apetite pelo pensamento crítico encoraja os mais pequenos a questionar o mundo que os rodeia(n)</desc>
+    <episode-num>T1 Ep. 41</episode-num>
   </programme>
   <programme start="20181013000000 +0100" stop="20181013010000 +0100" channel="i24 NEWS">
     <title lang="pt">Clear Cut</title>
@@ -25959,106 +27587,6 @@
     <desc lang="pt">No dia 14 de outubro de 2013 assinalaram-se os 70 anos de um evento que abalou o partido Nazi. Os judeus prisioneiros de Sobibor, um campo de extermínio na Polónia planearam uma fuga. Através de dramatizações brutalmente realistas e de testemunhos na primeira pessoa(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/NGC HD_23203362/16_9/325/244" />
   </programme>
-  <programme start="20181013040000 +0100" stop="20181013070000 +0100" channel="C-Music">
-    <title lang="pt">Dawn Chorus</title>
-    <desc lang="pt">Celebrate the start of a brand new day with C Music TV's most beautiful music-video selection(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/CMUSIC_1310777/16_9/325/244" />
-  </programme>
-  <programme start="20181013070000 +0100" stop="20181013100000 +0100" channel="C-Music">
-    <title lang="pt">Cappuccino Classics</title>
-    <desc lang="pt">Stir your senses with C Music TV's finest blend of classical, film soundtrack &amp; chillout music-videos(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/CMUSIC_1313653/16_9/325/244" />
-  </programme>
-  <programme start="20181013100000 +0100" stop="20181013110000 +0100" channel="C-Music">
-    <title lang="pt">Soothing Sounds</title>
-    <desc lang="pt">Relax &amp; unwind to a soothing selection of classical, cinematic &amp; chillout music-videos after a busy day(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/CMUSIC_1310781/16_9/325/244" />
-  </programme>
-  <programme start="20181013110000 +0100" stop="20181013130000 +0100" channel="C-Music">
-    <title lang="pt">Hall of Fame</title>
-    <desc lang="pt">C Music TV Hall of Fame celebrates the world's greatest composers, singers, orchestras &amp; musicians every day(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/CMUSIC_1310779/16_9/325/244" />
-  </programme>
-  <programme start="20181013130000 +0100" stop="20181013160000 +0100" channel="C-Music">
-    <title lang="pt">Saturday Selection</title>
-    <desc lang="pt">Celebrate your weekend with a varied mix of the world's finest music from latest releases to music that is three centuries old(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/CMUSIC_1310786/16_9/325/244" />
-  </programme>
-  <programme start="20181013160000 +0100" stop="20181013170000 +0100" channel="C-Music">
-    <title lang="pt">Tenors &amp; Divas</title>
-    <desc lang="pt">C Music TV pays tribute to the finest vocal talents from the world of classical music &amp; opera, film soundtracks &amp; contemporary crossover music-videos(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/CMUSIC_1310782/16_9/325/244" />
-  </programme>
-  <programme start="20181013170000 +0100" stop="20181013180000 +0100" channel="C-Music">
-    <title lang="pt">Soothing Sounds</title>
-    <desc lang="pt">Relax &amp; unwind to a soothing selection of classical, cinematic &amp; chillout music-videos after a busy day(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/CMUSIC_1310781/16_9/325/244" />
-  </programme>
-  <programme start="20181013180000 +0100" stop="20181013200000 +0100" channel="C-Music">
-    <title lang="pt">Saturday Selection</title>
-    <desc lang="pt">Celebrate your weekend with a varied mix of the world's finest music from latest releases to music that is three centuries old(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/CMUSIC_1310786/16_9/325/244" />
-  </programme>
-  <programme start="20181013200000 +0100" stop="20181013230000 +0100" channel="C-Music">
-    <title lang="pt">Evening Encore</title>
-    <desc lang="pt">Be inspired by our exclusive selection of world class artists, composers &amp; musicians from classical, opera, film &amp; contemporary music-videos(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/CMUSIC_1310783/16_9/325/244" />
-  </programme>
-  <programme start="20181013230000 +0100" stop="20181014040000 +0100" channel="C-Music">
-    <title lang="pt">Moonlight Melodies</title>
-    <desc lang="pt">Enjoy our exquisite, hand-picked assortment of classical, film soundtrack &amp; contemporary chillout music-videos into the night(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/CMUSIC_1310784/16_9/325/244" />
-  </programme>
-  <programme start="20181014040000 +0100" stop="20181014070000 +0100" channel="C-Music">
-    <title lang="pt">Dawn Chorus</title>
-    <desc lang="pt">Celebrate the start of a brand new day with C Music TV's most beautiful music-video selection(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/CMUSIC_1310777/16_9/325/244" />
-  </programme>
-  <programme start="20181014070000 +0100" stop="20181014100000 +0100" channel="C-Music">
-    <title lang="pt">Cappuccino Classics</title>
-    <desc lang="pt">Stir your senses with C Music TV's finest blend of classical, film soundtrack &amp; chillout music-videos(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/CMUSIC_1313653/16_9/325/244" />
-  </programme>
-  <programme start="20181014100000 +0100" stop="20181014110000 +0100" channel="C-Music">
-    <title lang="pt">Soothing Sounds</title>
-    <desc lang="pt">Relax &amp; unwind to a soothing selection of classical, cinematic &amp; chillout music-videos after a busy day(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/CMUSIC_1310781/16_9/325/244" />
-  </programme>
-  <programme start="20181014110000 +0100" stop="20181014130000 +0100" channel="C-Music">
-    <title lang="pt">Hall of Fame</title>
-    <desc lang="pt">C Music TV Hall of Fame celebrates the world's greatest composers, singers, orchestras &amp; musicians every day(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/CMUSIC_1310779/16_9/325/244" />
-  </programme>
-  <programme start="20181014130000 +0100" stop="20181014160000 +0100" channel="C-Music">
-    <title lang="pt">Sunday Selection</title>
-    <desc lang="pt">Celebrate your weekend with a varied mix of the world's finest music from latest releases to music that is three centuries old(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/CMUSIC_1310787/16_9/325/244" />
-  </programme>
-  <programme start="20181014160000 +0100" stop="20181014170000 +0100" channel="C-Music">
-    <title lang="pt">Simply Strings</title>
-    <desc lang="pt">The sublime mix of the finest string arrangements from orchestras to string quartets &amp; soloists(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/CMUSIC_1310785/16_9/325/244" />
-  </programme>
-  <programme start="20181014170000 +0100" stop="20181014180000 +0100" channel="C-Music">
-    <title lang="pt">Soothing Sounds</title>
-    <desc lang="pt">Relax &amp; unwind to a soothing selection of classical, cinematic &amp; chillout music-videos after a busy day(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/CMUSIC_1310781/16_9/325/244" />
-  </programme>
-  <programme start="20181014180000 +0100" stop="20181014200000 +0100" channel="C-Music">
-    <title lang="pt">Sunday Selection</title>
-    <desc lang="pt">Celebrate your weekend with a varied mix of the world's finest music from latest releases to music that is three centuries old(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/CMUSIC_1310787/16_9/325/244" />
-  </programme>
-  <programme start="20181014200000 +0100" stop="20181014230000 +0100" channel="C-Music">
-    <title lang="pt">Evening Encore</title>
-    <desc lang="pt">Be inspired by our exclusive selection of world class artists, composers &amp; musicians from classical, opera, film &amp; contemporary music-videos(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/CMUSIC_1310783/16_9/325/244" />
-  </programme>
-  <programme start="20181014230000 +0100" stop="20181015040000 +0100" channel="C-Music">
-    <title lang="pt">Moonlight Melodies</title>
-    <desc lang="pt">Enjoy our exquisite, hand-picked assortment of classical, film soundtrack &amp; contemporary chillout music-videos into the night(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/CMUSIC_1310784/16_9/325/244" />
-  </programme>
   <programme start="20181013003500 +0100" stop="20181013015500 +0100" channel="BBC ENTERTAINMENT">
     <title lang="pt">A Poet in New York</title>
     <desc lang="pt">In 1953 Dylan Thomas went to New York for the last time. With his marriage a wreck and his drinking out of control, he was on his way to meet Stravinsky - and he planned to spend his days rehearsing, writing and partying(n)</desc>
@@ -27250,486 +28778,6 @@
     <title lang="pt">Relaxamento Noturno</title>
     <desc lang="pt">Conteúdo destinado a relaxar o seu cão. Reduz os níveis de stress e acalma-o através de música suave, sons e efeitos visuais(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/DOGTV_1391694/16_9/325/244" />
-  </programme>
-  <programme start="20181013000000 +0100" stop="20181013003000 +0100" channel="BABY FIRST">
-    <title lang="pt">Noites Sonhadoras</title>
-    <desc lang="pt">Um programa mágico que trará ao seu ecrã imagens de deliciar os seus sentidos, acompanhadas pelos sons de música suave(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311552/16_9/325/244" />
-  </programme>
-  <programme start="20181013003000 +0100" stop="20181013010000 +0100" channel="BABY FIRST">
-    <title lang="pt">A Lua e as Estrelas</title>
-    <desc lang="pt">Um programa mágico que trará ao seu ecrã imagens de deliciar os seus sentidos, acompanhadas pelos sons de música suave(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311553/16_9/325/244" />
-  </programme>
-  <programme start="20181013010000 +0100" stop="20181013013000 +0100" channel="BABY FIRST">
-    <title lang="pt">Melodias Noturnas do BabyTV</title>
-    <desc lang="pt">Um programa mágico que trará ao seu ecrã imagens de deliciar os seus sentidos, acompanhadas pelos sons de música suave(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311554/16_9/325/244" />
-  </programme>
-  <programme start="20181013013000 +0100" stop="20181013020000 +0100" channel="BABY FIRST">
-    <title lang="pt">Bons Sonhos</title>
-    <desc lang="pt">Um programa mágico que trará ao seu ecrã imagens de deliciar os seus sentidos, acompanhadas pelos sons de música suave(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311551/16_9/325/244" />
-  </programme>
-  <programme start="20181013020000 +0100" stop="20181013023000 +0100" channel="BABY FIRST">
-    <title lang="pt">Abraços de Boa Noite</title>
-    <desc lang="pt">Um programa mágico que trará ao seu ecrã imagens de deliciar os seus sentidos, acompanhadas pelos sons de música suave(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311555/16_9/325/244" />
-  </programme>
-  <programme start="20181013023000 +0100" stop="20181013030000 +0100" channel="BABY FIRST">
-    <title lang="pt">Noites Sonhadoras</title>
-    <desc lang="pt">Um programa mágico que trará ao seu ecrã imagens de deliciar os seus sentidos, acompanhadas pelos sons de música suave(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311552/16_9/325/244" />
-  </programme>
-  <programme start="20181013030000 +0100" stop="20181013033000 +0100" channel="BABY FIRST">
-    <title lang="pt">A Lua e as Estrelas</title>
-    <desc lang="pt">Um programa mágico que trará ao seu ecrã imagens de deliciar os seus sentidos, acompanhadas pelos sons de música suave(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311553/16_9/325/244" />
-  </programme>
-  <programme start="20181013033000 +0100" stop="20181013040000 +0100" channel="BABY FIRST">
-    <title lang="pt">Sons Tranquilos</title>
-    <desc lang="pt">Um programa mágico que trará ao seu ecrã imagens de deliciar os seus sentidos, acompanhadas pelos sons de música suave(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311556/16_9/325/244" />
-  </programme>
-  <programme start="20181013040000 +0100" stop="20181013043000 +0100" channel="BABY FIRST">
-    <title lang="pt">Da Noite Para o Dia</title>
-    <desc lang="pt">Canções e histórias relaxantes acompanhadas por música suave(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311557/16_9/325/244" />
-  </programme>
-  <programme start="20181013043000 +0100" stop="20181013050000 +0100" channel="BABY FIRST">
-    <title lang="pt">Da Noite Para o Dia</title>
-    <desc lang="pt">Canções e histórias relaxantes acompanhadas por música suave(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311557/16_9/325/244" />
-  </programme>
-  <programme start="20181013050000 +0100" stop="20181013053000 +0100" channel="BABY FIRST">
-    <title lang="pt">Acordar Com os Amigos do BabyTV</title>
-    <desc lang="pt">Inclui: Charlie e o Abecedário, As Primeiras Canções do Bebé, O Parque Infantil Mágico do Avô Joe, O Comboio dos Correios, Pierre, o Pintor, Peça-a-Peça, Nico &amp; Bianca, Henrique, o Gato Comilão, Oliver, Grupinho, Olha o Que Eu Encontrei, Parabéns(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311535/16_9/325/244" />
-  </programme>
-  <programme start="20181013053000 +0100" stop="20181013060000 +0100" channel="BABY FIRST">
-    <title lang="pt">Acordar Com os Amigos do BabyTV</title>
-    <desc lang="pt">Inclui: Charlie e o Abecedário, As Primeiras Canções do Bebé, O Parque Infantil Mágico do Avô Joe, O Comboio dos Correios, Pierre, o Pintor, Peça-a-Peça, Nico &amp; Bianca, Henrique, o Gato Comilão, Oliver, Grupinho, Olha o Que Eu Encontrei, Parabéns(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311535/16_9/325/244" />
-  </programme>
-  <programme start="20181013060000 +0100" stop="20181013063000 +0100" channel="BABY FIRST">
-    <title lang="pt">Exercício Matinal</title>
-    <desc lang="pt">Inclui: Draco, BZZ, As Primeiras Canções do Bebé, No Mundo dos Brinquedos, Quebra-Cabeças, Gee-Raffa, Big Bugs Band, Tricky Tracks, Billy Bam Bam, Abracitos, Grupinho, Que Dia Maravilhoso e Mona &amp; Sketch(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311536/16_9/325/244" />
-  </programme>
-  <programme start="20181013063000 +0100" stop="20181013070000 +0100" channel="BABY FIRST">
-    <title lang="pt">Exercício Matinal</title>
-    <desc lang="pt">Inclui: Draco, BZZ, As Primeiras Canções do Bebé, No Mundo dos Brinquedos, Quebra-Cabeças, Gee-Raffa, Big Bugs Band, Tricky Tracks, Billy Bam Bam, Abracitos, Grupinho, Que Dia Maravilhoso e Mona &amp; Sketch(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311536/16_9/325/244" />
-  </programme>
-  <programme start="20181013070000 +0100" stop="20181013073000 +0100" channel="BABY FIRST">
-    <title lang="pt">Começa o Dia Com os Amigos do BabyTV</title>
-    <desc lang="pt">Inclui: No Parque do Riso, As Primeiras Canções do Bebé, Hippa Hippa Hey, A Pequena Lola Visita a Quinta, BabyTV Studios e Stick with Mick(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311537/16_9/325/244" />
-  </programme>
-  <programme start="20181013073000 +0100" stop="20181013080000 +0100" channel="BABY FIRST">
-    <title lang="pt">Os Ratinhos Construtores e Outras Histórias</title>
-    <desc lang="pt">Inclui: Os Ratinhos Construtores. Canções e Rimas. A Banda dos Insetos. Kenny, Goorie e os Amigos. Pierre, o Pintor. Canções e Rimas. Popiz(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_13230623/16_9/325/244" />
-  </programme>
-  <programme start="20181013080000 +0100" stop="20181013083000 +0100" channel="BABY FIRST">
-    <title lang="pt">Festa dos Animais</title>
-    <desc lang="pt">Inclui: Festa dos Animais, Que Dia Maravilhoso, Olha o Que Eu Encontrei, As Primeiras Canções do Bebé, Mona &amp; Sketch e Abracitos(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_13157521/16_9/325/244" />
-  </programme>
-  <programme start="20181013083000 +0100" stop="20181013090000 +0100" channel="BABY FIRST">
-    <title lang="pt">Arte, Atividades e Música</title>
-    <desc lang="pt">Inclui: Tiny Beats, As Primeiras Canções do Bebé, Tulli, Tipa Tupa, BZZ, Charlie e o Abecedário e Jammers(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311540/16_9/325/244" />
-  </programme>
-  <programme start="20181013090000 +0100" stop="20181013093000 +0100" channel="BABY FIRST">
-    <title lang="pt">As Primeiras Descobertas Mágicas</title>
-    <desc lang="pt">Inclui: Crafty Rafty, Gee-Raffa, Hippa Hippa Hey, As Primeiras Canções do Bebé, Oliver e O Comboio dos Correios(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311541/16_9/325/244" />
-  </programme>
-  <programme start="20181013093000 +0100" stop="20181013100000 +0100" channel="BABY FIRST">
-    <title lang="pt">O Mundo da Imaginação</title>
-    <desc lang="pt">Inclui: No Mundo dos Brinquedos, Parabéns, As Aventuras de Tucky, Billy Bam Bam, Quebra-Cabeças, As Primeiras Canções do Bebé e Henrique, o Gato Comilão(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311542/16_9/325/244" />
-  </programme>
-  <programme start="20181013100000 +0100" stop="20181013103000 +0100" channel="BABY FIRST">
-    <title lang="pt">Explorar Com Babyhood</title>
-    <desc lang="pt">Inclui: "Mundo dos Bebés", "Peça-a-peça", "Tempo de dança", "Draco", "Quem é? O que é?", "Happy to Be Baby Album" e "Tricky Tracks"(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311543/16_9/325/244" />
-  </programme>
-  <programme start="20181013103000 +0100" stop="20181013110000 +0100" channel="BABY FIRST">
-    <title lang="pt">Os Ratinhos Construtores e Outras Histórias</title>
-    <desc lang="pt">Inclui: Os Ratinhos Construtores. Canções e Rimas. A Banda dos Insetos. Kenny, Goorie e os Amigos. Pierre, o Pintor. Canções e Rimas. Popiz(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_13230623/16_9/325/244" />
-  </programme>
-  <programme start="20181013110000 +0100" stop="20181013113000 +0100" channel="BABY FIRST">
-    <title lang="pt">Festa dos Animais</title>
-    <desc lang="pt">Inclui: Festa dos Animais, Que Dia Maravilhoso, Olha o Que Eu Encontrei, As Primeiras Canções do Bebé, Mona &amp; Sketch e Abracitos(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_13157521/16_9/325/244" />
-  </programme>
-  <programme start="20181013113000 +0100" stop="20181013120000 +0100" channel="BABY FIRST">
-    <title lang="pt">Arte, Atividades e Música</title>
-    <desc lang="pt">Inclui: Tiny Beats, As Primeiras Canções do Bebé, Tulli, Tipa Tupa, BZZ, Charlie e o Abecedário e Jammers(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311540/16_9/325/244" />
-  </programme>
-  <programme start="20181013120000 +0100" stop="20181013123000 +0100" channel="BABY FIRST">
-    <title lang="pt">O Círculo de Amigos</title>
-    <desc lang="pt">Inclui: Crafty Rafty, Hippa Hippa Hey, Gee-Raffa As Primeiras Canções do Bebé, Oliver e O Comboio dos Correios(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311544/16_9/325/244" />
-  </programme>
-  <programme start="20181013123000 +0100" stop="20181013130000 +0100" channel="BABY FIRST">
-    <title lang="pt">O Mundo da Imaginação</title>
-    <desc lang="pt">Inclui: No Mundo dos Brinquedos, Parabéns, As Aventuras de Tucky, Billy Bam Bam, Quebra-Cabeças, As Primeiras Canções do Bebé e Henrique, o Gato Comilão(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311542/16_9/325/244" />
-  </programme>
-  <programme start="20181013130000 +0100" stop="20181013133000 +0100" channel="BABY FIRST">
-    <title lang="pt">Explorar Com Babyhood</title>
-    <desc lang="pt">Inclui: "Mundo dos Bebés", "Peça-a-peça", "Tempo de dança", "Draco", "Quem é? O que é?", "Happy to Be Baby Album" e "Tricky Tracks"(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311543/16_9/325/244" />
-  </programme>
-  <programme start="20181013133000 +0100" stop="20181013140000 +0100" channel="BABY FIRST">
-    <title lang="pt">Os Ratinhos Construtores e Outras Histórias</title>
-    <desc lang="pt">Inclui: Os Ratinhos Construtores. Canções e Rimas. A Banda dos Insetos. Kenny, Goorie e os Amigos. Pierre, o Pintor. Canções e Rimas. Popiz(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_13230623/16_9/325/244" />
-  </programme>
-  <programme start="20181013140000 +0100" stop="20181013143000 +0100" channel="BABY FIRST">
-    <title lang="pt">Festa dos Animais</title>
-    <desc lang="pt">Inclui: Festa dos Animais, Que Dia Maravilhoso, Olha o Que Eu Encontrei, As Primeiras Canções do Bebé, Mona &amp; Sketch e Abracitos(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_13157521/16_9/325/244" />
-  </programme>
-  <programme start="20181013143000 +0100" stop="20181013150000 +0100" channel="BABY FIRST">
-    <title lang="pt">Arte, Atividades e Música</title>
-    <desc lang="pt">Inclui: Tiny Beats, As Primeiras Canções do Bebé, Tulli, Tipa Tupa, BZZ, Charlie e o Abecedário e Jammers(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311540/16_9/325/244" />
-  </programme>
-  <programme start="20181013150000 +0100" stop="20181013153000 +0100" channel="BABY FIRST">
-    <title lang="pt">O Círculo de Amigos</title>
-    <desc lang="pt">Inclui: Crafty Rafty, Hippa Hippa Hey, Gee-Raffa As Primeiras Canções do Bebé, Oliver e O Comboio dos Correios(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311544/16_9/325/244" />
-  </programme>
-  <programme start="20181013153000 +0100" stop="20181013160000 +0100" channel="BABY FIRST">
-    <title lang="pt">O Mundo da Imaginação</title>
-    <desc lang="pt">Inclui: No Mundo dos Brinquedos, Parabéns, As Aventuras de Tucky, Billy Bam Bam, Quebra-Cabeças, As Primeiras Canções do Bebé e Henrique, o Gato Comilão(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311542/16_9/325/244" />
-  </programme>
-  <programme start="20181013160000 +0100" stop="20181013163000 +0100" channel="BABY FIRST">
-    <title lang="pt">O Mundo da Imaginação</title>
-    <desc lang="pt">Inclui: No Mundo dos Brinquedos, Parabéns, As Aventuras de Tucky, Billy Bam Bam, Quebra-Cabeças, As Primeiras Canções do Bebé e Henrique, o Gato Comilão(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311542/16_9/325/244" />
-  </programme>
-  <programme start="20181013163000 +0100" stop="20181013170000 +0100" channel="BABY FIRST">
-    <title lang="pt">À Descoberta Com os Veginsectos</title>
-    <desc lang="pt">Inclui: Charlie e os números, Vasco e Quico, Ping e Pinga, As Primeiras Canções do Bebé, Bebés na Quinta e Nico &amp; Bianca(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311545/16_9/325/244" />
-  </programme>
-  <programme start="20181013170000 +0100" stop="20181013173000 +0100" channel="BABY FIRST">
-    <title lang="pt">Brinca e Aprende Com Canções e Rimas</title>
-    <desc lang="pt">Inclui: Henrique, o Gato Comilão, As Primeiras Canções do Bebé, Oliver, Bonecos e Sr. Caracol(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311546/16_9/325/244" />
-  </programme>
-  <programme start="20181013173000 +0100" stop="20181013180000 +0100" channel="BABY FIRST">
-    <title lang="pt">Jogos de Adivinhas Com Tulli e os Amigos</title>
-    <desc lang="pt">Inclui: Draco, As Primeiras Canções do Bebé, Os Ovinhos, Tricky Tracks e Billy Bam Bam(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311547/16_9/325/244" />
-  </programme>
-  <programme start="20181013180000 +0100" stop="20181013183000 +0100" channel="BABY FIRST">
-    <title lang="pt">Rimas e Diversão em Família</title>
-    <desc lang="pt">Inclui: Stick with Mick, Conversa fiada, Popiz, Big Bugs Band, As Primeiras Canções do Bebé, Abracitos e Crianças e Animais(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311548/16_9/325/244" />
-  </programme>
-  <programme start="20181013183000 +0100" stop="20181013190000 +0100" channel="BABY FIRST">
-    <title lang="pt">Rimas e Diversão em Família</title>
-    <desc lang="pt">Inclui: Stick with Mick, Conversa fiada, Popiz, Big Bugs Band, As Primeiras Canções do Bebé, Abracitos e Crianças e Animais(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311548/16_9/325/244" />
-  </programme>
-  <programme start="20181013190000 +0100" stop="20181013193000 +0100" channel="BABY FIRST">
-    <title lang="pt">Arte, Atividades e Música</title>
-    <desc lang="pt">Inclui: Tiny Beats, As Primeiras Canções do Bebé, Tulli, Tipa Tupa, BZZ, Charlie e o Abecedário e Jammers(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311540/16_9/325/244" />
-  </programme>
-  <programme start="20181013193000 +0100" stop="20181013200000 +0100" channel="BABY FIRST">
-    <title lang="pt">Música Clássica e Histórias Tranquilas</title>
-    <desc lang="pt">Inclui: As Primeiras Canções do Bebé(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311549/16_9/325/244" />
-  </programme>
-  <programme start="20181013200000 +0100" stop="20181013203000 +0100" channel="BABY FIRST">
-    <title lang="pt">Calma e Tranquilidade</title>
-    <desc lang="pt">Canções e histórias relaxantes acompanhadas por música suave(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311550/16_9/325/244" />
-  </programme>
-  <programme start="20181013203000 +0100" stop="20181013210000 +0100" channel="BABY FIRST">
-    <title lang="pt">Calma e Tranquilidade</title>
-    <desc lang="pt">Canções e histórias relaxantes acompanhadas por música suave(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311550/16_9/325/244" />
-  </programme>
-  <programme start="20181013210000 +0100" stop="20181013213000 +0100" channel="BABY FIRST">
-    <title lang="pt">Bons Sonhos</title>
-    <desc lang="pt">Um programa mágico que trará ao seu ecrã imagens de deliciar os seus sentidos, acompanhadas pelos sons de música suave(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311551/16_9/325/244" />
-  </programme>
-  <programme start="20181013213000 +0100" stop="20181013220000 +0100" channel="BABY FIRST">
-    <title lang="pt">Bons Sonhos</title>
-    <desc lang="pt">Um programa mágico que trará ao seu ecrã imagens de deliciar os seus sentidos, acompanhadas pelos sons de música suave(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311551/16_9/325/244" />
-  </programme>
-  <programme start="20181013220000 +0100" stop="20181013223000 +0100" channel="BABY FIRST">
-    <title lang="pt">Noites Sonhadoras</title>
-    <desc lang="pt">Um programa mágico que trará ao seu ecrã imagens de deliciar os seus sentidos, acompanhadas pelos sons de música suave(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311552/16_9/325/244" />
-  </programme>
-  <programme start="20181013223000 +0100" stop="20181013230000 +0100" channel="BABY FIRST">
-    <title lang="pt">Noites Sonhadoras</title>
-    <desc lang="pt">Um programa mágico que trará ao seu ecrã imagens de deliciar os seus sentidos, acompanhadas pelos sons de música suave(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311552/16_9/325/244" />
-  </programme>
-  <programme start="20181013230000 +0100" stop="20181013233000 +0100" channel="BABY FIRST">
-    <title lang="pt">Noites Sonhadoras</title>
-    <desc lang="pt">Um programa mágico que trará ao seu ecrã imagens de deliciar os seus sentidos, acompanhadas pelos sons de música suave(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311552/16_9/325/244" />
-  </programme>
-  <programme start="20181013233000 +0100" stop="20181014000000 +0100" channel="BABY FIRST">
-    <title lang="pt">Noites Sonhadoras</title>
-    <desc lang="pt">Um programa mágico que trará ao seu ecrã imagens de deliciar os seus sentidos, acompanhadas pelos sons de música suave(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311552/16_9/325/244" />
-  </programme>
-  <programme start="20181014000000 +0100" stop="20181014003000 +0100" channel="BABY FIRST">
-    <title lang="pt">Noites Sonhadoras</title>
-    <desc lang="pt">Um programa mágico que trará ao seu ecrã imagens de deliciar os seus sentidos, acompanhadas pelos sons de música suave(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311552/16_9/325/244" />
-  </programme>
-  <programme start="20181014003000 +0100" stop="20181014010000 +0100" channel="BABY FIRST">
-    <title lang="pt">A Lua e as Estrelas</title>
-    <desc lang="pt">Um programa mágico que trará ao seu ecrã imagens de deliciar os seus sentidos, acompanhadas pelos sons de música suave(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311553/16_9/325/244" />
-  </programme>
-  <programme start="20181014010000 +0100" stop="20181014013000 +0100" channel="BABY FIRST">
-    <title lang="pt">Melodias Noturnas do BabyTV</title>
-    <desc lang="pt">Um programa mágico que trará ao seu ecrã imagens de deliciar os seus sentidos, acompanhadas pelos sons de música suave(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311554/16_9/325/244" />
-  </programme>
-  <programme start="20181014013000 +0100" stop="20181014020000 +0100" channel="BABY FIRST">
-    <title lang="pt">Bons Sonhos</title>
-    <desc lang="pt">Um programa mágico que trará ao seu ecrã imagens de deliciar os seus sentidos, acompanhadas pelos sons de música suave(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311551/16_9/325/244" />
-  </programme>
-  <programme start="20181014020000 +0100" stop="20181014023000 +0100" channel="BABY FIRST">
-    <title lang="pt">Abraços de Boa Noite</title>
-    <desc lang="pt">Um programa mágico que trará ao seu ecrã imagens de deliciar os seus sentidos, acompanhadas pelos sons de música suave(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311555/16_9/325/244" />
-  </programme>
-  <programme start="20181014023000 +0100" stop="20181014030000 +0100" channel="BABY FIRST">
-    <title lang="pt">Noites Sonhadoras</title>
-    <desc lang="pt">Um programa mágico que trará ao seu ecrã imagens de deliciar os seus sentidos, acompanhadas pelos sons de música suave(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311552/16_9/325/244" />
-  </programme>
-  <programme start="20181014030000 +0100" stop="20181014033000 +0100" channel="BABY FIRST">
-    <title lang="pt">A Lua e as Estrelas</title>
-    <desc lang="pt">Um programa mágico que trará ao seu ecrã imagens de deliciar os seus sentidos, acompanhadas pelos sons de música suave(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311553/16_9/325/244" />
-  </programme>
-  <programme start="20181014033000 +0100" stop="20181014040000 +0100" channel="BABY FIRST">
-    <title lang="pt">Sons Tranquilos</title>
-    <desc lang="pt">Um programa mágico que trará ao seu ecrã imagens de deliciar os seus sentidos, acompanhadas pelos sons de música suave(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311556/16_9/325/244" />
-  </programme>
-  <programme start="20181014040000 +0100" stop="20181014043000 +0100" channel="BABY FIRST">
-    <title lang="pt">Da Noite Para o Dia</title>
-    <desc lang="pt">Canções e histórias relaxantes acompanhadas por música suave(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311557/16_9/325/244" />
-  </programme>
-  <programme start="20181014043000 +0100" stop="20181014050000 +0100" channel="BABY FIRST">
-    <title lang="pt">Da Noite Para o Dia</title>
-    <desc lang="pt">Canções e histórias relaxantes acompanhadas por música suave(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311557/16_9/325/244" />
-  </programme>
-  <programme start="20181014050000 +0100" stop="20181014053000 +0100" channel="BABY FIRST">
-    <title lang="pt">Acordar Com os Amigos do BabyTV</title>
-    <desc lang="pt">Inclui: Charlie e o Abecedário, As Primeiras Canções do Bebé, O Parque Infantil Mágico do Avô Joe, O Comboio dos Correios, Pierre, o Pintor, Peça-a-Peça, Nico &amp; Bianca, Henrique, o Gato Comilão, Oliver, Grupinho, Olha o Que Eu Encontrei, Parabéns(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311535/16_9/325/244" />
-  </programme>
-  <programme start="20181014053000 +0100" stop="20181014060000 +0100" channel="BABY FIRST">
-    <title lang="pt">Acordar Com os Amigos do BabyTV</title>
-    <desc lang="pt">Inclui: Charlie e o Abecedário, As Primeiras Canções do Bebé, O Parque Infantil Mágico do Avô Joe, O Comboio dos Correios, Pierre, o Pintor, Peça-a-Peça, Nico &amp; Bianca, Henrique, o Gato Comilão, Oliver, Grupinho, Olha o Que Eu Encontrei, Parabéns(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311535/16_9/325/244" />
-  </programme>
-  <programme start="20181014060000 +0100" stop="20181014063000 +0100" channel="BABY FIRST">
-    <title lang="pt">Exercício Matinal</title>
-    <desc lang="pt">Inclui: Draco, BZZ, As Primeiras Canções do Bebé, No Mundo dos Brinquedos, Quebra-Cabeças, Gee-Raffa, Big Bugs Band, Tricky Tracks, Billy Bam Bam, Abracitos, Grupinho, Que Dia Maravilhoso e Mona &amp; Sketch(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311536/16_9/325/244" />
-  </programme>
-  <programme start="20181014063000 +0100" stop="20181014070000 +0100" channel="BABY FIRST">
-    <title lang="pt">Exercício Matinal</title>
-    <desc lang="pt">Inclui: Draco, BZZ, As Primeiras Canções do Bebé, No Mundo dos Brinquedos, Quebra-Cabeças, Gee-Raffa, Big Bugs Band, Tricky Tracks, Billy Bam Bam, Abracitos, Grupinho, Que Dia Maravilhoso e Mona &amp; Sketch(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311536/16_9/325/244" />
-  </programme>
-  <programme start="20181014070000 +0100" stop="20181014073000 +0100" channel="BABY FIRST">
-    <title lang="pt">Começa o Dia Com os Amigos do BabyTV</title>
-    <desc lang="pt">Inclui: No Parque do Riso, As Primeiras Canções do Bebé, Hippa Hippa Hey, A Pequena Lola Visita a Quinta, BabyTV Studios e Stick with Mick(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311537/16_9/325/244" />
-  </programme>
-  <programme start="20181014073000 +0100" stop="20181014080000 +0100" channel="BABY FIRST">
-    <title lang="pt">Os Ratinhos Construtores e Outras Histórias</title>
-    <desc lang="pt">Inclui: Os Ratinhos Construtores. Canções e Rimas. A Banda dos Insetos. Kenny, Goorie e os Amigos. Pierre, o Pintor. Canções e Rimas. Popiz(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_13230623/16_9/325/244" />
-  </programme>
-  <programme start="20181014080000 +0100" stop="20181014083000 +0100" channel="BABY FIRST">
-    <title lang="pt">Festa dos Animais</title>
-    <desc lang="pt">Inclui: Festa dos Animais, Que Dia Maravilhoso, Olha o Que Eu Encontrei, As Primeiras Canções do Bebé, Mona &amp; Sketch e Abracitos(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_13157521/16_9/325/244" />
-  </programme>
-  <programme start="20181014083000 +0100" stop="20181014090000 +0100" channel="BABY FIRST">
-    <title lang="pt">Arte, Atividades e Música</title>
-    <desc lang="pt">Inclui: Tiny Beats, As Primeiras Canções do Bebé, Tulli, Tipa Tupa, BZZ, Charlie e o Abecedário e Jammers(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311540/16_9/325/244" />
-  </programme>
-  <programme start="20181014090000 +0100" stop="20181014093000 +0100" channel="BABY FIRST">
-    <title lang="pt">As Primeiras Descobertas Mágicas</title>
-    <desc lang="pt">Inclui: Crafty Rafty, Gee-Raffa, Hippa Hippa Hey, As Primeiras Canções do Bebé, Oliver e O Comboio dos Correios(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311541/16_9/325/244" />
-  </programme>
-  <programme start="20181014093000 +0100" stop="20181014100000 +0100" channel="BABY FIRST">
-    <title lang="pt">O Mundo da Imaginação</title>
-    <desc lang="pt">Inclui: No Mundo dos Brinquedos, Parabéns, As Aventuras de Tucky, Billy Bam Bam, Quebra-Cabeças, As Primeiras Canções do Bebé e Henrique, o Gato Comilão(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311542/16_9/325/244" />
-  </programme>
-  <programme start="20181014100000 +0100" stop="20181014103000 +0100" channel="BABY FIRST">
-    <title lang="pt">Explorar Com Babyhood</title>
-    <desc lang="pt">Inclui: "Mundo dos Bebés", "Peça-a-peça", "Tempo de dança", "Draco", "Quem é? O que é?", "Happy to Be Baby Album" e "Tricky Tracks"(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311543/16_9/325/244" />
-  </programme>
-  <programme start="20181014103000 +0100" stop="20181014110000 +0100" channel="BABY FIRST">
-    <title lang="pt">Os Ratinhos Construtores e Outras Histórias</title>
-    <desc lang="pt">Inclui: Os Ratinhos Construtores. Canções e Rimas. A Banda dos Insetos. Kenny, Goorie e os Amigos. Pierre, o Pintor. Canções e Rimas. Popiz(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_13230623/16_9/325/244" />
-  </programme>
-  <programme start="20181014110000 +0100" stop="20181014113000 +0100" channel="BABY FIRST">
-    <title lang="pt">Festa dos Animais</title>
-    <desc lang="pt">Inclui: Festa dos Animais, Que Dia Maravilhoso, Olha o Que Eu Encontrei, As Primeiras Canções do Bebé, Mona &amp; Sketch e Abracitos(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_13157521/16_9/325/244" />
-  </programme>
-  <programme start="20181014113000 +0100" stop="20181014120000 +0100" channel="BABY FIRST">
-    <title lang="pt">Arte, Atividades e Música</title>
-    <desc lang="pt">Inclui: Tiny Beats, As Primeiras Canções do Bebé, Tulli, Tipa Tupa, BZZ, Charlie e o Abecedário e Jammers(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311540/16_9/325/244" />
-  </programme>
-  <programme start="20181014120000 +0100" stop="20181014123000 +0100" channel="BABY FIRST">
-    <title lang="pt">O Círculo de Amigos</title>
-    <desc lang="pt">Inclui: Crafty Rafty, Hippa Hippa Hey, Gee-Raffa As Primeiras Canções do Bebé, Oliver e O Comboio dos Correios(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311544/16_9/325/244" />
-  </programme>
-  <programme start="20181014123000 +0100" stop="20181014130000 +0100" channel="BABY FIRST">
-    <title lang="pt">O Mundo da Imaginação</title>
-    <desc lang="pt">Inclui: No Mundo dos Brinquedos, Parabéns, As Aventuras de Tucky, Billy Bam Bam, Quebra-Cabeças, As Primeiras Canções do Bebé e Henrique, o Gato Comilão(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311542/16_9/325/244" />
-  </programme>
-  <programme start="20181014130000 +0100" stop="20181014133000 +0100" channel="BABY FIRST">
-    <title lang="pt">Explorar Com Babyhood</title>
-    <desc lang="pt">Inclui: "Mundo dos Bebés", "Peça-a-peça", "Tempo de dança", "Draco", "Quem é? O que é?", "Happy to Be Baby Album" e "Tricky Tracks"(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311543/16_9/325/244" />
-  </programme>
-  <programme start="20181014133000 +0100" stop="20181014140000 +0100" channel="BABY FIRST">
-    <title lang="pt">Os Ratinhos Construtores e Outras Histórias</title>
-    <desc lang="pt">Inclui: Os Ratinhos Construtores. Canções e Rimas. A Banda dos Insetos. Kenny, Goorie e os Amigos. Pierre, o Pintor. Canções e Rimas. Popiz(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_13230623/16_9/325/244" />
-  </programme>
-  <programme start="20181014140000 +0100" stop="20181014143000 +0100" channel="BABY FIRST">
-    <title lang="pt">Festa dos Animais</title>
-    <desc lang="pt">Inclui: Festa dos Animais, Que Dia Maravilhoso, Olha o Que Eu Encontrei, As Primeiras Canções do Bebé, Mona &amp; Sketch e Abracitos(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_13157521/16_9/325/244" />
-  </programme>
-  <programme start="20181014143000 +0100" stop="20181014150000 +0100" channel="BABY FIRST">
-    <title lang="pt">Arte, Atividades e Música</title>
-    <desc lang="pt">Inclui: Tiny Beats, As Primeiras Canções do Bebé, Tulli, Tipa Tupa, BZZ, Charlie e o Abecedário e Jammers(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311540/16_9/325/244" />
-  </programme>
-  <programme start="20181014150000 +0100" stop="20181014153000 +0100" channel="BABY FIRST">
-    <title lang="pt">O Círculo de Amigos</title>
-    <desc lang="pt">Inclui: Crafty Rafty, Hippa Hippa Hey, Gee-Raffa As Primeiras Canções do Bebé, Oliver e O Comboio dos Correios(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311544/16_9/325/244" />
-  </programme>
-  <programme start="20181014153000 +0100" stop="20181014160000 +0100" channel="BABY FIRST">
-    <title lang="pt">O Mundo da Imaginação</title>
-    <desc lang="pt">Inclui: No Mundo dos Brinquedos, Parabéns, As Aventuras de Tucky, Billy Bam Bam, Quebra-Cabeças, As Primeiras Canções do Bebé e Henrique, o Gato Comilão(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311542/16_9/325/244" />
-  </programme>
-  <programme start="20181014160000 +0100" stop="20181014163000 +0100" channel="BABY FIRST">
-    <title lang="pt">O Mundo da Imaginação</title>
-    <desc lang="pt">Inclui: No Mundo dos Brinquedos, Parabéns, As Aventuras de Tucky, Billy Bam Bam, Quebra-Cabeças, As Primeiras Canções do Bebé e Henrique, o Gato Comilão(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311542/16_9/325/244" />
-  </programme>
-  <programme start="20181014163000 +0100" stop="20181014170000 +0100" channel="BABY FIRST">
-    <title lang="pt">À Descoberta Com os Veginsectos</title>
-    <desc lang="pt">Inclui: Charlie e os números, Vasco e Quico, Ping e Pinga, As Primeiras Canções do Bebé, Bebés na Quinta e Nico &amp; Bianca(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311545/16_9/325/244" />
-  </programme>
-  <programme start="20181014170000 +0100" stop="20181014173000 +0100" channel="BABY FIRST">
-    <title lang="pt">Brinca e Aprende Com Canções e Rimas</title>
-    <desc lang="pt">Inclui: Henrique, o Gato Comilão, As Primeiras Canções do Bebé, Oliver, Bonecos e Sr. Caracol(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311546/16_9/325/244" />
-  </programme>
-  <programme start="20181014173000 +0100" stop="20181014180000 +0100" channel="BABY FIRST">
-    <title lang="pt">Jogos de Adivinhas Com Tulli e os Amigos</title>
-    <desc lang="pt">Inclui: Draco, As Primeiras Canções do Bebé, Os Ovinhos, Tricky Tracks e Billy Bam Bam(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311547/16_9/325/244" />
-  </programme>
-  <programme start="20181014180000 +0100" stop="20181014183000 +0100" channel="BABY FIRST">
-    <title lang="pt">Rimas e Diversão em Família</title>
-    <desc lang="pt">Inclui: Stick with Mick, Conversa fiada, Popiz, Big Bugs Band, As Primeiras Canções do Bebé, Abracitos e Crianças e Animais(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311548/16_9/325/244" />
-  </programme>
-  <programme start="20181014183000 +0100" stop="20181014190000 +0100" channel="BABY FIRST">
-    <title lang="pt">Rimas e Diversão em Família</title>
-    <desc lang="pt">Inclui: Stick with Mick, Conversa fiada, Popiz, Big Bugs Band, As Primeiras Canções do Bebé, Abracitos e Crianças e Animais(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311548/16_9/325/244" />
-  </programme>
-  <programme start="20181014190000 +0100" stop="20181014193000 +0100" channel="BABY FIRST">
-    <title lang="pt">Arte, Atividades e Música</title>
-    <desc lang="pt">Inclui: Tiny Beats, As Primeiras Canções do Bebé, Tulli, Tipa Tupa, BZZ, Charlie e o Abecedário e Jammers(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311540/16_9/325/244" />
-  </programme>
-  <programme start="20181014193000 +0100" stop="20181014200000 +0100" channel="BABY FIRST">
-    <title lang="pt">Música Clássica e Histórias Tranquilas</title>
-    <desc lang="pt">Inclui: As Primeiras Canções do Bebé(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311549/16_9/325/244" />
-  </programme>
-  <programme start="20181014200000 +0100" stop="20181014203000 +0100" channel="BABY FIRST">
-    <title lang="pt">Calma e Tranquilidade</title>
-    <desc lang="pt">Canções e histórias relaxantes acompanhadas por música suave(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311550/16_9/325/244" />
-  </programme>
-  <programme start="20181014203000 +0100" stop="20181014210000 +0100" channel="BABY FIRST">
-    <title lang="pt">Calma e Tranquilidade</title>
-    <desc lang="pt">Canções e histórias relaxantes acompanhadas por música suave(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311550/16_9/325/244" />
-  </programme>
-  <programme start="20181014210000 +0100" stop="20181014213000 +0100" channel="BABY FIRST">
-    <title lang="pt">Bons Sonhos</title>
-    <desc lang="pt">Um programa mágico que trará ao seu ecrã imagens de deliciar os seus sentidos, acompanhadas pelos sons de música suave(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311551/16_9/325/244" />
-  </programme>
-  <programme start="20181014213000 +0100" stop="20181014220000 +0100" channel="BABY FIRST">
-    <title lang="pt">Bons Sonhos</title>
-    <desc lang="pt">Um programa mágico que trará ao seu ecrã imagens de deliciar os seus sentidos, acompanhadas pelos sons de música suave(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311551/16_9/325/244" />
-  </programme>
-  <programme start="20181014220000 +0100" stop="20181014223000 +0100" channel="BABY FIRST">
-    <title lang="pt">Noites Sonhadoras</title>
-    <desc lang="pt">Um programa mágico que trará ao seu ecrã imagens de deliciar os seus sentidos, acompanhadas pelos sons de música suave(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311552/16_9/325/244" />
-  </programme>
-  <programme start="20181014223000 +0100" stop="20181014230000 +0100" channel="BABY FIRST">
-    <title lang="pt">Noites Sonhadoras</title>
-    <desc lang="pt">Um programa mágico que trará ao seu ecrã imagens de deliciar os seus sentidos, acompanhadas pelos sons de música suave(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311552/16_9/325/244" />
-  </programme>
-  <programme start="20181014230000 +0100" stop="20181014233000 +0100" channel="BABY FIRST">
-    <title lang="pt">Noites Sonhadoras</title>
-    <desc lang="pt">Um programa mágico que trará ao seu ecrã imagens de deliciar os seus sentidos, acompanhadas pelos sons de música suave(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311552/16_9/325/244" />
-  </programme>
-  <programme start="20181014233000 +0100" stop="20181015000000 +0100" channel="BABY FIRST">
-    <title lang="pt">Noites Sonhadoras</title>
-    <desc lang="pt">Um programa mágico que trará ao seu ecrã imagens de deliciar os seus sentidos, acompanhadas pelos sons de música suave(n)</desc>
-    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311552/16_9/325/244" />
   </programme>
   <programme start="20181013003000 +0100" stop="20181013020000 +0100" channel="CINEMUNDO">
     <title lang="pt">Bem-vindo à Zombieland</title>
