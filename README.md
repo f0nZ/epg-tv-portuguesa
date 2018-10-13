@@ -18,6 +18,12 @@ Utilizando um exemplo de lista IPTV, basta que no campo "tvg-id" ou o campo do n
 http://null
 ```
 
+# Fontes Utilizadas
+
+  * https://mag.sapo.pt/tv/programacao
+  * https://nos.pt/particulares/televisao/guia-tv/Pages/default.aspx
+  * https://tvnetvoz.vodafone.pt/sempre-consigo/guia-tv
+
 # Utilização
 O link a colocar na parte de epg pode ser o seguinte: http://bit.ly/epg-pt
 
