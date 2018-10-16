@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.5 -- Jan van Straaten" site="elevensports.pt">
+  <channels>
+    <channel update="i" site="elevensports.pt" site_id="elevensports1" xmltv_id="ELEVEN SPORTS 1">ELEVEN SPORTS 1</channel>
+    <channel update="i" site="elevensports.pt" site_id="elevensports2" xmltv_id="ELEVEN SPORTS 2">ELEVEN SPORTS 2</channel>
+  </channels>
+</site>
