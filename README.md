@@ -5,7 +5,7 @@ Exemplo de utilização:
 # exemplo de canal no ficheiro .xml
 
   <channel id="RTP 1">
-    <display-name lang="pt">RTP 1</display-name>
+    <display-name lang="pt">RTP 1 HD</display-name>
     <url>http://www.nos.pt</url>
   </channel>
 ```
