@@ -2769,42 +2769,47 @@
     <category lang="pt">series</category>
     <episode-num system="xmltv_ns">S14E91</episode-num>
   </programme>
-  <programme start="20190903055900 +0100" stop="20190903064200 +0100" channel="GLOBO PREMIUM">
+  <programme start="20190903055900 +0100" stop="20190903063100 +0100" channel="GLOBO PREMIUM">
     <title lang="pt">Cordel Encantado</title>
     <category lang="pt">entretenimento</category>
     <episode-num system="xmltv_ns">S1E109</episode-num>
   </programme>
-  <programme start="20190903064200 +0100" stop="20190903072400 +0100" channel="GLOBO PREMIUM">
+  <programme start="20190903063100 +0100" stop="20190903071300 +0100" channel="GLOBO PREMIUM">
     <title lang="pt">Caras &amp; Bocas</title>
     <category lang="pt">entretenimento</category>
     <episode-num system="xmltv_ns">S1E109</episode-num>
   </programme>
-  <programme start="20190903072400 +0100" stop="20190903080200 +0100" channel="GLOBO PREMIUM">
+  <programme start="20190903071300 +0100" stop="20190903074200 +0100" channel="GLOBO PREMIUM">
+    <title lang="pt">Malhação: Vidas Brasileiras</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S27E86</episode-num>
+  </programme>
+  <programme start="20190903074200 +0100" stop="20190903081700 +0100" channel="GLOBO PREMIUM">
     <title lang="pt">Felicidade</title>
     <category lang="pt">entretenimento</category>
     <episode-num system="xmltv_ns">S1E161</episode-num>
   </programme>
-  <programme start="20190903080200 +0100" stop="20190903084400 +0100" channel="GLOBO PREMIUM">
+  <programme start="20190903081700 +0100" stop="20190903085900 +0100" channel="GLOBO PREMIUM">
     <title lang="pt">O Cravo e A Rosa</title>
     <category lang="pt">entretenimento</category>
     <episode-num system="xmltv_ns">S1E187</episode-num>
   </programme>
-  <programme start="20190903084400 +0100" stop="20190903092700 +0100" channel="GLOBO PREMIUM">
+  <programme start="20190903085900 +0100" stop="20190903094300 +0100" channel="GLOBO PREMIUM">
     <title lang="pt">Verão 90</title>
     <category lang="pt">entretenimento</category>
     <episode-num system="xmltv_ns">S1E139</episode-num>
   </programme>
-  <programme start="20190903092700 +0100" stop="20190903100400 +0100" channel="GLOBO PREMIUM">
+  <programme start="20190903094300 +0100" stop="20190903102000 +0100" channel="GLOBO PREMIUM">
     <title lang="pt">Órfãos da Terra</title>
     <category lang="pt">entretenimento</category>
     <episode-num system="xmltv_ns">S1E85</episode-num>
   </programme>
-  <programme start="20190903100400 +0100" stop="20190903104700 +0100" channel="GLOBO PREMIUM">
+  <programme start="20190903102000 +0100" stop="20190903110100 +0100" channel="GLOBO PREMIUM">
     <title lang="pt">Escrito nas Estrelas</title>
     <category lang="pt">entretenimento</category>
     <episode-num system="xmltv_ns">S1E73</episode-num>
   </programme>
-  <programme start="20190903104700 +0100" stop="20190903114300 +0100" channel="GLOBO PREMIUM">
+  <programme start="20190903110100 +0100" stop="20190903114300 +0100" channel="GLOBO PREMIUM">
     <title lang="pt">O Sétimo Guardião</title>
     <category lang="pt">entretenimento</category>
     <episode-num system="xmltv_ns">S1E126</episode-num>
@@ -2879,42 +2884,47 @@
     <category lang="pt">entretenimento</category>
     <episode-num system="xmltv_ns">S1E50</episode-num>
   </programme>
-  <programme start="20190903231500 +0100" stop="20190904000900 +0100" channel="GLOBO PREMIUM">
+  <programme start="20190903231500 +0100" stop="20190903235600 +0100" channel="GLOBO PREMIUM">
     <title lang="pt">Verdades Secretas</title>
     <category lang="pt">entretenimento</category>
     <episode-num system="xmltv_ns">S1E52</episode-num>
   </programme>
-  <programme start="20190904000900 +0100" stop="20190904005100 +0100" channel="GLOBO PREMIUM">
+  <programme start="20190903235600 +0100" stop="20190904005100 +0100" channel="GLOBO PREMIUM">
     <title lang="pt">Carcereiros</title>
     <category lang="pt">series</category>
     <episode-num system="xmltv_ns">S2E7</episode-num>
   </programme>
-  <programme start="20190904005100 +0100" stop="20190904013300 +0100" channel="GLOBO PREMIUM">
+  <programme start="20190904005100 +0100" stop="20190904012000 +0100" channel="GLOBO PREMIUM">
+    <title lang="pt">Malhação: Vidas Brasileiras</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S27E87</episode-num>
+  </programme>
+  <programme start="20190904012000 +0100" stop="20190904020000 +0100" channel="GLOBO PREMIUM">
     <title lang="pt">O Cravo e A Rosa</title>
     <category lang="pt">entretenimento</category>
     <episode-num system="xmltv_ns">S1E188</episode-num>
   </programme>
-  <programme start="20190904013300 +0100" stop="20190904021000 +0100" channel="GLOBO PREMIUM">
+  <programme start="20190904020000 +0100" stop="20190904023200 +0100" channel="GLOBO PREMIUM">
     <title lang="pt">Órfãos da Terra</title>
     <category lang="pt">entretenimento</category>
     <episode-num system="xmltv_ns">S1E86</episode-num>
   </programme>
-  <programme start="20190904021000 +0100" stop="20190904025200 +0100" channel="GLOBO PREMIUM">
+  <programme start="20190904023200 +0100" stop="20190904031200 +0100" channel="GLOBO PREMIUM">
     <title lang="pt">Escrito nas Estrelas</title>
     <category lang="pt">entretenimento</category>
     <episode-num system="xmltv_ns">S1E74</episode-num>
   </programme>
-  <programme start="20190904025200 +0100" stop="20190904034400 +0100" channel="GLOBO PREMIUM">
+  <programme start="20190904031200 +0100" stop="20190904040100 +0100" channel="GLOBO PREMIUM">
     <title lang="pt">O Sétimo Guardião</title>
     <category lang="pt">entretenimento</category>
     <episode-num system="xmltv_ns">S1E127</episode-num>
   </programme>
-  <programme start="20190904034400 +0100" stop="20190904043600 +0100" channel="GLOBO PREMIUM">
+  <programme start="20190904040100 +0100" stop="20190904045200 +0100" channel="GLOBO PREMIUM">
     <title lang="pt">Por Amor</title>
     <category lang="pt">entretenimento</category>
     <episode-num system="xmltv_ns">S1E50</episode-num>
   </programme>
-  <programme start="20190904043600 +0100" stop="20190904053000 +0100" channel="GLOBO PREMIUM">
+  <programme start="20190904045200 +0100" stop="20190904053000 +0100" channel="GLOBO PREMIUM">
     <title lang="pt">Verdades Secretas</title>
     <category lang="pt">entretenimento</category>
     <episode-num system="xmltv_ns">S1E52</episode-num>
@@ -2944,12 +2954,12 @@
     <category lang="pt">entretenimento</category>
     <episode-num system="xmltv_ns">S1E188</episode-num>
   </programme>
-  <programme start="20190904084400 +0100" stop="20190904092700 +0100" channel="GLOBO PREMIUM">
+  <programme start="20190904084400 +0100" stop="20190904093700 +0100" channel="GLOBO PREMIUM">
     <title lang="pt">Verão 90</title>
     <category lang="pt">entretenimento</category>
     <episode-num system="xmltv_ns">S1E140</episode-num>
   </programme>
-  <programme start="20190904092700 +0100" stop="20190904100400 +0100" channel="GLOBO PREMIUM">
+  <programme start="20190904093700 +0100" stop="20190904100400 +0100" channel="GLOBO PREMIUM">
     <title lang="pt">Órfãos da Terra</title>
     <category lang="pt">entretenimento</category>
     <episode-num system="xmltv_ns">S1E86</episode-num>
@@ -3034,10 +3044,15 @@
     <category lang="pt">entretenimento</category>
     <episode-num system="xmltv_ns">S1E51</episode-num>
   </programme>
-  <programme start="20190904231500 +0100" stop="20190905000900 +0100" channel="GLOBO PREMIUM">
+  <programme start="20190904231500 +0100" stop="20190904235000 +0100" channel="GLOBO PREMIUM">
     <title lang="pt">Verdades Secretas</title>
     <category lang="pt">entretenimento</category>
     <episode-num system="xmltv_ns">S1E53</episode-num>
+  </programme>
+  <programme start="20190904235000 +0100" stop="20190905003300 +0100" channel="GLOBO PREMIUM">
+    <title lang="pt">Carcereiros</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E8</episode-num>
   </programme>
   <programme start="20190903003000 +0100" stop="20190903004500 +0100" channel="BBC WORLD">
     <title lang="pt">Asia Business Report</title>
