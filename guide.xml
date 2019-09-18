@@ -4336,37 +4336,32 @@
     <category lang="pt">entretenimento</category>
     <episode-num system="xmltv_ns">T.1 Ep.63</episode-num>
   </programme>
-  <programme start="20190919000400 +0100" stop="20190919003300 +0100" channel="GLOBO PREMIUM">
+  <programme start="20190919000400 +0100" stop="20190919004500 +0100" channel="GLOBO PREMIUM">
     <title lang="pt">As Cariocas T.1 Ep.3</title>
     <category lang="pt">series</category>
     <episode-num system="xmltv_ns">T.1 Ep.3</episode-num>
   </programme>
-  <programme start="20190919003300 +0100" stop="20190919010200 +0100" channel="GLOBO PREMIUM">
-    <title lang="pt">Malhação: Vidas Brasileiras T.27 Ep.97</title>
-    <category lang="pt">series</category>
-    <episode-num system="xmltv_ns">T.27 Ep.97</episode-num>
-  </programme>
-  <programme start="20190919010200 +0100" stop="20190919014400 +0100" channel="GLOBO PREMIUM">
+  <programme start="20190919004500 +0100" stop="20190919012600 +0100" channel="GLOBO PREMIUM">
     <title lang="pt">O Cravo e A Rosa T.1 Ep.201</title>
     <category lang="pt">entretenimento</category>
     <episode-num system="xmltv_ns">T.1 Ep.201</episode-num>
   </programme>
-  <programme start="20190919014400 +0100" stop="20190919022000 +0100" channel="GLOBO PREMIUM">
+  <programme start="20190919012600 +0100" stop="20190919020400 +0100" channel="GLOBO PREMIUM">
     <title lang="pt">Órfãos da Terra T.1 Ep.99</title>
     <category lang="pt">entretenimento</category>
     <episode-num system="xmltv_ns">T.1 Ep.99</episode-num>
   </programme>
-  <programme start="20190919022000 +0100" stop="20190919030200 +0100" channel="GLOBO PREMIUM">
+  <programme start="20190919020400 +0100" stop="20190919025200 +0100" channel="GLOBO PREMIUM">
     <title lang="pt">Escrito nas Estrelas T.1 Ep.87</title>
     <category lang="pt">entretenimento</category>
     <episode-num system="xmltv_ns">T.1 Ep.87</episode-num>
   </programme>
-  <programme start="20190919030200 +0100" stop="20190919035300 +0100" channel="GLOBO PREMIUM">
+  <programme start="20190919025200 +0100" stop="20190919034300 +0100" channel="GLOBO PREMIUM">
     <title lang="pt">O Sétimo Guardião T.1 Ep.140</title>
     <category lang="pt">entretenimento</category>
     <episode-num system="xmltv_ns">T.1 Ep.140</episode-num>
   </programme>
-  <programme start="20190919035300 +0100" stop="20190919044500 +0100" channel="GLOBO PREMIUM">
+  <programme start="20190919034300 +0100" stop="20190919044500 +0100" channel="GLOBO PREMIUM">
     <title lang="pt">Por Amor T.1 Ep.63</title>
     <category lang="pt">entretenimento</category>
     <episode-num system="xmltv_ns">T.1 Ep.63</episode-num>
@@ -4491,47 +4486,42 @@
     <category lang="pt">entretenimento</category>
     <episode-num system="xmltv_ns">T.1 Ep.64</episode-num>
   </programme>
-  <programme start="20190919230000 +0100" stop="20190919234900 +0100" channel="GLOBO PREMIUM">
+  <programme start="20190919230000 +0100" stop="20190920001700 +0100" channel="GLOBO PREMIUM">
     <title lang="pt">Verdades Secretas T.1 Ep.64</title>
     <category lang="pt">entretenimento</category>
     <episode-num system="xmltv_ns">T.1 Ep.64</episode-num>
   </programme>
-  <programme start="20190919234900 +0100" stop="20190920002300 +0100" channel="GLOBO PREMIUM">
+  <programme start="20190920001700 +0100" stop="20190920004500 +0100" channel="GLOBO PREMIUM">
     <title lang="pt">As Cariocas T.1 Ep.4</title>
     <category lang="pt">series</category>
     <episode-num system="xmltv_ns">T.1 Ep.4</episode-num>
   </programme>
-  <programme start="20190920002300 +0100" stop="20190920010000 +0100" channel="GLOBO PREMIUM">
-    <title lang="pt">Felicidade T.1 Ep.174</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">T.1 Ep.174</episode-num>
-  </programme>
-  <programme start="20190920010000 +0100" stop="20190920014200 +0100" channel="GLOBO PREMIUM">
+  <programme start="20190920004500 +0100" stop="20190920012500 +0100" channel="GLOBO PREMIUM">
     <title lang="pt">O Cravo e A Rosa T.1 Ep.202</title>
     <category lang="pt">entretenimento</category>
     <episode-num system="xmltv_ns">T.1 Ep.202</episode-num>
   </programme>
-  <programme start="20190920014200 +0100" stop="20190920021900 +0100" channel="GLOBO PREMIUM">
+  <programme start="20190920012500 +0100" stop="20190920020300 +0100" channel="GLOBO PREMIUM">
     <title lang="pt">Órfãos da Terra T.1 Ep.100</title>
     <category lang="pt">entretenimento</category>
     <episode-num system="xmltv_ns">T.1 Ep.100</episode-num>
   </programme>
-  <programme start="20190920021900 +0100" stop="20190920030800 +0100" channel="GLOBO PREMIUM">
+  <programme start="20190920020300 +0100" stop="20190920024400 +0100" channel="GLOBO PREMIUM">
     <title lang="pt">Escrito nas Estrelas T.1 Ep.88</title>
     <category lang="pt">entretenimento</category>
     <episode-num system="xmltv_ns">T.1 Ep.88</episode-num>
   </programme>
-  <programme start="20190920030800 +0100" stop="20190920034500 +0100" channel="GLOBO PREMIUM">
+  <programme start="20190920024400 +0100" stop="20190920032200 +0100" channel="GLOBO PREMIUM">
     <title lang="pt">O Sétimo Guardião T.1 Ep.141</title>
     <category lang="pt">entretenimento</category>
     <episode-num system="xmltv_ns">T.1 Ep.141</episode-num>
   </programme>
-  <programme start="20190920034500 +0100" stop="20190920043700 +0100" channel="GLOBO PREMIUM">
+  <programme start="20190920032200 +0100" stop="20190920041400 +0100" channel="GLOBO PREMIUM">
     <title lang="pt">Por Amor T.1 Ep.64</title>
     <category lang="pt">entretenimento</category>
     <episode-num system="xmltv_ns">T.1 Ep.64</episode-num>
   </programme>
-  <programme start="20190920043700 +0100" stop="20190920052500 +0100" channel="GLOBO PREMIUM">
+  <programme start="20190920041400 +0100" stop="20190920052500 +0100" channel="GLOBO PREMIUM">
     <title lang="pt">Verdades Secretas T.1 Ep.64</title>
     <category lang="pt">entretenimento</category>
     <episode-num system="xmltv_ns">T.1 Ep.64</episode-num>
@@ -4652,9 +4642,9 @@
     <episode-num system="xmltv_ns">T.1 Ep.65</episode-num>
   </programme>
   <programme start="20190920231500 +0100" stop="20190921000400 +0100" channel="GLOBO PREMIUM">
-    <title lang="pt">Verdades Secretas T.1 Ep.65</title>
+    <title lang="pt">Verdades Secretas T.1 Ep.64</title>
     <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">T.1 Ep.65</episode-num>
+    <episode-num system="xmltv_ns">T.1 Ep.64</episode-num>
   </programme>
   <programme start="20190918003000 +0100" stop="20190918004500 +0100" channel="BBC WORLD">
     <title lang="pt">Asia Business Report</title>
@@ -42224,48 +42214,6 @@
   <programme start="20190920234000 +0100" stop="20190921020000 +0100" channel="TVCINE 1">
     <title lang="pt">Papillon</title>
   </programme>
-  <programme start="20190918010500 +0100" stop="20190918014000 +0100" channel="TVCINE 2">
-    <title lang="pt">Self Destructive Boys</title>
-  </programme>
-  <programme start="20190918014000 +0100" stop="20190918034000 +0100" channel="TVCINE 2">
-    <title lang="pt">Tiro de Escape</title>
-  </programme>
-  <programme start="20190918034000 +0100" stop="20190918060500 +0100" channel="TVCINE 2">
-    <title lang="pt">Perseguido pelo Passado</title>
-  </programme>
-  <programme start="20190918060500 +0100" stop="20190918091000 +0100" channel="TVCINE 2">
-    <title lang="pt">Os Maias - Cenas da Vida Romântica</title>
-  </programme>
-  <programme start="20190918091000 +0100" stop="20190918093500 +0100" channel="TVCINE 2">
-    <title lang="pt">Fry Day</title>
-  </programme>
-  <programme start="20190918093500 +0100" stop="20190918105000 +0100" channel="TVCINE 2">
-    <title lang="pt">Reconversão</title>
-  </programme>
-  <programme start="20190918105000 +0100" stop="20190918123000 +0100" channel="TVCINE 2">
-    <title lang="pt">A Dama Marcada</title>
-  </programme>
-  <programme start="20190918123000 +0100" stop="20190918140500 +0100" channel="TVCINE 2">
-    <title lang="pt">Perfume e Violência</title>
-  </programme>
-  <programme start="20190918140500 +0100" stop="20190918160500 +0100" channel="TVCINE 2">
-    <title lang="pt">Fogo dos Trópicos</title>
-  </programme>
-  <programme start="20190918160500 +0100" stop="20190918181000 +0100" channel="TVCINE 2">
-    <title lang="pt">Tiro de Escape</title>
-  </programme>
-  <programme start="20190918181000 +0100" stop="20190918201500 +0100" channel="TVCINE 2">
-    <title lang="pt">Os Revoltados do Caine</title>
-  </programme>
-  <programme start="20190918201500 +0100" stop="20190918220000 +0100" channel="TVCINE 2">
-    <title lang="pt">A Melodia</title>
-  </programme>
-  <programme start="20190918220000 +0100" stop="20190918234500 +0100" channel="TVCINE 2">
-    <title lang="pt">Mirai (VO)</title>
-  </programme>
-  <programme start="20190918234500 +0100" stop="20190919013000 +0100" channel="TVCINE 2">
-    <title lang="pt">A Dádiva</title>
-  </programme>
   <programme start="20190919013000 +0100" stop="20190919015500 +0100" channel="TVCINE 2">
     <title lang="pt">A6-13</title>
   </programme>
@@ -42359,44 +42307,50 @@
   <programme start="20190920220000 +0100" stop="20190921000000 +0100" channel="TVCINE 2">
     <title lang="pt">A Música Do Silêncio</title>
   </programme>
-  <programme start="20190918002500 +0100" stop="20190918020000 +0100" channel="TVCINE 3">
-    <title lang="pt">Uma Família Ideal</title>
+  <programme start="20190921000000 +0100" stop="20190921033500 +0100" channel="TVCINE 2">
+    <title lang="pt">Lawrence Da Arábia (Versão Restaurada)</title>
   </programme>
-  <programme start="20190918020000 +0100" stop="20190918041500 +0100" channel="TVCINE 3">
-    <title lang="pt">A Idade da Inocência</title>
+  <programme start="20190921033500 +0100" stop="20190921051000 +0100" channel="TVCINE 2">
+    <title lang="pt">Perfume e Violência</title>
   </programme>
-  <programme start="20190918041500 +0100" stop="20190918054500 +0100" channel="TVCINE 3">
-    <title lang="pt">Amor Ao Primeiro Filho</title>
+  <programme start="20190921051000 +0100" stop="20190921053000 +0100" channel="TVCINE 2">
+    <title lang="pt">Alfama</title>
   </programme>
-  <programme start="20190918054500 +0100" stop="20190918080500 +0100" channel="TVCINE 3">
-    <title lang="pt">Walk The Line</title>
+  <programme start="20190921053000 +0100" stop="20190921073000 +0100" channel="TVCINE 2">
+    <title lang="pt">Fogo dos Trópicos</title>
   </programme>
-  <programme start="20190918080500 +0100" stop="20190918094000 +0100" channel="TVCINE 3">
-    <title lang="pt">O Tesouro de Natal</title>
+  <programme start="20190921073000 +0100" stop="20190921093000 +0100" channel="TVCINE 2">
+    <title lang="pt">Bullitt</title>
   </programme>
-  <programme start="20190918094000 +0100" stop="20190918111500 +0100" channel="TVCINE 3">
-    <title lang="pt">Que Piada de Vida</title>
+  <programme start="20190921093000 +0100" stop="20190921105500 +0100" channel="TVCINE 2">
+    <title lang="pt">A Magia dos Oceanos</title>
   </programme>
-  <programme start="20190918111500 +0100" stop="20190918134500 +0100" channel="TVCINE 3">
-    <title lang="pt">Contacto</title>
+  <programme start="20190921105500 +0100" stop="20190921112500 +0100" channel="TVCINE 2">
+    <title lang="pt">As Ondas</title>
   </programme>
-  <programme start="20190918134500 +0100" stop="20190918154000 +0100" channel="TVCINE 3">
-    <title lang="pt">O Mensageiro</title>
+  <programme start="20190921112500 +0100" stop="20190921125000 +0100" channel="TVCINE 2">
+    <title lang="pt">Lembro Mais dos Corvos</title>
   </programme>
-  <programme start="20190918154000 +0100" stop="20190918171500 +0100" channel="TVCINE 3">
-    <title lang="pt">Amor Ao Primeiro Filho</title>
+  <programme start="20190921125000 +0100" stop="20190921144000 +0100" channel="TVCINE 2">
+    <title lang="pt">Só as Borboletas São Livres</title>
   </programme>
-  <programme start="20190918171500 +0100" stop="20190918190500 +0100" channel="TVCINE 3">
-    <title lang="pt">O Mestre</title>
+  <programme start="20190921144000 +0100" stop="20190921162500 +0100" channel="TVCINE 2">
+    <title lang="pt">Cessar-Fogo</title>
   </programme>
-  <programme start="20190918190500 +0100" stop="20190918204000 +0100" channel="TVCINE 3">
-    <title lang="pt">Culto da Fome</title>
+  <programme start="20190921162500 +0100" stop="20190921181000 +0100" channel="TVCINE 2">
+    <title lang="pt">A Mulher que Nasceu Ontem</title>
   </programme>
-  <programme start="20190918204000 +0100" stop="20190918223000 +0100" channel="TVCINE 3">
-    <title lang="pt">Sophie E O Sol Nascente</title>
+  <programme start="20190921181000 +0100" stop="20190921200000 +0100" channel="TVCINE 2">
+    <title lang="pt">Girl: O Sonho de Lara</title>
   </programme>
-  <programme start="20190918223000 +0100" stop="20190919003000 +0100" channel="TVCINE 3">
-    <title lang="pt">O Que Os Homens Querem</title>
+  <programme start="20190921200000 +0100" stop="20190921220000 +0100" channel="TVCINE 2">
+    <title lang="pt">Aparição</title>
+  </programme>
+  <programme start="20190921220000 +0100" stop="20190921235000 +0100" channel="TVCINE 2">
+    <title lang="pt">Cá Por Casa Tudo Bem</title>
+  </programme>
+  <programme start="20190921235000 +0100" stop="20190922014500 +0100" channel="TVCINE 2">
+    <title lang="pt">Mapas Para as Estrelas</title>
   </programme>
   <programme start="20190919003000 +0100" stop="20190919020500 +0100" channel="TVCINE 3">
     <title lang="pt">Goosebumps 2: Arrepios No Halloween</title>
@@ -42479,44 +42433,50 @@
   <programme start="20190920223000 +0100" stop="20190921000000 +0100" channel="TVCINE 3">
     <title lang="pt">Um Natal Feito em Casa</title>
   </programme>
-  <programme start="20190918003500 +0100" stop="20190918023500 +0100" channel="TVCINE 4">
-    <title lang="pt">Prece Ao Nascer Do Dia</title>
+  <programme start="20190921000000 +0100" stop="20190921013500 +0100" channel="TVCINE 3">
+    <title lang="pt">A Extraordinária Viagem Do Faquir</title>
   </programme>
-  <programme start="20190918023500 +0100" stop="20190918042000 +0100" channel="TVCINE 4">
-    <title lang="pt">Lady Bloodfight - Matar ou Morrer</title>
+  <programme start="20190921013500 +0100" stop="20190921030500 +0100" channel="TVCINE 3">
+    <title lang="pt">O Vale Encantado (VP)</title>
   </programme>
-  <programme start="20190918042000 +0100" stop="20190918063000 +0100" channel="TVCINE 4">
-    <title lang="pt">O Fiel Jardineiro</title>
+  <programme start="20190921030500 +0100" stop="20190921043500 +0100" channel="TVCINE 3">
+    <title lang="pt">Arco-Íris do Amor</title>
   </programme>
-  <programme start="20190918063000 +0100" stop="20190918082000 +0100" channel="TVCINE 4">
-    <title lang="pt">Até à Morte</title>
+  <programme start="20190921043500 +0100" stop="20190921062000 +0100" channel="TVCINE 3">
+    <title lang="pt">És o Maior, Meu</title>
   </programme>
-  <programme start="20190918082000 +0100" stop="20190918104000 +0100" channel="TVCINE 4">
-    <title lang="pt">Hulk (2003)</title>
+  <programme start="20190921062000 +0100" stop="20190921075000 +0100" channel="TVCINE 3">
+    <title lang="pt">Ases pelos Ares 2</title>
   </programme>
-  <programme start="20190918104000 +0100" stop="20190918121500 +0100" channel="TVCINE 4">
-    <title lang="pt">Crimes Sombrios</title>
+  <programme start="20190921075000 +0100" stop="20190921092000 +0100" channel="TVCINE 3">
+    <title lang="pt">Regresso a Christmas Creek</title>
   </programme>
-  <programme start="20190918121500 +0100" stop="20190918140000 +0100" channel="TVCINE 4">
-    <title lang="pt">O Padre</title>
+  <programme start="20190921092000 +0100" stop="20190921105000 +0100" channel="TVCINE 3">
+    <title lang="pt">Por Linhas Tortas</title>
   </programme>
-  <programme start="20190918140000 +0100" stop="20190918154500 +0100" channel="TVCINE 4">
-    <title lang="pt">Lady Bloodfight - Matar ou Morrer</title>
+  <programme start="20190921105000 +0100" stop="20190921123000 +0100" channel="TVCINE 3">
+    <title lang="pt">Asas Pelos Ares (VP)</title>
   </programme>
-  <programme start="20190918154500 +0100" stop="20190918174000 +0100" channel="TVCINE 4">
-    <title lang="pt">Para Além Dos Limites</title>
+  <programme start="20190921123000 +0100" stop="20190921140000 +0100" channel="TVCINE 3">
+    <title lang="pt">Um Natal Feito em Casa</title>
   </programme>
-  <programme start="20190918174000 +0100" stop="20190918191500 +0100" channel="TVCINE 4">
-    <title lang="pt">Rainha do Pecado</title>
+  <programme start="20190921140000 +0100" stop="20190921153000 +0100" channel="TVCINE 3">
+    <title lang="pt">O Vale Encantado (VP)</title>
   </programme>
-  <programme start="20190918191500 +0100" stop="20190918212500 +0100" channel="TVCINE 4">
-    <title lang="pt">O Fiel Jardineiro</title>
+  <programme start="20190921153000 +0100" stop="20190921172000 +0100" channel="TVCINE 3">
+    <title lang="pt">Escola Primária</title>
   </programme>
-  <programme start="20190918212500 +0100" stop="20190918230000 +0100" channel="TVCINE 4">
-    <title lang="pt">Crucificada</title>
+  <programme start="20190921172000 +0100" stop="20190921191500 +0100" channel="TVCINE 3">
+    <title lang="pt">Passo a Passo</title>
   </programme>
-  <programme start="20190918230000 +0100" stop="20190919003000 +0100" channel="TVCINE 4">
-    <title lang="pt">Framed (2017)</title>
+  <programme start="20190921191500 +0100" stop="20190921205500 +0100" channel="TVCINE 3">
+    <title lang="pt">O Rapaz de Liverpool</title>
+  </programme>
+  <programme start="20190921205500 +0100" stop="20190921223000 +0100" channel="TVCINE 3">
+    <title lang="pt">O Quebra Corações</title>
+  </programme>
+  <programme start="20190921223000 +0100" stop="20190922002500 +0100" channel="TVCINE 3">
+    <title lang="pt">Dog Days - Vidas de Cão</title>
   </programme>
   <programme start="20190919003000 +0100" stop="20190919021500 +0100" channel="TVCINE 4">
     <title lang="pt">Os Abandonados</title>
@@ -42602,71 +42562,47 @@
   <programme start="20190920230000 +0100" stop="20190921004500 +0100" channel="TVCINE 4">
     <title lang="pt">Em Alta</title>
   </programme>
-  <programme start="20190918003500 +0100" stop="20190918012500 +0100" channel="TVE">
-    <title lang="pt">Gigantes</title>
+  <programme start="20190921004500 +0100" stop="20190921023500 +0100" channel="TVCINE 4">
+    <title lang="pt">O Homem Dos Acidentes</title>
   </programme>
-  <programme start="20190918012500 +0100" stop="20190918032000 +0100" channel="TVE">
-    <title lang="pt">La Noche En 24 Horas</title>
+  <programme start="20190921023500 +0100" stop="20190921040000 +0100" channel="TVCINE 4">
+    <title lang="pt">Uma Voz na Noite</title>
   </programme>
-  <programme start="20190918032000 +0100" stop="20190918043000 +0100" channel="TVE">
-    <title lang="pt">España Directo</title>
+  <programme start="20190921040000 +0100" stop="20190921053500 +0100" channel="TVCINE 4">
+    <title lang="pt">Massacre em Jersey Shore</title>
   </programme>
-  <programme start="20190918043000 +0100" stop="20190918053000 +0100" channel="TVE">
-    <title lang="pt">La Aventura Del Saber</title>
+  <programme start="20190921053500 +0100" stop="20190921075000 +0100" channel="TVCINE 4">
+    <title lang="pt">O Último Castelo</title>
   </programme>
-  <programme start="20190918053000 +0100" stop="20190918072500 +0100" channel="TVE">
-    <title lang="pt">Telediario Matinal</title>
+  <programme start="20190921075000 +0100" stop="20190921093000 +0100" channel="TVCINE 4">
+    <title lang="pt">Anna e o Apocalipse</title>
   </programme>
-  <programme start="20190918072500 +0100" stop="20190918090000 +0100" channel="TVE">
-    <title lang="pt">Los Desayunos De Tve</title>
+  <programme start="20190921093000 +0100" stop="20190921110000 +0100" channel="TVCINE 4">
+    <title lang="pt">Gato Mau (VO)</title>
   </programme>
-  <programme start="20190918090000 +0100" stop="20190918112500 +0100" channel="TVE">
-    <title lang="pt">La Mañana De La 1</title>
+  <programme start="20190921110000 +0100" stop="20190921123000 +0100" channel="TVCINE 4">
+    <title lang="pt">Paciente Zero</title>
   </programme>
-  <programme start="20190918112500 +0100" stop="20190918122500 +0100" channel="TVE">
-    <title lang="pt">A Partir De Hoy</title>
+  <programme start="20190921123000 +0100" stop="20190921140500 +0100" channel="TVCINE 4">
+    <title lang="pt">Slender Man</title>
   </programme>
-  <programme start="20190918122500 +0100" stop="20190918125500 +0100" channel="TVE">
-    <title lang="pt">Hacer De Comer</title>
+  <programme start="20190921140500 +0100" stop="20190921154000 +0100" channel="TVCINE 4">
+    <title lang="pt">Twisted - Perversa</title>
   </programme>
-  <programme start="20190918125500 +0100" stop="20190918133000 +0100" channel="TVE">
-    <title lang="pt">Aquí La Tierra</title>
+  <programme start="20190921154000 +0100" stop="20190921171000 +0100" channel="TVCINE 4">
+    <title lang="pt">Invasão De Domicílio</title>
   </programme>
-  <programme start="20190918133000 +0100" stop="20190918140000 +0100" channel="TVE">
-    <title lang="pt">Corazón</title>
+  <programme start="20190921171000 +0100" stop="20190921192500 +0100" channel="TVCINE 4">
+    <title lang="pt">A Raiz do Medo</title>
   </programme>
-  <programme start="20190918140000 +0100" stop="20190918150000 +0100" channel="TVE">
-    <title lang="pt">Telediario 1</title>
+  <programme start="20190921192500 +0100" stop="20190921211000 +0100" channel="TVCINE 4">
+    <title lang="pt">Rutura</title>
   </programme>
-  <programme start="20190918150000 +0100" stop="20190918154500 +0100" channel="TVE">
-    <title lang="pt">Saber Y Ganar</title>
+  <programme start="20190921211000 +0100" stop="20190921230000 +0100" channel="TVCINE 4">
+    <title lang="pt">A Vingança De Lizzie Borden</title>
   </programme>
-  <programme start="20190918154500 +0100" stop="20190918164000 +0100" channel="TVE">
-    <title lang="pt">Servir Y Proteger</title>
-  </programme>
-  <programme start="20190918164000 +0100" stop="20190918173500 +0100" channel="TVE">
-    <title lang="pt">Acacias 38</title>
-  </programme>
-  <programme start="20190918173500 +0100" stop="20190918180500 +0100" channel="TVE">
-    <title lang="pt">Centro Médico</title>
-  </programme>
-  <programme start="20190918180500 +0100" stop="20190918181500 +0100" channel="TVE">
-    <title lang="pt">Cámara Abierta 2.0</title>
-  </programme>
-  <programme start="20190918181500 +0100" stop="20190918193000 +0100" channel="TVE">
-    <title lang="pt">España Directo</title>
-  </programme>
-  <programme start="20190918193000 +0100" stop="20190918200000 +0100" channel="TVE">
-    <title lang="pt">Aquí La Tierra</title>
-  </programme>
-  <programme start="20190918200000 +0100" stop="20190918211000 +0100" channel="TVE">
-    <title lang="pt">Telediario 2</title>
-  </programme>
-  <programme start="20190918211000 +0100" stop="20190918235500 +0100" channel="TVE">
-    <title lang="pt">Masterchef Celebrity</title>
-  </programme>
-  <programme start="20190918235500 +0100" stop="20190919000000 +0100" channel="TVE">
-    <title lang="pt">Cartas En El Tiempo</title>
+  <programme start="20190921230000 +0100" stop="20190922003000 +0100" channel="TVCINE 4">
+    <title lang="pt">Massacre em Jersey Shore</title>
   </programme>
   <programme start="20190919000000 +0100" stop="20190919005500 +0100" channel="TVE">
     <title lang="pt">TVEi</title>
@@ -42812,55 +42748,77 @@
   <programme start="20190920233000 +0100" stop="20190921000000 +0100" channel="TVE">
     <title lang="pt">TVEi</title>
   </programme>
-  <programme start="20190918002000 +0100" stop="20190918012700 +0100" channel="TVI">
-    <title lang="pt">Mar De Paixão - Ep. 17</title>
-    <desc lang="pt">Benedita, um coração que bate, uma história de ternura e amor para contar. Benedita, coração de sereia, mulher da terra, rainha do mar(n)</desc>
+  <programme start="20190921000000 +0100" stop="20190921005500 +0100" channel="TVE">
+    <title lang="pt">TVEi</title>
   </programme>
-  <programme start="20190918012700 +0100" stop="20190918030000 +0100" channel="TVI">
-    <title lang="pt">1000 À Hora</title>
+  <programme start="20190921005500 +0100" stop="20190921014000 +0100" channel="TVE">
+    <title lang="pt">TVEi</title>
   </programme>
-  <programme start="20190918030000 +0100" stop="20190918035600 +0100" channel="TVI">
-    <title lang="pt">Meu Amor - Ep. 110</title>
-    <desc lang="pt">As extensas e floridas planícies de proteas e o mar do litoral alentejano testemunham a história de amor clandestina de Mel e Bernardo. O rapaz é filho do dono da herdade onde Mel, filha do caseiro, vive e trabalha como camponesa(n)</desc>
+  <programme start="20190921014000 +0100" stop="20190921023000 +0100" channel="TVE">
+    <title lang="pt">TVEi</title>
   </programme>
-  <programme start="20190918035600 +0100" stop="20190918044800 +0100" channel="TVI">
-    <title lang="pt">Remédio Santo - Ep. 132</title>
-    <desc lang="pt">Há trinta anos, Violante estava de casamento marcado com o ambicioso Daniel, inconformado com a pobre vida que tinha. Sequioso de ascensão social, Daniel não hesitou em trocar a namorada pobre e que esperava um filho seu, pela milionária Eugénia Monforte(n)</desc>
+  <programme start="20190921023000 +0100" stop="20190921052500 +0100" channel="TVE">
+    <title lang="pt">TVEi</title>
   </programme>
-  <programme start="20190918044800 +0100" stop="20190918051500 +0100" channel="TVI">
-    <title lang="pt">Saber Amar - Ep. 132</title>
+  <programme start="20190921052500 +0100" stop="20190921063000 +0100" channel="TVE">
+    <title lang="pt">TVEi</title>
   </programme>
-  <programme start="20190918051500 +0100" stop="20190918063000 +0100" channel="TVI">
-    <title lang="pt">TV Shop</title>
+  <programme start="20190921063000 +0100" stop="20190921093000 +0100" channel="TVE">
+    <title lang="pt">TVEi</title>
   </programme>
-  <programme start="20190918063000 +0100" stop="20190918101400 +0100" channel="TVI">
-    <title lang="pt">Diário Da Manhã</title>
+  <programme start="20190921093000 +0100" stop="20190921100000 +0100" channel="TVE">
+    <title lang="pt">TVEi</title>
   </programme>
-  <programme start="20190918101400 +0100" stop="20190918130000 +0100" channel="TVI">
-    <title lang="pt">Você Na TV</title>
+  <programme start="20190921100000 +0100" stop="20190921101000 +0100" channel="TVE">
+    <title lang="pt">TVEi</title>
   </programme>
-  <programme start="20190918130000 +0100" stop="20190918144200 +0100" channel="TVI">
-    <title lang="pt">Jornal Da Uma</title>
+  <programme start="20190921101000 +0100" stop="20190921114000 +0100" channel="TVE">
+    <title lang="pt">TVEi</title>
   </programme>
-  <programme start="20190918144200 +0100" stop="20190918161500 +0100" channel="TVI">
-    <title lang="pt">Belmonte - Ep. 113</title>
-    <desc lang="pt">A família Belmonte está ligada à história ancestral da terra, mas Emílio, o último descendente da família, casou com Clarisse, uma mulher que não podia ter filhos e, por tal, para a sobrevivência do nome, o casal foi adotando as crianças(n)</desc>
+  <programme start="20190921114000 +0100" stop="20190921114500 +0100" channel="TVE">
+    <title lang="pt">TVEi</title>
   </programme>
-  <programme start="20190918161500 +0100" stop="20190918195700 +0100" channel="TVI">
-    <title lang="pt">A Tarde É Sua</title>
+  <programme start="20190921114500 +0100" stop="20190921131000 +0100" channel="TVE">
+    <title lang="pt">TVEi</title>
   </programme>
-  <programme start="20190918195700 +0100" stop="20190918213700 +0100" channel="TVI">
-    <title lang="pt">Jornal Das 8</title>
+  <programme start="20190921131000 +0100" stop="20190921134000 +0100" channel="TVE">
+    <title lang="pt">TVEi</title>
   </programme>
-  <programme start="20190918213700 +0100" stop="20190918223700 +0100" channel="TVI">
-    <title lang="pt">Na Corda Bamba - Ep. 4</title>
+  <programme start="20190921134000 +0100" stop="20190921144000 +0100" channel="TVE">
+    <title lang="pt">TVEi</title>
   </programme>
-  <programme start="20190918223700 +0100" stop="20190918235000 +0100" channel="TVI">
-    <title lang="pt">Prisioneira - Ep. 106</title>
+  <programme start="20190921144000 +0100" stop="20190921150500 +0100" channel="TVE">
+    <title lang="pt">TVEi</title>
   </programme>
-  <programme start="20190918235000 +0100" stop="20190919004800 +0100" channel="TVI">
-    <title lang="pt">Mar De Paixão - Ep. 18</title>
-    <desc lang="pt">Benedita, um coração que bate, uma história de ternura e amor para contar. Benedita, coração de sereia, mulher da terra, rainha do mar(n)</desc>
+  <programme start="20190921150500 +0100" stop="20190921160500 +0100" channel="TVE">
+    <title lang="pt">TVEi</title>
+  </programme>
+  <programme start="20190921160500 +0100" stop="20190921173000 +0100" channel="TVE">
+    <title lang="pt">TVEi</title>
+  </programme>
+  <programme start="20190921173000 +0100" stop="20190921174500 +0100" channel="TVE">
+    <title lang="pt">TVEi</title>
+  </programme>
+  <programme start="20190921174500 +0100" stop="20190921190000 +0100" channel="TVE">
+    <title lang="pt">TVEi</title>
+  </programme>
+  <programme start="20190921190000 +0100" stop="20190921200000 +0100" channel="TVE">
+    <title lang="pt">TVEi</title>
+  </programme>
+  <programme start="20190921200000 +0100" stop="20190921202000 +0100" channel="TVE">
+    <title lang="pt">TVEi</title>
+  </programme>
+  <programme start="20190921202000 +0100" stop="20190921205000 +0100" channel="TVE">
+    <title lang="pt">TVEi</title>
+  </programme>
+  <programme start="20190921205000 +0100" stop="20190921222000 +0100" channel="TVE">
+    <title lang="pt">TVEi</title>
+  </programme>
+  <programme start="20190921222000 +0100" stop="20190921233000 +0100" channel="TVE">
+    <title lang="pt">TVEi</title>
+  </programme>
+  <programme start="20190921233000 +0100" stop="20190922000000 +0100" channel="TVE">
+    <title lang="pt">TVEi</title>
   </programme>
   <programme start="20190919004800 +0100" stop="20190919022700 +0100" channel="TVI">
     <title lang="pt">1000 À Hora</title>
@@ -42954,62 +42912,53 @@
     <title lang="pt">Mar De Paixão - Ep. 20</title>
     <desc lang="pt">Benedita, um coração que bate, uma história de ternura e amor para contar. Benedita, coração de sereia, mulher da terra, rainha do mar(n)</desc>
   </programme>
-  <programme start="20190918000000 +0100" stop="20190918010000 +0100" channel="TVI 24">
-    <title lang="pt">25ª Hora</title>
+  <programme start="20190921010000 +0100" stop="20190921021500 +0100" channel="TVI">
+    <title lang="pt">1000 À Hora</title>
   </programme>
-  <programme start="20190918010000 +0100" stop="20190918025600 +0100" channel="TVI 24">
-    <title lang="pt">Benfica x Leipzig - Liga Dos Campeões</title>
+  <programme start="20190921021500 +0100" stop="20190921030000 +0100" channel="TVI">
+    <title lang="pt">Meu Amor - Ep. 113</title>
+    <desc lang="pt">As extensas e floridas planícies de proteas e o mar do litoral alentejano testemunham a história de amor clandestina de Mel e Bernardo. O rapaz é filho do dono da herdade onde Mel, filha do caseiro, vive e trabalha como camponesa(n)</desc>
   </programme>
-  <programme start="20190918025600 +0100" stop="20190918031000 +0100" channel="TVI 24">
-    <title lang="pt">FFF - Fashion Film Factory</title>
+  <programme start="20190921030000 +0100" stop="20190921040000 +0100" channel="TVI">
+    <title lang="pt">Remédio Santo - Ep. 135</title>
+    <desc lang="pt">Há trinta anos, Violante estava de casamento marcado com o ambicioso Daniel, inconformado com a pobre vida que tinha. Sequioso de ascensão social, Daniel não hesitou em trocar a namorada pobre e que esperava um filho seu, pela milionária Eugénia Monforte(n)</desc>
   </programme>
-  <programme start="20190918031000 +0100" stop="20190918032600 +0100" channel="TVI 24">
-    <title lang="pt">Cinebox</title>
+  <programme start="20190921040000 +0100" stop="20190921044500 +0100" channel="TVI">
+    <title lang="pt">Saber Amar - Ep. 135</title>
   </programme>
-  <programme start="20190918032600 +0100" stop="20190918033500 +0100" channel="TVI 24">
-    <title lang="pt">Acredite Se Quiser</title>
-  </programme>
-  <programme start="20190918033500 +0100" stop="20190918043000 +0100" channel="TVI 24">
-    <title lang="pt">25ª Hora</title>
-  </programme>
-  <programme start="20190918043000 +0100" stop="20190918063000 +0100" channel="TVI 24">
+  <programme start="20190921044500 +0100" stop="20190921061500 +0100" channel="TVI">
     <title lang="pt">TV Shop</title>
   </programme>
-  <programme start="20190918063000 +0100" stop="20190918100000 +0100" channel="TVI 24">
-    <title lang="pt">Diário Da Manhã</title>
+  <programme start="20190921061500 +0100" stop="20190921063000 +0100" channel="TVI">
+    <title lang="pt">Os Batanetes</title>
   </programme>
-  <programme start="20190918100000 +0100" stop="20190918130000 +0100" channel="TVI 24">
-    <title lang="pt">Notícias</title>
+  <programme start="20190921063000 +0100" stop="20190921073000 +0100" channel="TVI">
+    <title lang="pt">Detective Maravilhas</title>
   </programme>
-  <programme start="20190918130000 +0100" stop="20190918143000 +0100" channel="TVI 24">
+  <programme start="20190921073000 +0100" stop="20190921083000 +0100" channel="TVI">
+    <title lang="pt">O Bando Dos Quatro</title>
+  </programme>
+  <programme start="20190921083000 +0100" stop="20190921130000 +0100" channel="TVI">
+    <title lang="pt">Inspetor Max</title>
+  </programme>
+  <programme start="20190921130000 +0100" stop="20190921140000 +0100" channel="TVI">
     <title lang="pt">Jornal Da Uma</title>
   </programme>
-  <programme start="20190918143000 +0100" stop="20190918180000 +0100" channel="TVI 24">
-    <title lang="pt">Notícias</title>
+  <programme start="20190921140000 +0100" stop="20190921150000 +0100" channel="TVI">
+    <title lang="pt">Conta-me Como És T2 - Ep. 50</title>
+    <episode-num>T2 - Ep. 50</episode-num>
   </programme>
-  <programme start="20190918180000 +0100" stop="20190918190000 +0100" channel="TVI 24">
-    <title lang="pt">Mais Bastidores - Tarde</title>
+  <programme start="20190921150000 +0100" stop="20190921195700 +0100" channel="TVI">
+    <title lang="pt">Juntos em Festa</title>
   </programme>
-  <programme start="20190918190000 +0100" stop="20190918200000 +0100" channel="TVI 24">
-    <title lang="pt">Notícias</title>
+  <programme start="20190921195700 +0100" stop="20190921214000 +0100" channel="TVI">
+    <title lang="pt">Jornal Das 8</title>
   </programme>
-  <programme start="20190918200000 +0100" stop="20190918210000 +0100" channel="TVI 24">
-    <title lang="pt">Mais Bastidores</title>
+  <programme start="20190921214000 +0100" stop="20190921224000 +0100" channel="TVI">
+    <title lang="pt">Na Corda Bamba - Ep. 7</title>
   </programme>
-  <programme start="20190918210000 +0100" stop="20190918212500 +0100" channel="TVI 24">
-    <title lang="pt">Notícias</title>
-  </programme>
-  <programme start="20190918212500 +0100" stop="20190918220000 +0100" channel="TVI 24">
-    <title lang="pt">Alexandra Borges - Debate</title>
-  </programme>
-  <programme start="20190918220000 +0100" stop="20190918223000 +0100" channel="TVI 24">
-    <title lang="pt">21ª Hora</title>
-  </programme>
-  <programme start="20190918223000 +0100" stop="20190918233000 +0100" channel="TVI 24">
-    <title lang="pt">Circulatura Do Quadrado</title>
-  </programme>
-  <programme start="20190918233000 +0100" stop="20190919001500 +0100" channel="TVI 24">
-    <title lang="pt">Mais Bastidores - Noite</title>
+  <programme start="20190921224000 +0100" stop="20190922000000 +0100" channel="TVI">
+    <title lang="pt">Prisioneira - Ep. 109</title>
   </programme>
   <programme start="20190919001500 +0100" stop="20190919010000 +0100" channel="TVI 24">
     <title lang="pt">25ª Hora</title>
@@ -43110,92 +43059,77 @@
   <programme start="20190920223000 +0100" stop="20190921000000 +0100" channel="TVI 24">
     <title lang="pt">Mais Futebol</title>
   </programme>
-  <programme start="20190918003000 +0100" stop="20190918012800 +0100" channel="TVI FICCAO">
-    <title lang="pt">Destinos Cruzados - Ep. 108</title>
-    <desc lang="pt">O luxo e o lixo da sociedade servem de pano de fundo à história de duas mulheres(n)</desc>
+  <programme start="20190921000000 +0100" stop="20190921010000 +0100" channel="TVI 24">
+    <title lang="pt">25ª Hora</title>
   </programme>
-  <programme start="20190918012800 +0100" stop="20190918025800 +0100" channel="TVI FICCAO">
-    <title lang="pt">Ninguém Como Tu - Ep. 32</title>
-    <desc lang="pt">Ninguém Como Tu revela, na forma mais pura, dinâmica e cativante, a procura pela felicidade e pelo amor que guia a vida. Enquadrada nas vinte e quatro horas diárias de correria frenética entre Almada e Lisboa, é um retrato fiel da permanente luta pela conquista dos sonhos que dão sentido à existência humana(n)</desc>
+  <programme start="20190921010000 +0100" stop="20190921013000 +0100" channel="TVI 24">
+    <title lang="pt">2ª Hora</title>
   </programme>
-  <programme start="20190918025800 +0100" stop="20190918033900 +0100" channel="TVI FICCAO">
-    <title lang="pt">A Impostora - Ep. 172</title>
+  <programme start="20190921013000 +0100" stop="20190921023000 +0100" channel="TVI 24">
+    <title lang="pt">Ana Leal</title>
   </programme>
-  <programme start="20190918033900 +0100" stop="20190918043000 +0100" channel="TVI FICCAO">
-    <title lang="pt">Inspetor Max</title>
+  <programme start="20190921023000 +0100" stop="20190921040000 +0100" channel="TVI 24">
+    <title lang="pt">Mais Futebol</title>
   </programme>
-  <programme start="20190918043000 +0100" stop="20190918052900 +0100" channel="TVI FICCAO">
-    <title lang="pt">O Prédio do Vasco</title>
+  <programme start="20190921040000 +0100" stop="20190921043000 +0100" channel="TVI 24">
+    <title lang="pt">25ª Hora</title>
   </programme>
-  <programme start="20190918052900 +0100" stop="20190918063000 +0100" channel="TVI FICCAO">
-    <title lang="pt">Os Batanetes</title>
+  <programme start="20190921043000 +0100" stop="20190921063000 +0100" channel="TVI 24">
+    <title lang="pt">TV Shop</title>
   </programme>
-  <programme start="20190918063000 +0100" stop="20190918072500 +0100" channel="TVI FICCAO">
-    <title lang="pt">Destinos Cruzados - Ep. 108</title>
-    <desc lang="pt">O luxo e o lixo da sociedade servem de pano de fundo à história de duas mulheres(n)</desc>
+  <programme start="20190921063000 +0100" stop="20190921070000 +0100" channel="TVI 24">
+    <title lang="pt">Todos Iguais</title>
   </programme>
-  <programme start="20190918072500 +0100" stop="20190918081100 +0100" channel="TVI FICCAO">
-    <title lang="pt">Detetive Maravilhas</title>
+  <programme start="20190921070000 +0100" stop="20190921080000 +0100" channel="TVI 24">
+    <title lang="pt">Autores</title>
   </programme>
-  <programme start="20190918081100 +0100" stop="20190918090200 +0100" channel="TVI FICCAO">
-    <title lang="pt">Morangos Com Açúcar - Ep. 466</title>
+  <programme start="20190921080000 +0100" stop="20190921090000 +0100" channel="TVI 24">
+    <title lang="pt">Alexandra Borges - Debate</title>
   </programme>
-  <programme start="20190918090200 +0100" stop="20190918095300 +0100" channel="TVI FICCAO">
-    <title lang="pt">Deixa Que Te Leve - Ep. 207</title>
-    <desc lang="pt">Maria della Luce Távora Gonzaga Valenti, jovem duquesa de Orvieto farta-se das luzes da ribalta italiana e refugia-se em Portugal, em Arcos de Valdevez, onde é recebida pelo tio. Aí reencontra Pedro, menino da serra e bom conhecedor daquela bucólica região. E o amor acontece, apesar de Pedro estar prestes a casar com outra rapariga(n)</desc>
+  <programme start="20190921090000 +0100" stop="20190921110000 +0100" channel="TVI 24">
+    <title lang="pt">Notícias</title>
   </programme>
-  <programme start="20190918095300 +0100" stop="20190918105100 +0100" channel="TVI FICCAO">
-    <title lang="pt">Inspetor Max</title>
+  <programme start="20190921110000 +0100" stop="20190921130000 +0100" channel="TVI 24">
+    <title lang="pt">Liga Revelação</title>
   </programme>
-  <programme start="20190918105100 +0100" stop="20190918112100 +0100" channel="TVI FICCAO">
-    <title lang="pt">Os Batanetes</title>
+  <programme start="20190921130000 +0100" stop="20190921143000 +0100" channel="TVI 24">
+    <title lang="pt">Jornal Da Uma</title>
   </programme>
-  <programme start="20190918112100 +0100" stop="20190918121500 +0100" channel="TVI FICCAO">
-    <title lang="pt">A Impostora - Ep. 172</title>
+  <programme start="20190921143000 +0100" stop="20190921153000 +0100" channel="TVI 24">
+    <title lang="pt">Notícias</title>
   </programme>
-  <programme start="20190918121500 +0100" stop="20190918131600 +0100" channel="TVI FICCAO">
-    <title lang="pt">Ninguém Como Tu - Ep. 32</title>
-    <desc lang="pt">Ninguém Como Tu revela, na forma mais pura, dinâmica e cativante, a procura pela felicidade e pelo amor que guia a vida. Enquadrada nas vinte e quatro horas diárias de correria frenética entre Almada e Lisboa, é um retrato fiel da permanente luta pela conquista dos sonhos que dão sentido à existência humana(n)</desc>
+  <programme start="20190921153000 +0100" stop="20190921154500 +0100" channel="TVI 24">
+    <title lang="pt">GTi</title>
   </programme>
-  <programme start="20190918131600 +0100" stop="20190918141900 +0100" channel="TVI FICCAO">
-    <title lang="pt">Os Batanetes</title>
+  <programme start="20190921154500 +0100" stop="20190921160000 +0100" channel="TVI 24">
+    <title lang="pt">Cinebox</title>
   </programme>
-  <programme start="20190918141900 +0100" stop="20190918151500 +0100" channel="TVI FICCAO">
-    <title lang="pt">O Prédio do Vasco</title>
+  <programme start="20190921160000 +0100" stop="20190921163000 +0100" channel="TVI 24">
+    <title lang="pt">Notícias</title>
   </programme>
-  <programme start="20190918151500 +0100" stop="20190918162200 +0100" channel="TVI FICCAO">
-    <title lang="pt">Morangos Com Açúcar - Ep. 467</title>
+  <programme start="20190921163000 +0100" stop="20190921164500 +0100" channel="TVI 24">
+    <title lang="pt">Mais Justiça</title>
   </programme>
-  <programme start="20190918162200 +0100" stop="20190918171900 +0100" channel="TVI FICCAO">
-    <title lang="pt">Deixa Que Te Leve - Ep. 208</title>
-    <desc lang="pt">Maria della Luce Távora Gonzaga Valenti, jovem duquesa de Orvieto farta-se das luzes da ribalta italiana e refugia-se em Portugal, em Arcos de Valdevez, onde é recebida pelo tio. Aí reencontra Pedro, menino da serra e bom conhecedor daquela bucólica região. E o amor acontece, apesar de Pedro estar prestes a casar com outra rapariga(n)</desc>
+  <programme start="20190921164500 +0100" stop="20190921170000 +0100" channel="TVI 24">
+    <title lang="pt">A Relíquia</title>
   </programme>
-  <programme start="20190918171900 +0100" stop="20190918181200 +0100" channel="TVI FICCAO">
-    <title lang="pt">Destinos Cruzados - Ep. 109</title>
-    <desc lang="pt">O luxo e o lixo da sociedade servem de pano de fundo à história de duas mulheres(n)</desc>
+  <programme start="20190921170000 +0100" stop="20190921200000 +0100" channel="TVI 24">
+    <title lang="pt">Notícias</title>
   </programme>
-  <programme start="20190918181200 +0100" stop="20190918191200 +0100" channel="TVI FICCAO">
-    <title lang="pt">Ninguém Como Tu - Ep. 33</title>
-    <desc lang="pt">Ninguém Como Tu revela, na forma mais pura, dinâmica e cativante, a procura pela felicidade e pelo amor que guia a vida. Enquadrada nas vinte e quatro horas diárias de correria frenética entre Almada e Lisboa, é um retrato fiel da permanente luta pela conquista dos sonhos que dão sentido à existência humana(n)</desc>
+  <programme start="20190921200000 +0100" stop="20190921210000 +0100" channel="TVI 24">
+    <title lang="pt">Jornal Das 8</title>
   </programme>
-  <programme start="20190918191200 +0100" stop="20190918200600 +0100" channel="TVI FICCAO">
-    <title lang="pt">A Impostora - Ep. 173</title>
+  <programme start="20190921210000 +0100" stop="20190921213000 +0100" channel="TVI 24">
+    <title lang="pt">Notícias</title>
   </programme>
-  <programme start="20190918200600 +0100" stop="20190918210000 +0100" channel="TVI FICCAO">
-    <title lang="pt">Inspetor Max</title>
+  <programme start="20190921213000 +0100" stop="20190921220000 +0100" channel="TVI 24">
+    <title lang="pt">Entre Tantos</title>
   </programme>
-  <programme start="20190918210000 +0100" stop="20190918212800 +0100" channel="TVI FICCAO">
-    <title lang="pt">Os Batanetes</title>
+  <programme start="20190921220000 +0100" stop="20190921234500 +0100" channel="TVI 24">
+    <title lang="pt">Especial Informação</title>
   </programme>
-  <programme start="20190918212800 +0100" stop="20190918222800 +0100" channel="TVI FICCAO">
-    <title lang="pt">O Prédio do Vasco</title>
-  </programme>
-  <programme start="20190918222800 +0100" stop="20190918233200 +0100" channel="TVI FICCAO">
-    <title lang="pt">Os Batanetes</title>
-  </programme>
-  <programme start="20190918233200 +0100" stop="20190919002800 +0100" channel="TVI FICCAO">
-    <title lang="pt">Deixa Que Te Leve - Ep. 208</title>
-    <desc lang="pt">Maria della Luce Távora Gonzaga Valenti, jovem duquesa de Orvieto farta-se das luzes da ribalta italiana e refugia-se em Portugal, em Arcos de Valdevez, onde é recebida pelo tio. Aí reencontra Pedro, menino da serra e bom conhecedor daquela bucólica região. E o amor acontece, apesar de Pedro estar prestes a casar com outra rapariga(n)</desc>
+  <programme start="20190921234500 +0100" stop="20190922010000 +0100" channel="TVI 24">
+    <title lang="pt">Governo Sombra</title>
   </programme>
   <programme start="20190919002800 +0100" stop="20190919012200 +0100" channel="TVI FICCAO">
     <title lang="pt">Destinos Cruzados - Ep. 109</title>
@@ -43371,133 +43305,91 @@
     <title lang="pt">Deixa Que Te Leve - Ep. 210</title>
     <desc lang="pt">Maria della Luce Távora Gonzaga Valenti, jovem duquesa de Orvieto farta-se das luzes da ribalta italiana e refugia-se em Portugal, em Arcos de Valdevez, onde é recebida pelo tio. Aí reencontra Pedro, menino da serra e bom conhecedor daquela bucólica região. E o amor acontece, apesar de Pedro estar prestes a casar com outra rapariga(n)</desc>
   </programme>
-  <programme start="20190918000000 +0100" stop="20190918010000 +0100" channel="TV RECORD">
-    <title lang="pt">Palavra Amiga - Bispo Macedo - Ep. 224</title>
+  <programme start="20190921003000 +0100" stop="20190921013000 +0100" channel="TVI FICCAO">
+    <title lang="pt">Destinos Cruzados - Ep. 111</title>
+    <desc lang="pt">O luxo e o lixo da sociedade servem de pano de fundo à história de duas mulheres(n)</desc>
   </programme>
-  <programme start="20190918010000 +0100" stop="20190918011500 +0100" channel="TV RECORD">
-    <title lang="pt">Nosso Tempo - Ep. 224</title>
+  <programme start="20190921013000 +0100" stop="20190921023000 +0100" channel="TVI FICCAO">
+    <title lang="pt">Ninguém Como Tu - Ep. 35</title>
+    <desc lang="pt">Ninguém Como Tu revela, na forma mais pura, dinâmica e cativante, a procura pela felicidade e pelo amor que guia a vida. Enquadrada nas vinte e quatro horas diárias de correria frenética entre Almada e Lisboa, é um retrato fiel da permanente luta pela conquista dos sonhos que dão sentido à existência humana(n)</desc>
   </programme>
-  <programme start="20190918011500 +0100" stop="20190918014500 +0100" channel="TV RECORD">
-    <title lang="pt">Saindo Da Depressão - Ep. 255</title>
+  <programme start="20190921023000 +0100" stop="20190921033000 +0100" channel="TVI FICCAO">
+    <title lang="pt">A Impostora - Ep. 175</title>
   </programme>
-  <programme start="20190918014500 +0100" stop="20190918020000 +0100" channel="TV RECORD">
-    <title lang="pt">Conquistas Financeiras - Porto - Ep. 24</title>
+  <programme start="20190921033000 +0100" stop="20190921043000 +0100" channel="TVI FICCAO">
+    <title lang="pt">Inspetor Max</title>
   </programme>
-  <programme start="20190918020000 +0100" stop="20190918021000 +0100" channel="TV RECORD">
-    <title lang="pt">Ponto De Luz T1 - Ep. 37</title>
-    <episode-num>T1 - Ep. 37</episode-num>
+  <programme start="20190921043000 +0100" stop="20190921050000 +0100" channel="TVI FICCAO">
+    <title lang="pt">Os Batanetes</title>
   </programme>
-  <programme start="20190918021000 +0100" stop="20190918023000 +0100" channel="TV RECORD">
-    <title lang="pt">Em Busca Do Amor - Ep. 260</title>
+  <programme start="20190921050000 +0100" stop="20190921053000 +0100" channel="TVI FICCAO">
+    <title lang="pt">Os Batanetes</title>
   </programme>
-  <programme start="20190918023000 +0100" stop="20190918025000 +0100" channel="TV RECORD">
-    <title lang="pt">A Mente De Um Viciado - Ep. 224</title>
+  <programme start="20190921053000 +0100" stop="20190921063000 +0100" channel="TVI FICCAO">
+    <title lang="pt">O Prédio do Vasco</title>
   </programme>
-  <programme start="20190918025000 +0100" stop="20190918031000 +0100" channel="TV RECORD">
-    <title lang="pt">Programa Suiça - Ep. 261</title>
+  <programme start="20190921063000 +0100" stop="20190921071500 +0100" channel="TVI FICCAO">
+    <title lang="pt">Destinos Cruzados - Ep. 111</title>
+    <desc lang="pt">O luxo e o lixo da sociedade servem de pano de fundo à história de duas mulheres(n)</desc>
   </programme>
-  <programme start="20190918031000 +0100" stop="20190918034000 +0100" channel="TV RECORD">
-    <title lang="pt">Programa Madeira - Ep. 261</title>
+  <programme start="20190921071500 +0100" stop="20190921080000 +0100" channel="TVI FICCAO">
+    <title lang="pt">Detetive Maravilhas</title>
   </programme>
-  <programme start="20190918034000 +0100" stop="20190918040000 +0100" channel="TV RECORD">
-    <title lang="pt">Programa Algarve - Ep. 224</title>
+  <programme start="20190921080000 +0100" stop="20190921090000 +0100" channel="TVI FICCAO">
+    <title lang="pt">Morangos Com Açúcar - Ep. 469</title>
   </programme>
-  <programme start="20190918040000 +0100" stop="20190918041000 +0100" channel="TV RECORD">
-    <title lang="pt">Ponto De Luz T2 - Ep. 37</title>
-    <episode-num>T2 - Ep. 37</episode-num>
+  <programme start="20190921090000 +0100" stop="20190921100000 +0100" channel="TVI FICCAO">
+    <title lang="pt">Deixa Que Te Leve - Ep. 210</title>
+    <desc lang="pt">Maria della Luce Távora Gonzaga Valenti, jovem duquesa de Orvieto farta-se das luzes da ribalta italiana e refugia-se em Portugal, em Arcos de Valdevez, onde é recebida pelo tio. Aí reencontra Pedro, menino da serra e bom conhecedor daquela bucólica região. E o amor acontece, apesar de Pedro estar prestes a casar com outra rapariga(n)</desc>
   </programme>
-  <programme start="20190918041000 +0100" stop="20190918043000 +0100" channel="TV RECORD">
-    <title lang="pt">Programa Itália - Ep. 146</title>
+  <programme start="20190921100000 +0100" stop="20190921110000 +0100" channel="TVI FICCAO">
+    <title lang="pt">Inspetor Max</title>
   </programme>
-  <programme start="20190918043000 +0100" stop="20190918045000 +0100" channel="TV RECORD">
-    <title lang="pt">Programa França - Ep. 224</title>
+  <programme start="20190921110000 +0100" stop="20190921113000 +0100" channel="TVI FICCAO">
+    <title lang="pt">Os Batanetes</title>
   </programme>
-  <programme start="20190918045000 +0100" stop="20190918051000 +0100" channel="TV RECORD">
-    <title lang="pt">Programa Coimbra - Ep. 224</title>
+  <programme start="20190921113000 +0100" stop="20190921123000 +0100" channel="TVI FICCAO">
+    <title lang="pt">A Impostora - Ep. 175</title>
   </programme>
-  <programme start="20190918051000 +0100" stop="20190918053000 +0100" channel="TV RECORD">
-    <title lang="pt">Programa Alemanha - Ep. 224</title>
+  <programme start="20190921123000 +0100" stop="20190921133000 +0100" channel="TVI FICCAO">
+    <title lang="pt">Ninguém Como Tu - Ep. 35</title>
+    <desc lang="pt">Ninguém Como Tu revela, na forma mais pura, dinâmica e cativante, a procura pela felicidade e pelo amor que guia a vida. Enquadrada nas vinte e quatro horas diárias de correria frenética entre Almada e Lisboa, é um retrato fiel da permanente luta pela conquista dos sonhos que dão sentido à existência humana(n)</desc>
   </programme>
-  <programme start="20190918053000 +0100" stop="20190918054000 +0100" channel="TV RECORD">
-    <title lang="pt">Ponto De Luz T3 - Ep. 37</title>
-    <episode-num>T3 - Ep. 37</episode-num>
+  <programme start="20190921133000 +0100" stop="20190921143000 +0100" channel="TVI FICCAO">
+    <title lang="pt">Os Batanetes</title>
   </programme>
-  <programme start="20190918054000 +0100" stop="20190918060000 +0100" channel="TV RECORD">
-    <title lang="pt">Programa Luxemburgo - Ep. 224</title>
+  <programme start="20190921143000 +0100" stop="20190921151500 +0100" channel="TVI FICCAO">
+    <title lang="pt">O Prédio do Vasco</title>
   </programme>
-  <programme start="20190918060000 +0100" stop="20190918061500 +0100" channel="TV RECORD">
-    <title lang="pt">Palavra Amiga - Bispo Macedo - Ep. 224</title>
+  <programme start="20190921151500 +0100" stop="20190921161500 +0100" channel="TVI FICCAO">
+    <title lang="pt">Morangos Com Açúcar - Ep. 470</title>
   </programme>
-  <programme start="20190918061500 +0100" stop="20190918063000 +0100" channel="TV RECORD">
-    <title lang="pt">Problemas E Soluções - Ep. 258</title>
+  <programme start="20190921161500 +0100" stop="20190921170000 +0100" channel="TVI FICCAO">
+    <title lang="pt">Deixa Que Te Leve - Ep. 211</title>
+    <desc lang="pt">Maria della Luce Távora Gonzaga Valenti, jovem duquesa de Orvieto farta-se das luzes da ribalta italiana e refugia-se em Portugal, em Arcos de Valdevez, onde é recebida pelo tio. Aí reencontra Pedro, menino da serra e bom conhecedor daquela bucólica região. E o amor acontece, apesar de Pedro estar prestes a casar com outra rapariga(n)</desc>
   </programme>
-  <programme start="20190918063000 +0100" stop="20190918063500 +0100" channel="TV RECORD">
-    <title lang="pt">Intervenção Em Busca Do Amor - Ep. 127</title>
+  <programme start="20190921170000 +0100" stop="20190921174500 +0100" channel="TVI FICCAO">
+    <title lang="pt">Destinos Cruzados - Ep. 112</title>
+    <desc lang="pt">O luxo e o lixo da sociedade servem de pano de fundo à história de duas mulheres(n)</desc>
   </programme>
-  <programme start="20190918063500 +0100" stop="20190918070000 +0100" channel="TV RECORD">
-    <title lang="pt">Nação dos 318 - Ep. 290</title>
+  <programme start="20190921174500 +0100" stop="20190921190000 +0100" channel="TVI FICCAO">
+    <title lang="pt">Ninguém Como Tu - Ep. 36</title>
+    <desc lang="pt">Ninguém Como Tu revela, na forma mais pura, dinâmica e cativante, a procura pela felicidade e pelo amor que guia a vida. Enquadrada nas vinte e quatro horas diárias de correria frenética entre Almada e Lisboa, é um retrato fiel da permanente luta pela conquista dos sonhos que dão sentido à existência humana(n)</desc>
   </programme>
-  <programme start="20190918070000 +0100" stop="20190918073000 +0100" channel="TV RECORD">
-    <title lang="pt">Hora Do Milagre - Ep. 80</title>
-    <desc lang="pt">Programa com casos reais de superação, abordando temas que o ajudam a resolver problemas diários em diversas áreas da sua vida(n)</desc>
+  <programme start="20190921190000 +0100" stop="20190921200000 +0100" channel="TVI FICCAO">
+    <title lang="pt">A Impostora - Ep. 176</title>
   </programme>
-  <programme start="20190918073000 +0100" stop="20190918080000 +0100" channel="TV RECORD">
-    <title lang="pt">Não Desista - Ep. 219</title>
-    <desc lang="pt">Programa ao vivo com casos reais de superação, abordando temas que ajudam a resolver problemas diários em diversas áreas da sua vida(n)</desc>
+  <programme start="20190921200000 +0100" stop="20190921210000 +0100" channel="TVI FICCAO">
+    <title lang="pt">Inspetor Max</title>
   </programme>
-  <programme start="20190918080000 +0100" stop="20190918090000 +0100" channel="TV RECORD">
-    <title lang="pt">Rebelde T2 - Ep. 51</title>
-    <episode-num>T2 - Ep. 51</episode-num>
+  <programme start="20190921210000 +0100" stop="20190921213000 +0100" channel="TVI FICCAO">
+    <title lang="pt">Os Batanetes</title>
   </programme>
-  <programme start="20190918090000 +0100" stop="20190918100000 +0100" channel="TV RECORD">
-    <title lang="pt">Hoje Em Dia - Ep. 186</title>
+  <programme start="20190921213000 +0100" stop="20190921223000 +0100" channel="TVI FICCAO">
+    <title lang="pt">O Prédio do Vasco</title>
   </programme>
-  <programme start="20190918100000 +0100" stop="20190918103000 +0100" channel="TV RECORD">
-    <title lang="pt">Balanço Geral SP - Ep. 186</title>
-  </programme>
-  <programme start="20190918103000 +0100" stop="20190918113000 +0100" channel="TV RECORD">
-    <title lang="pt">Bela, A Feia - Ep. 181</title>
-  </programme>
-  <programme start="20190918113000 +0100" stop="20190918123000 +0100" channel="TV RECORD">
-    <title lang="pt">Essas Mulheres - Ep. 120</title>
-  </programme>
-  <programme start="20190918123000 +0100" stop="20190918133000 +0100" channel="TV RECORD">
-    <title lang="pt">Topíssima - Ep. 56</title>
-  </programme>
-  <programme start="20190918133000 +0100" stop="20190918140000 +0100" channel="TV RECORD">
-    <title lang="pt">Portugal No Ar T1 - Ep. 88</title>
-    <episode-num>T1 - Ep. 88</episode-num>
-  </programme>
-  <programme start="20190918140000 +0100" stop="20190918150000 +0100" channel="TV RECORD">
-    <title lang="pt">Jezabel - Ep. 27</title>
-  </programme>
-  <programme start="20190918150000 +0100" stop="20190918153000 +0100" channel="TV RECORD">
-    <title lang="pt">Os Milagres De Jesus - Ep. 58</title>
-  </programme>
-  <programme start="20190918153000 +0100" stop="20190918163000 +0100" channel="TV RECORD">
-    <title lang="pt">O Rico E Lázaro - Ep. 78</title>
-  </programme>
-  <programme start="20190918163000 +0100" stop="20190918173000 +0100" channel="TV RECORD">
-    <title lang="pt">Bela, A Feia - Ep. 182</title>
-  </programme>
-  <programme start="20190918173000 +0100" stop="20190918183000 +0100" channel="TV RECORD">
-    <title lang="pt">Essas Mulheres - Ep. 121</title>
-  </programme>
-  <programme start="20190918183000 +0100" stop="20190918193000 +0100" channel="TV RECORD">
-    <title lang="pt">Rebelde T2 - Ep. 52</title>
-    <episode-num>T2 - Ep. 52</episode-num>
-  </programme>
-  <programme start="20190918193000 +0100" stop="20190918200000 +0100" channel="TV RECORD">
-    <title lang="pt">Fala Portugal - Ep. 187</title>
-  </programme>
-  <programme start="20190918200000 +0100" stop="20190918210000 +0100" channel="TV RECORD">
-    <title lang="pt">Topíssima - Ep. 57</title>
-  </programme>
-  <programme start="20190918210000 +0100" stop="20190918220000 +0100" channel="TV RECORD">
-    <title lang="pt">Jezabel - Ep. 28</title>
-  </programme>
-  <programme start="20190918220000 +0100" stop="20190919000000 +0100" channel="TV RECORD">
-    <title lang="pt">Cidade Alerta - Ep. 187</title>
+  <programme start="20190921223000 +0100" stop="20190922000000 +0100" channel="TVI FICCAO">
+    <title lang="pt">A Designar</title>
   </programme>
   <programme start="20190919000000 +0100" stop="20190919010000 +0100" channel="TV RECORD">
     <title lang="pt">Palavra Amiga - Bispo Macedo - Ep. 225</title>
@@ -43755,121 +43647,121 @@
   <programme start="20190920220000 +0100" stop="20190921000000 +0100" channel="TV RECORD">
     <title lang="pt">Cidade Alerta - Ep. 189</title>
   </programme>
-  <programme start="20190918003500 +0100" stop="20190918012000 +0100" channel="TVSERIES">
-    <title lang="pt">Blindspot T4 - Ep. 16</title>
-    <episode-num>T4 - Ep. 16</episode-num>
+  <programme start="20190921000000 +0100" stop="20190921010000 +0100" channel="TV RECORD">
+    <title lang="pt">Palavra Amiga - Bispo Macedo - Ep. 227</title>
   </programme>
-  <programme start="20190918012000 +0100" stop="20190918021000 +0100" channel="TVSERIES">
-    <title lang="pt">Yellowstone T1 - Ep. 9</title>
-    <episode-num>T1 - Ep. 9</episode-num>
+  <programme start="20190921010000 +0100" stop="20190921011500 +0100" channel="TV RECORD">
+    <title lang="pt">Nosso Tempo - Ep. 227</title>
   </programme>
-  <programme start="20190918021000 +0100" stop="20190918031000 +0100" channel="TVSERIES">
-    <title lang="pt">The Young Pope T1 - Ep. 8</title>
-    <episode-num>T1 - Ep. 8</episode-num>
+  <programme start="20190921011500 +0100" stop="20190921014500 +0100" channel="TV RECORD">
+    <title lang="pt">Saindo Da Depressão - Ep. 258</title>
   </programme>
-  <programme start="20190918031000 +0100" stop="20190918040000 +0100" channel="TVSERIES">
-    <title lang="pt">A Bíblia T1 - Ep. 4</title>
-    <episode-num>T1 - Ep. 4</episode-num>
+  <programme start="20190921014500 +0100" stop="20190921020000 +0100" channel="TV RECORD">
+    <title lang="pt">Conquistas Financeiras - Porto - Ep. 27</title>
   </programme>
-  <programme start="20190918040000 +0100" stop="20190918045000 +0100" channel="TVSERIES">
-    <title lang="pt">A Bíblia T1 - Ep. 5</title>
-    <episode-num>T1 - Ep. 5</episode-num>
+  <programme start="20190921020000 +0100" stop="20190921021000 +0100" channel="TV RECORD">
+    <title lang="pt">Ponto De Luz T1 - Ep. 38</title>
+    <episode-num>T1 - Ep. 38</episode-num>
   </programme>
-  <programme start="20190918045000 +0100" stop="20190918054000 +0100" channel="TVSERIES">
-    <title lang="pt">A Bíblia T1 - Ep. 6</title>
-    <episode-num>T1 - Ep. 6</episode-num>
+  <programme start="20190921021000 +0100" stop="20190921023000 +0100" channel="TV RECORD">
+    <title lang="pt">Em Busca Do Amor - Ep. 263</title>
   </programme>
-  <programme start="20190918054000 +0100" stop="20190918062500 +0100" channel="TVSERIES">
-    <title lang="pt">Teen Wolf T3 - Ep. 20</title>
-    <episode-num>T3 - Ep. 20</episode-num>
+  <programme start="20190921023000 +0100" stop="20190921025000 +0100" channel="TV RECORD">
+    <title lang="pt">A Mente De Um Viciado - Ep. 227</title>
   </programme>
-  <programme start="20190918062500 +0100" stop="20190918071000 +0100" channel="TVSERIES">
-    <title lang="pt">Teen Wolf T3 - Ep. 21</title>
-    <episode-num>T3 - Ep. 21</episode-num>
+  <programme start="20190921025000 +0100" stop="20190921031000 +0100" channel="TV RECORD">
+    <title lang="pt">Programa Suiça - Ep. 264</title>
   </programme>
-  <programme start="20190918071000 +0100" stop="20190918075500 +0100" channel="TVSERIES">
-    <title lang="pt">Teen Wolf T3 - Ep. 22</title>
-    <episode-num>T3 - Ep. 22</episode-num>
+  <programme start="20190921031000 +0100" stop="20190921034000 +0100" channel="TV RECORD">
+    <title lang="pt">Programa Madeira - Ep. 264</title>
   </programme>
-  <programme start="20190918075500 +0100" stop="20190918084000 +0100" channel="TVSERIES">
-    <title lang="pt">Teen Wolf T3 - Ep. 23</title>
-    <episode-num>T3 - Ep. 23</episode-num>
+  <programme start="20190921034000 +0100" stop="20190921040000 +0100" channel="TV RECORD">
+    <title lang="pt">Programa Algarve - Ep. 227</title>
   </programme>
-  <programme start="20190918084000 +0100" stop="20190918092500 +0100" channel="TVSERIES">
-    <title lang="pt">Teen Wolf T3 - Ep. 24</title>
-    <episode-num>T3 - Ep. 24</episode-num>
+  <programme start="20190921040000 +0100" stop="20190921041000 +0100" channel="TV RECORD">
+    <title lang="pt">Ponto De Luz T2 - Ep. 38</title>
+    <episode-num>T2 - Ep. 38</episode-num>
   </programme>
-  <programme start="20190918092500 +0100" stop="20190918101000 +0100" channel="TVSERIES">
-    <title lang="pt">Teen Wolf T4 - Ep. 1</title>
-    <episode-num>T4 - Ep. 1</episode-num>
+  <programme start="20190921041000 +0100" stop="20190921043000 +0100" channel="TV RECORD">
+    <title lang="pt">Programa Itália - Ep. 149</title>
   </programme>
-  <programme start="20190918101000 +0100" stop="20190918105500 +0100" channel="TVSERIES">
-    <title lang="pt">Vikings T1 - Ep. 8</title>
-    <episode-num>T1 - Ep. 8</episode-num>
+  <programme start="20190921043000 +0100" stop="20190921045000 +0100" channel="TV RECORD">
+    <title lang="pt">Programa França - Ep. 227</title>
   </programme>
-  <programme start="20190918105500 +0100" stop="20190918114500 +0100" channel="TVSERIES">
-    <title lang="pt">Vikings T1 - Ep. 9</title>
-    <episode-num>T1 - Ep. 9</episode-num>
+  <programme start="20190921045000 +0100" stop="20190921051000 +0100" channel="TV RECORD">
+    <title lang="pt">Programa Coimbra - Ep. 227</title>
   </programme>
-  <programme start="20190918114500 +0100" stop="20190918123000 +0100" channel="TVSERIES">
-    <title lang="pt">Knightfall - Templários T1 - Ep. 1</title>
-    <episode-num>T1 - Ep. 1</episode-num>
+  <programme start="20190921051000 +0100" stop="20190921053000 +0100" channel="TV RECORD">
+    <title lang="pt">Programa Alemanha - Ep. 227</title>
   </programme>
-  <programme start="20190918123000 +0100" stop="20190918132000 +0100" channel="TVSERIES">
-    <title lang="pt">A Bíblia T1 - Ep. 4</title>
-    <episode-num>T1 - Ep. 4</episode-num>
+  <programme start="20190921053000 +0100" stop="20190921054000 +0100" channel="TV RECORD">
+    <title lang="pt">Ponto De Luz T3 - Ep. 38</title>
+    <episode-num>T3 - Ep. 38</episode-num>
   </programme>
-  <programme start="20190918132000 +0100" stop="20190918141000 +0100" channel="TVSERIES">
-    <title lang="pt">A Bíblia T1 - Ep. 5</title>
-    <episode-num>T1 - Ep. 5</episode-num>
+  <programme start="20190921054000 +0100" stop="20190921060000 +0100" channel="TV RECORD">
+    <title lang="pt">Programa Luxemburgo - Ep. 227</title>
   </programme>
-  <programme start="20190918141000 +0100" stop="20190918150000 +0100" channel="TVSERIES">
-    <title lang="pt">A Bíblia T1 - Ep. 6</title>
-    <episode-num>T1 - Ep. 6</episode-num>
+  <programme start="20190921060000 +0100" stop="20190921061500 +0100" channel="TV RECORD">
+    <title lang="pt">Palavra Amiga - Bispo Macedo - Ep. 227</title>
   </programme>
-  <programme start="20190918150000 +0100" stop="20190918155000 +0100" channel="TVSERIES">
-    <title lang="pt">Vikings T2 - Ep. 5</title>
-    <episode-num>T2 - Ep. 5</episode-num>
+  <programme start="20190921061500 +0100" stop="20190921063000 +0100" channel="TV RECORD">
+    <title lang="pt">Problemas E Soluções - Ep. 261</title>
   </programme>
-  <programme start="20190918155000 +0100" stop="20190918164000 +0100" channel="TVSERIES">
-    <title lang="pt">A Letra L T1 - Ep. 13</title>
-    <episode-num>T1 - Ep. 13</episode-num>
+  <programme start="20190921063000 +0100" stop="20190921063500 +0100" channel="TV RECORD">
+    <title lang="pt">Intervenção Em Busca Do Amor - Ep. 130</title>
   </programme>
-  <programme start="20190918164000 +0100" stop="20190918174000 +0100" channel="TVSERIES">
-    <title lang="pt">A Letra L T1 - Ep. 14</title>
-    <episode-num>T1 - Ep. 14</episode-num>
+  <programme start="20190921063500 +0100" stop="20190921070000 +0100" channel="TV RECORD">
+    <title lang="pt">Nação dos 318 - Ep. 293</title>
   </programme>
-  <programme start="20190918174000 +0100" stop="20190918182500 +0100" channel="TVSERIES">
-    <title lang="pt">Instinct T2 - Ep. 11</title>
-    <episode-num>T2 - Ep. 11</episode-num>
+  <programme start="20190921070000 +0100" stop="20190921073000 +0100" channel="TV RECORD">
+    <title lang="pt">Hora Do Milagre - Ep. 83</title>
+    <desc lang="pt">Programa com casos reais de superação, abordando temas que o ajudam a resolver problemas diários em diversas áreas da sua vida(n)</desc>
   </programme>
-  <programme start="20190918182500 +0100" stop="20190918191500 +0100" channel="TVSERIES">
-    <title lang="pt">A Bíblia T1 - Ep. 7</title>
-    <episode-num>T1 - Ep. 7</episode-num>
+  <programme start="20190921073000 +0100" stop="20190921080000 +0100" channel="TV RECORD">
+    <title lang="pt">Não Desista - Ep. 222</title>
+    <desc lang="pt">Programa ao vivo com casos reais de superação, abordando temas que ajudam a resolver problemas diários em diversas áreas da sua vida(n)</desc>
   </programme>
-  <programme start="20190918191500 +0100" stop="20190918200500 +0100" channel="TVSERIES">
-    <title lang="pt">A Bíblia T1 - Ep. 8</title>
-    <episode-num>T1 - Ep. 8</episode-num>
+  <programme start="20190921080000 +0100" stop="20190921090000 +0100" channel="TV RECORD">
+    <title lang="pt">Record Kids - Ep. 75</title>
   </programme>
-  <programme start="20190918200500 +0100" stop="20190918210000 +0100" channel="TVSERIES">
-    <title lang="pt">Berlin Station T3 - Ep. 5</title>
-    <episode-num>T3 - Ep. 5</episode-num>
+  <programme start="20190921090000 +0100" stop="20190921100000 +0100" channel="TV RECORD">
+    <title lang="pt">Bichos Curiosos T2 - Ep. 138</title>
+    <episode-num>T2 - Ep. 138</episode-num>
   </programme>
-  <programme start="20190918210000 +0100" stop="20190918214500 +0100" channel="TVSERIES">
-    <title lang="pt">Instinct T2 - Ep. 1</title>
-    <episode-num>T2 - Ep. 1</episode-num>
+  <programme start="20190921100000 +0100" stop="20190921110000 +0100" channel="TV RECORD">
+    <title lang="pt">The Love School T1 - Ep. 402</title>
+    <episode-num>T1 - Ep. 402</episode-num>
   </programme>
-  <programme start="20190918214500 +0100" stop="20190918223000 +0100" channel="TVSERIES">
-    <title lang="pt">Instinct T2 - Ep. 2</title>
-    <episode-num>T2 - Ep. 2</episode-num>
+  <programme start="20190921110000 +0100" stop="20190921111500 +0100" channel="TV RECORD">
+    <title lang="pt">Miúdos Sabem Tudo - Ep. 111</title>
   </programme>
-  <programme start="20190918223000 +0100" stop="20190918233000 +0100" channel="TVSERIES">
-    <title lang="pt">Outlander T4 - Ep. 4</title>
-    <episode-num>T4 - Ep. 4</episode-num>
+  <programme start="20190921111500 +0100" stop="20190921120000 +0100" channel="TV RECORD">
+    <title lang="pt">Crazy World - Ep. 131</title>
   </programme>
-  <programme start="20190918233000 +0100" stop="20190919002500 +0100" channel="TVSERIES">
-    <title lang="pt">Outlander T4 - Ep. 5</title>
-    <episode-num>T4 - Ep. 5</episode-num>
+  <programme start="20190921120000 +0100" stop="20190921123000 +0100" channel="TV RECORD">
+    <title lang="pt">Giro T9 - Ep. 55</title>
+    <episode-num>T9 - Ep. 55</episode-num>
+  </programme>
+  <programme start="20190921123000 +0100" stop="20190921140000 +0100" channel="TV RECORD">
+    <title lang="pt">Topíssima (Compacto) - Ep. 6</title>
+  </programme>
+  <programme start="20190921140000 +0100" stop="20190921170000 +0100" channel="TV RECORD">
+    <title lang="pt">Tudo A Ver - A Fazenda (Compacto) - Ep. 1</title>
+  </programme>
+  <programme start="20190921170000 +0100" stop="20190921183000 +0100" channel="TV RECORD">
+    <title lang="pt">Bela, A Feia (Compacto) - Ep. 21</title>
+  </programme>
+  <programme start="20190921183000 +0100" stop="20190921200000 +0100" channel="TV RECORD">
+    <title lang="pt">Aeroporto: Área Restrita - Ep. 5</title>
+  </programme>
+  <programme start="20190921200000 +0100" stop="20190921220000 +0100" channel="TV RECORD">
+    <title lang="pt">Jezabel (Compacto) - Ep. 6</title>
+  </programme>
+  <programme start="20190921220000 +0100" stop="20190921233000 +0100" channel="TV RECORD">
+    <title lang="pt">O Fino Da Bossa - Ep. 1</title>
+  </programme>
+  <programme start="20190921233000 +0100" stop="20190922000000 +0100" channel="TV RECORD">
+    <title lang="pt">Destinos Espetaculares - Ep. 49</title>
   </programme>
   <programme start="20190919002500 +0100" stop="20190919011000 +0100" channel="TVSERIES">
     <title lang="pt">Knightfall - Templários T2 - Ep. 3</title>
@@ -44119,83 +44011,137 @@
     <title lang="pt">Blindspot T4 - Ep. 19</title>
     <episode-num>T4 - Ep. 19</episode-num>
   </programme>
-  <programme start="20190918003000 +0100" stop="20190918013000 +0100" channel="UMEUROPA">
-    <title lang="pt">Jornal Das 22</title>
+  <programme start="20190921000000 +0100" stop="20190921004500 +0100" channel="TVSERIES">
+    <title lang="pt">Suits: Jessica Pearson T1 - Ep. 8</title>
+    <episode-num>T1 - Ep. 8</episode-num>
   </programme>
-  <programme start="20190918013000 +0100" stop="20190918030000 +0100" channel="UMEUROPA">
-    <title lang="pt">Igreja Da Graça No Seu Lar</title>
+  <programme start="20190921004500 +0100" stop="20190921011000 +0100" channel="TVSERIES">
+    <title lang="pt">Accidentally On Purpose T1 - Ep. 15</title>
+    <episode-num>T1 - Ep. 15</episode-num>
   </programme>
-  <programme start="20190918030000 +0100" stop="20190918043000 +0100" channel="UMEUROPA">
-    <title lang="pt">Show Da Fé</title>
+  <programme start="20190921011000 +0100" stop="20190921013500 +0100" channel="TVSERIES">
+    <title lang="pt">Accidentally On Purpose T1 - Ep. 16</title>
+    <episode-num>T1 - Ep. 16</episode-num>
   </programme>
-  <programme start="20190918043000 +0100" stop="20190918060000 +0100" channel="UMEUROPA">
-    <title lang="pt">Igreja Da Graça No Seu Lar</title>
+  <programme start="20190921013500 +0100" stop="20190921022000 +0100" channel="TVSERIES">
+    <title lang="pt">Vikings T2 - Ep. 5</title>
+    <episode-num>T2 - Ep. 5</episode-num>
   </programme>
-  <programme start="20190918060000 +0100" stop="20190918083000 +0100" channel="UMEUROPA">
-    <title lang="pt">Fala, Amigo! Noturno</title>
+  <programme start="20190921022000 +0100" stop="20190921031000 +0100" channel="TVSERIES">
+    <title lang="pt">The Young Pope T1 - Ep. 7</title>
+    <episode-num>T1 - Ep. 7</episode-num>
   </programme>
-  <programme start="20190918083000 +0100" stop="20190918092500 +0100" channel="UMEUROPA">
-    <title lang="pt">Hummm! Saboroso</title>
+  <programme start="20190921031000 +0100" stop="20190921035500 +0100" channel="TVSERIES">
+    <title lang="pt">A.D. A Bíblia Continua T1 - Ep. 1</title>
+    <episode-num>T1 - Ep. 1</episode-num>
   </programme>
-  <programme start="20190918092500 +0100" stop="20190918093000 +0100" channel="UMEUROPA">
-    <title lang="pt">Mensagem De Fé</title>
+  <programme start="20190921035500 +0100" stop="20190921044000 +0100" channel="TVSERIES">
+    <title lang="pt">A.D. A Bíblia Continua T1 - Ep. 2</title>
+    <episode-num>T1 - Ep. 2</episode-num>
   </programme>
-  <programme start="20190918093000 +0100" stop="20190918101500 +0100" channel="UMEUROPA">
-    <title lang="pt">Clip-Rit</title>
+  <programme start="20190921044000 +0100" stop="20190921053500 +0100" channel="TVSERIES">
+    <title lang="pt">Berlin Station T3 - Ep. 7</title>
+    <episode-num>T3 - Ep. 7</episode-num>
   </programme>
-  <programme start="20190918101500 +0100" stop="20190918102500 +0100" channel="UMEUROPA">
-    <title lang="pt">Recado Do Coração De Deus</title>
+  <programme start="20190921053500 +0100" stop="20190921061500 +0100" channel="TVSERIES">
+    <title lang="pt">Teen Wolf T3 - Ep. 16</title>
+    <episode-num>T3 - Ep. 16</episode-num>
   </programme>
-  <programme start="20190918102500 +0100" stop="20190918103000 +0100" channel="UMEUROPA">
-    <title lang="pt">Mensagem De Fé</title>
+  <programme start="20190921061500 +0100" stop="20190921070000 +0100" channel="TVSERIES">
+    <title lang="pt">Teen Wolf T3 - Ep. 17</title>
+    <episode-num>T3 - Ep. 17</episode-num>
   </programme>
-  <programme start="20190918103000 +0100" stop="20190918110000 +0100" channel="UMEUROPA">
-    <title lang="pt">Show Da Fé (Reduzido)</title>
+  <programme start="20190921070000 +0100" stop="20190921074500 +0100" channel="TVSERIES">
+    <title lang="pt">Teen Wolf T3 - Ep. 18</title>
+    <episode-num>T3 - Ep. 18</episode-num>
   </programme>
-  <programme start="20190918110000 +0100" stop="20190918110500 +0100" channel="UMEUROPA">
-    <title lang="pt">Mensagem De Fé</title>
+  <programme start="20190921074500 +0100" stop="20190921083000 +0100" channel="TVSERIES">
+    <title lang="pt">Teen Wolf T3 - Ep. 19</title>
+    <episode-num>T3 - Ep. 19</episode-num>
   </programme>
-  <programme start="20190918110500 +0100" stop="20190918123000 +0100" channel="UMEUROPA">
-    <title lang="pt">Nosso Programa</title>
+  <programme start="20190921083000 +0100" stop="20190921091500 +0100" channel="TVSERIES">
+    <title lang="pt">Teen Wolf T3 - Ep. 20</title>
+    <episode-num>T3 - Ep. 20</episode-num>
   </programme>
-  <programme start="20190918123000 +0100" stop="20190918123500 +0100" channel="UMEUROPA">
-    <title lang="pt">Mensagem De Fé</title>
+  <programme start="20190921091500 +0100" stop="20190921100000 +0100" channel="TVSERIES">
+    <title lang="pt">Teen Wolf T3 - Ep. 21</title>
+    <episode-num>T3 - Ep. 21</episode-num>
   </programme>
-  <programme start="20190918123500 +0100" stop="20190918140000 +0100" channel="UMEUROPA">
-    <title lang="pt">Consulta Ao Doutor</title>
+  <programme start="20190921100000 +0100" stop="20190921104500 +0100" channel="TVSERIES">
+    <title lang="pt">Teen Wolf T3 - Ep. 22</title>
+    <episode-num>T3 - Ep. 22</episode-num>
   </programme>
-  <programme start="20190918140000 +0100" stop="20190918150000 +0100" channel="UMEUROPA">
-    <title lang="pt">Fala, Amigo</title>
+  <programme start="20190921104500 +0100" stop="20190921113000 +0100" channel="TVSERIES">
+    <title lang="pt">Teen Wolf T3 - Ep. 23</title>
+    <episode-num>T3 - Ep. 23</episode-num>
   </programme>
-  <programme start="20190918150000 +0100" stop="20190918153000 +0100" channel="UMEUROPA">
-    <title lang="pt">Jornal Toda Hora</title>
+  <programme start="20190921113000 +0100" stop="20190921121500 +0100" channel="TVSERIES">
+    <title lang="pt">Teen Wolf T3 - Ep. 24</title>
+    <episode-num>T3 - Ep. 24</episode-num>
   </programme>
-  <programme start="20190918153000 +0100" stop="20190918160000 +0100" channel="UMEUROPA">
-    <title lang="pt">Rit Esportes</title>
+  <programme start="20190921121500 +0100" stop="20190921130000 +0100" channel="TVSERIES">
+    <title lang="pt">Teen Wolf T4 - Ep. 1</title>
+    <episode-num>T4 - Ep. 1</episode-num>
   </programme>
-  <programme start="20190918160000 +0100" stop="20190918170000 +0100" channel="UMEUROPA">
-    <title lang="pt">Nos Passos Da Fé</title>
+  <programme start="20190921130000 +0100" stop="20190921134000 +0100" channel="TVSERIES">
+    <title lang="pt">Teen Wolf T4 - Ep. 2</title>
+    <episode-num>T4 - Ep. 2</episode-num>
   </programme>
-  <programme start="20190918170000 +0100" stop="20190918175000 +0100" channel="UMEUROPA">
-    <title lang="pt">Clip Rit</title>
+  <programme start="20190921134000 +0100" stop="20190921142500 +0100" channel="TVSERIES">
+    <title lang="pt">Teen Wolf T4 - Ep. 3</title>
+    <episode-num>T4 - Ep. 3</episode-num>
   </programme>
-  <programme start="20190918175000 +0100" stop="20190918180000 +0100" channel="UMEUROPA">
-    <title lang="pt">Recado Do Coração De Deus</title>
+  <programme start="20190921142500 +0100" stop="20190921144500 +0100" channel="TVSERIES">
+    <title lang="pt">Accidentally On Purpose T1 - Ep. 15</title>
+    <episode-num>T1 - Ep. 15</episode-num>
   </programme>
-  <programme start="20190918180000 +0100" stop="20190918183000 +0100" channel="UMEUROPA">
-    <title lang="pt">Revista Do Campo</title>
+  <programme start="20190921144500 +0100" stop="20190921151000 +0100" channel="TVSERIES">
+    <title lang="pt">Accidentally On Purpose T1 - Ep. 16</title>
+    <episode-num>T1 - Ep. 16</episode-num>
   </programme>
-  <programme start="20190918183000 +0100" stop="20190918200000 +0100" channel="UMEUROPA">
-    <title lang="pt">Show Da Fé</title>
+  <programme start="20190921151000 +0100" stop="20190921160000 +0100" channel="TVSERIES">
+    <title lang="pt">Berlin Station T3 - Ep. 8</title>
+    <episode-num>T3 - Ep. 8</episode-num>
   </programme>
-  <programme start="20190918200000 +0100" stop="20190918213000 +0100" channel="UMEUROPA">
-    <title lang="pt">Vejam Só</title>
+  <programme start="20190921160000 +0100" stop="20190921165500 +0100" channel="TVSERIES">
+    <title lang="pt">Berlin Station T3 - Ep. 9</title>
+    <episode-num>T3 - Ep. 9</episode-num>
   </programme>
-  <programme start="20190918213000 +0100" stop="20190918220000 +0100" channel="UMEUROPA">
-    <title lang="pt">Especial: Missões</title>
+  <programme start="20190921165500 +0100" stop="20190921174000 +0100" channel="TVSERIES">
+    <title lang="pt">Blindspot T4 - Ep. 18</title>
+    <episode-num>T4 - Ep. 18</episode-num>
   </programme>
-  <programme start="20190918220000 +0100" stop="20190919003000 +0100" channel="UMEUROPA">
-    <title lang="pt">Fala, Amigo! Especial</title>
+  <programme start="20190921174000 +0100" stop="20190921182500 +0100" channel="TVSERIES">
+    <title lang="pt">Blindspot T4 - Ep. 19</title>
+    <episode-num>T4 - Ep. 19</episode-num>
+  </programme>
+  <programme start="20190921182500 +0100" stop="20190921192500 +0100" channel="TVSERIES">
+    <title lang="pt">Outlander T4 - Ep. 4</title>
+    <episode-num>T4 - Ep. 4</episode-num>
+  </programme>
+  <programme start="20190921192500 +0100" stop="20190921202000 +0100" channel="TVSERIES">
+    <title lang="pt">Outlander T4 - Ep. 5</title>
+    <episode-num>T4 - Ep. 5</episode-num>
+  </programme>
+  <programme start="20190921202000 +0100" stop="20190921211500 +0100" channel="TVSERIES">
+    <title lang="pt">The Young Pope T1 - Ep. 8</title>
+    <episode-num>T1 - Ep. 8</episode-num>
+  </programme>
+  <programme start="20190921211500 +0100" stop="20190921220000 +0100" channel="TVSERIES">
+    <title lang="pt">Defesa à Medida T9 - Ep. 8</title>
+    <episode-num>T9 - Ep. 8</episode-num>
+  </programme>
+  <programme start="20190921220000 +0100" stop="20190921224500 +0100" channel="TVSERIES">
+    <title lang="pt">Suits: Jessica Pearson T1 - Ep. 9</title>
+    <episode-num>T1 - Ep. 9</episode-num>
+  </programme>
+  <programme start="20190921224500 +0100" stop="20190921234000 +0100" channel="TVSERIES">
+    <title lang="pt">House of Cards T6 - Ep. 2</title>
+    <episode-num>T6 - Ep. 2</episode-num>
+  </programme>
+  <programme start="20190921234000 +0100" stop="20190922002500 +0100" channel="TVSERIES">
+    <title lang="pt">Elementar T7 - Ep. 4</title>
+    <episode-num>T7 - Ep. 4</episode-num>
   </programme>
   <programme start="20190919003000 +0100" stop="20190919013000 +0100" channel="UMEUROPA">
     <title lang="pt">Jornal Das 22</title>
@@ -44353,41 +44299,98 @@
   <programme start="20190920220000 +0100" stop="20190921003000 +0100" channel="UMEUROPA">
     <title lang="pt">Fala, Amigo! Especial</title>
   </programme>
-  <programme start="20190918050000 +0100" stop="20190918080000 +0100" channel="VH1">
-    <title lang="pt">Rise And Shine With VH1</title>
+  <programme start="20190921003000 +0100" stop="20190921013000 +0100" channel="UMEUROPA">
+    <title lang="pt">Jornal Das 22</title>
   </programme>
-  <programme start="20190918080000 +0100" stop="20190918090000 +0100" channel="VH1">
-    <title lang="pt">Guess The Year</title>
+  <programme start="20190921013000 +0100" stop="20190921030000 +0100" channel="UMEUROPA">
+    <title lang="pt">Igreja Da Graça No Seu Lar</title>
   </programme>
-  <programme start="20190918090000 +0100" stop="20190918093500 +0100" channel="VH1">
-    <title lang="pt">This Week's VH1 Top 10</title>
+  <programme start="20190921030000 +0100" stop="20190921043000 +0100" channel="UMEUROPA">
+    <title lang="pt">Show Da Fé</title>
   </programme>
-  <programme start="20190918093500 +0100" stop="20190918120000 +0100" channel="VH1">
-    <title lang="pt">Hits Don't Lie</title>
+  <programme start="20190921043000 +0100" stop="20190921080000 +0100" channel="UMEUROPA">
+    <title lang="pt">Igreja Da Graça No Seu Lar</title>
   </programme>
-  <programme start="20190918120000 +0100" stop="20190918140000 +0100" channel="VH1">
-    <title lang="pt">We Love The: 00s</title>
+  <programme start="20190921080000 +0100" stop="20190921090000 +0100" channel="UMEUROPA">
+    <title lang="pt">Igreja Da Graça No Seu Lar</title>
   </programme>
-  <programme start="20190918140000 +0100" stop="20190918150000 +0100" channel="VH1">
-    <title lang="pt">Guess The Year</title>
+  <programme start="20190921090000 +0100" stop="20190921090500 +0100" channel="UMEUROPA">
+    <title lang="pt">Mensagem De Fé</title>
   </programme>
-  <programme start="20190918150000 +0100" stop="20190918160000 +0100" channel="VH1">
-    <title lang="pt">Popstars</title>
+  <programme start="20190921090500 +0100" stop="20190921095000 +0100" channel="UMEUROPA">
+    <title lang="pt">Clip Rit</title>
   </programme>
-  <programme start="20190918160000 +0100" stop="20190918180000 +0100" channel="VH1">
-    <title lang="pt">Hits Don't Lie</title>
+  <programme start="20190921095000 +0100" stop="20190921100000 +0100" channel="UMEUROPA">
+    <title lang="pt">Recado Do Coração De Deus</title>
   </programme>
-  <programme start="20190918180000 +0100" stop="20190918210000 +0100" channel="VH1">
-    <title lang="pt">We Love The: 10s</title>
+  <programme start="20190921100000 +0100" stop="20190921103000 +0100" channel="UMEUROPA">
+    <title lang="pt">Análise Direta</title>
   </programme>
-  <programme start="20190918210000 +0100" stop="20190918220000 +0100" channel="VH1">
-    <title lang="pt">Guess The Year</title>
+  <programme start="20190921103000 +0100" stop="20190921110000 +0100" channel="UMEUROPA">
+    <title lang="pt">Novela Da Vida Real</title>
   </programme>
-  <programme start="20190918220000 +0100" stop="20190918223500 +0100" channel="VH1">
-    <title lang="pt">This Week's VH1 Top 10</title>
+  <programme start="20190921110000 +0100" stop="20190921112000 +0100" channel="UMEUROPA">
+    <title lang="pt">Iigd Louvores</title>
   </programme>
-  <programme start="20190918223500 +0100" stop="20190919050000 +0100" channel="VH1">
-    <title lang="pt">VH1 Shuffle</title>
+  <programme start="20190921112000 +0100" stop="20190921122000 +0100" channel="UMEUROPA">
+    <title lang="pt">Show Da Fé</title>
+  </programme>
+  <programme start="20190921122000 +0100" stop="20190921130000 +0100" channel="UMEUROPA">
+    <title lang="pt">A Hora Da Graça De Deus</title>
+  </programme>
+  <programme start="20190921130000 +0100" stop="20190921130500 +0100" channel="UMEUROPA">
+    <title lang="pt">Mensagem De Fé</title>
+  </programme>
+  <programme start="20190921130500 +0100" stop="20190921140000 +0100" channel="UMEUROPA">
+    <title lang="pt">Graça Music Na TV</title>
+  </programme>
+  <programme start="20190921140000 +0100" stop="20190921141000 +0100" channel="UMEUROPA">
+    <title lang="pt">Jornal Toda Hora</title>
+  </programme>
+  <programme start="20190921141000 +0100" stop="20190921141500 +0100" channel="UMEUROPA">
+    <title lang="pt">Mensagem De Fé</title>
+  </programme>
+  <programme start="20190921141500 +0100" stop="20190921153000 +0100" channel="UMEUROPA">
+    <title lang="pt">A Hora Da Graça De Deus</title>
+  </programme>
+  <programme start="20190921153000 +0100" stop="20190921160000 +0100" channel="UMEUROPA">
+    <title lang="pt">Jornal Toda Hora</title>
+  </programme>
+  <programme start="20190921160000 +0100" stop="20190921162000 +0100" channel="UMEUROPA">
+    <title lang="pt">Iigd Louvores</title>
+  </programme>
+  <programme start="20190921162000 +0100" stop="20190921173000 +0100" channel="UMEUROPA">
+    <title lang="pt">Show Da Fé</title>
+  </programme>
+  <programme start="20190921173000 +0100" stop="20190921180000 +0100" channel="UMEUROPA">
+    <title lang="pt">Jornal Toda Hora</title>
+  </programme>
+  <programme start="20190921180000 +0100" stop="20190921180500 +0100" channel="UMEUROPA">
+    <title lang="pt">Mensagem De Fé</title>
+  </programme>
+  <programme start="20190921180500 +0100" stop="20190921200000 +0100" channel="UMEUROPA">
+    <title lang="pt">Movimento Jovem</title>
+  </programme>
+  <programme start="20190921200000 +0100" stop="20190921202000 +0100" channel="UMEUROPA">
+    <title lang="pt">Iigd Louvores</title>
+  </programme>
+  <programme start="20190921202000 +0100" stop="20190921213000 +0100" channel="UMEUROPA">
+    <title lang="pt">Show Da Fé</title>
+  </programme>
+  <programme start="20190921213000 +0100" stop="20190921220000 +0100" channel="UMEUROPA">
+    <title lang="pt">Jornal Toda Hora</title>
+  </programme>
+  <programme start="20190921220000 +0100" stop="20190921220500 +0100" channel="UMEUROPA">
+    <title lang="pt">Mensagem De Fé</title>
+  </programme>
+  <programme start="20190921220500 +0100" stop="20190921230000 +0100" channel="UMEUROPA">
+    <title lang="pt">Graça Music Na TV</title>
+  </programme>
+  <programme start="20190921230000 +0100" stop="20190921230500 +0100" channel="UMEUROPA">
+    <title lang="pt">Mensagem De Fé</title>
+  </programme>
+  <programme start="20190921230500 +0100" stop="20190922000000 +0100" channel="UMEUROPA">
+    <title lang="pt">Nossa Rádio Na TV</title>
   </programme>
   <programme start="20190919050000 +0100" stop="20190919080000 +0100" channel="VH1">
     <title lang="pt">Rise And Shine With VH1</title>
@@ -44456,6 +44459,36 @@
     <title lang="pt">This Week's VH1 Top 10</title>
   </programme>
   <programme start="20190920223500 +0100" stop="20190921050000 +0100" channel="VH1">
+    <title lang="pt">VH1 Shuffle</title>
+  </programme>
+  <programme start="20190921050000 +0100" stop="20190921080000 +0100" channel="VH1">
+    <title lang="pt">Rise And Shine With VH1</title>
+  </programme>
+  <programme start="20190921080000 +0100" stop="20190921120000 +0100" channel="VH1">
+    <title lang="pt">00s vs 10s Pop: Top 50</title>
+  </programme>
+  <programme start="20190921120000 +0100" stop="20190921140000 +0100" channel="VH1">
+    <title lang="pt">We Love The: 00s</title>
+  </programme>
+  <programme start="20190921140000 +0100" stop="20190921150000 +0100" channel="VH1">
+    <title lang="pt">Guess The Year</title>
+  </programme>
+  <programme start="20190921150000 +0100" stop="20190921160000 +0100" channel="VH1">
+    <title lang="pt">Popstars</title>
+  </programme>
+  <programme start="20190921160000 +0100" stop="20190921180000 +0100" channel="VH1">
+    <title lang="pt">Hits Don't Lie</title>
+  </programme>
+  <programme start="20190921180000 +0100" stop="20190921210000 +0100" channel="VH1">
+    <title lang="pt">We Love The: 10s</title>
+  </programme>
+  <programme start="20190921210000 +0100" stop="20190921220000 +0100" channel="VH1">
+    <title lang="pt">Guess The Year</title>
+  </programme>
+  <programme start="20190921220000 +0100" stop="20190921223500 +0100" channel="VH1">
+    <title lang="pt">This Week's VH1 Top 10</title>
+  </programme>
+  <programme start="20190921223500 +0100" stop="20190922050000 +0100" channel="VH1">
     <title lang="pt">VH1 Shuffle</title>
   </programme>
 </tv>
