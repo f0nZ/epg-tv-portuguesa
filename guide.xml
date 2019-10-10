@@ -20857,28 +20857,28 @@
   <programme start="20191011223500 +0100" stop="20191012003500 +0100" channel="CINEMUNDO">
     <title lang="pt">Winter´s Tale - História de Amor</title>
   </programme>
-  <programme start="20191012003500 +0100" stop="20191012032500 +0100" channel="CINEMUNDO">
+  <programme start="20191012003500 +0100" stop="20191012032000 +0100" channel="CINEMUNDO">
     <title lang="pt">Gangs of New York - Gangs de Nova Iorque</title>
   </programme>
-  <programme start="20191012032500 +0100" stop="20191012050000 +0100" channel="CINEMUNDO">
+  <programme start="20191012032000 +0100" stop="20191012045500 +0100" channel="CINEMUNDO">
     <title lang="pt">Hardcore</title>
   </programme>
-  <programme start="20191012050000 +0100" stop="20191012064000 +0100" channel="CINEMUNDO">
+  <programme start="20191012045500 +0100" stop="20191012063000 +0100" channel="CINEMUNDO">
     <title lang="pt">Weird Science - Que Loucura de Mulher</title>
   </programme>
-  <programme start="20191012064000 +0100" stop="20191012082500 +0100" channel="CINEMUNDO">
+  <programme start="20191012063000 +0100" stop="20191012083000 +0100" channel="CINEMUNDO">
     <title lang="pt">O Homem Que Inventou o Natal</title>
   </programme>
-  <programme start="20191012082500 +0100" stop="20191012100000 +0100" channel="CINEMUNDO">
+  <programme start="20191012083000 +0100" stop="20191012100000 +0100" channel="CINEMUNDO">
     <title lang="pt">O Caminho para El Dorado</title>
   </programme>
-  <programme start="20191012100000 +0100" stop="20191012121000 +0100" channel="CINEMUNDO">
+  <programme start="20191012100000 +0100" stop="20191012120500 +0100" channel="CINEMUNDO">
     <title lang="pt">Gorilas na Bruma</title>
   </programme>
-  <programme start="20191012121000 +0100" stop="20191012134500 +0100" channel="CINEMUNDO">
+  <programme start="20191012120500 +0100" stop="20191012133500 +0100" channel="CINEMUNDO">
     <title lang="pt">Os Pinguins de Madagáscar</title>
   </programme>
-  <programme start="20191012134500 +0100" stop="20191012165500 +0100" channel="CINEMUNDO">
+  <programme start="20191012133500 +0100" stop="20191012165500 +0100" channel="CINEMUNDO">
     <title lang="pt">JFK</title>
   </programme>
   <programme start="20191012165500 +0100" stop="20191012191500 +0100" channel="CINEMUNDO">
@@ -20888,7 +20888,7 @@
     <title lang="pt">O Uivo do Coiote</title>
   </programme>
   <programme start="20191012205000 +0100" stop="20191012222500 +0100" channel="CINEMUNDO">
-    <title lang="pt">Assalto ao Shopping</title>
+    <title lang="pt">Guardiãs do Túmulo</title>
   </programme>
   <programme start="20191012222500 +0100" stop="20191013002000 +0100" channel="CINEMUNDO">
     <title lang="pt">O Estrangeiro</title>
@@ -54589,83 +54589,83 @@
   <programme start="20191011052900 +0100" stop="20191011063000 +0100" channel="TVI FICCAO">
     <title lang="pt">Os Batanetes</title>
   </programme>
-  <programme start="20191011063000 +0100" stop="20191011071500 +0100" channel="TVI FICCAO">
+  <programme start="20191011063000 +0100" stop="20191011072300 +0100" channel="TVI FICCAO">
     <title lang="pt">Destinos Cruzados - Ep. 128</title>
     <desc lang="pt">O luxo e o lixo da sociedade servem de pano de fundo à história de duas mulheres(n)</desc>
   </programme>
-  <programme start="20191011071500 +0100" stop="20191011080000 +0100" channel="TVI FICCAO">
-    <title lang="pt">O Bando Dos Quatro</title>
+  <programme start="20191011072300 +0100" stop="20191011080000 +0100" channel="TVI FICCAO">
+    <title lang="pt">Campeões E Detectives</title>
   </programme>
-  <programme start="20191011080000 +0100" stop="20191011090000 +0100" channel="TVI FICCAO">
+  <programme start="20191011080000 +0100" stop="20191011085500 +0100" channel="TVI FICCAO">
     <title lang="pt">Morangos Com Açúcar - Ep. 486</title>
   </programme>
-  <programme start="20191011090000 +0100" stop="20191011100000 +0100" channel="TVI FICCAO">
+  <programme start="20191011085500 +0100" stop="20191011094900 +0100" channel="TVI FICCAO">
     <title lang="pt">Deixa Que Te Leve - Ep. 227</title>
   </programme>
-  <programme start="20191011100000 +0100" stop="20191011110000 +0100" channel="TVI FICCAO">
+  <programme start="20191011094900 +0100" stop="20191011105200 +0100" channel="TVI FICCAO">
     <title lang="pt">Inspetor Max</title>
   </programme>
-  <programme start="20191011110000 +0100" stop="20191011113000 +0100" channel="TVI FICCAO">
+  <programme start="20191011105200 +0100" stop="20191011112200 +0100" channel="TVI FICCAO">
     <title lang="pt">Os Batanetes</title>
   </programme>
-  <programme start="20191011113000 +0100" stop="20191011123000 +0100" channel="TVI FICCAO">
+  <programme start="20191011112200 +0100" stop="20191011121100 +0100" channel="TVI FICCAO">
     <title lang="pt">A Impostora - Ep. 192</title>
   </programme>
-  <programme start="20191011123000 +0100" stop="20191011133000 +0100" channel="TVI FICCAO">
+  <programme start="20191011121100 +0100" stop="20191011131400 +0100" channel="TVI FICCAO">
     <title lang="pt">Ninguém Como Tu - Ep. 52</title>
   </programme>
-  <programme start="20191011133000 +0100" stop="20191011141500 +0100" channel="TVI FICCAO">
+  <programme start="20191011131400 +0100" stop="20191011140900 +0100" channel="TVI FICCAO">
     <title lang="pt">O Prédio do Vasco</title>
   </programme>
-  <programme start="20191011141500 +0100" stop="20191011151500 +0100" channel="TVI FICCAO">
+  <programme start="20191011140900 +0100" stop="20191011151500 +0100" channel="TVI FICCAO">
     <title lang="pt">Os Batanetes</title>
   </programme>
   <programme start="20191011151500 +0100" stop="20191011161500 +0100" channel="TVI FICCAO">
     <title lang="pt">Morangos Com Açúcar - Ep. 487</title>
   </programme>
-  <programme start="20191011161500 +0100" stop="20191011170000 +0100" channel="TVI FICCAO">
+  <programme start="20191011161500 +0100" stop="20191011170800 +0100" channel="TVI FICCAO">
     <title lang="pt">Deixa Que Te Leve - Ep. 228</title>
   </programme>
-  <programme start="20191011170000 +0100" stop="20191011180000 +0100" channel="TVI FICCAO">
+  <programme start="20191011170800 +0100" stop="20191011180400 +0100" channel="TVI FICCAO">
     <title lang="pt">Destinos Cruzados - Ep. 129</title>
     <desc lang="pt">O luxo e o lixo da sociedade servem de pano de fundo à história de duas mulheres(n)</desc>
   </programme>
-  <programme start="20191011180000 +0100" stop="20191011190000 +0100" channel="TVI FICCAO">
+  <programme start="20191011180400 +0100" stop="20191011192000 +0100" channel="TVI FICCAO">
     <title lang="pt">Ninguém Como Tu - Ep. 53</title>
   </programme>
-  <programme start="20191011190000 +0100" stop="20191011200000 +0100" channel="TVI FICCAO">
+  <programme start="20191011192000 +0100" stop="20191011200700 +0100" channel="TVI FICCAO">
     <title lang="pt">A Impostora - Ep. 193</title>
   </programme>
-  <programme start="20191011200000 +0100" stop="20191011210000 +0100" channel="TVI FICCAO">
+  <programme start="20191011200700 +0100" stop="20191011210000 +0100" channel="TVI FICCAO">
     <title lang="pt">Inspetor Max</title>
   </programme>
-  <programme start="20191011210000 +0100" stop="20191011220000 +0100" channel="TVI FICCAO">
+  <programme start="20191011210000 +0100" stop="20191011220400 +0100" channel="TVI FICCAO">
     <title lang="pt">O Prédio do Vasco</title>
   </programme>
-  <programme start="20191011220000 +0100" stop="20191011233000 +0100" channel="TVI FICCAO">
+  <programme start="20191011220400 +0100" stop="20191011234200 +0100" channel="TVI FICCAO">
     <title lang="pt">Os Batanetes</title>
   </programme>
-  <programme start="20191011233000 +0100" stop="20191012003000 +0100" channel="TVI FICCAO">
+  <programme start="20191011234200 +0100" stop="20191012003500 +0100" channel="TVI FICCAO">
     <title lang="pt">Deixa Que Te Leve - Ep. 228</title>
   </programme>
-  <programme start="20191012003000 +0100" stop="20191012013000 +0100" channel="TVI FICCAO">
+  <programme start="20191012003500 +0100" stop="20191012012800 +0100" channel="TVI FICCAO">
     <title lang="pt">Destinos Cruzados - Ep. 129</title>
     <desc lang="pt">O luxo e o lixo da sociedade servem de pano de fundo à história de duas mulheres(n)</desc>
   </programme>
-  <programme start="20191012013000 +0100" stop="20191012023000 +0100" channel="TVI FICCAO">
+  <programme start="20191012012800 +0100" stop="20191012024800 +0100" channel="TVI FICCAO">
     <title lang="pt">Ninguém Como Tu - Ep. 53</title>
   </programme>
-  <programme start="20191012023000 +0100" stop="20191012033000 +0100" channel="TVI FICCAO">
+  <programme start="20191012024800 +0100" stop="20191012033500 +0100" channel="TVI FICCAO">
     <title lang="pt">A Impostora - Ep. 193</title>
   </programme>
-  <programme start="20191012033000 +0100" stop="20191012043000 +0100" channel="TVI FICCAO">
+  <programme start="20191012033500 +0100" stop="20191012043100 +0100" channel="TVI FICCAO">
     <title lang="pt">Inspetor Max</title>
   </programme>
-  <programme start="20191012043000 +0100" stop="20191012053000 +0100" channel="TVI FICCAO">
-    <title lang="pt">Os Batanetes</title>
-  </programme>
-  <programme start="20191012053000 +0100" stop="20191012063000 +0100" channel="TVI FICCAO">
+  <programme start="20191012043100 +0100" stop="20191012052600 +0100" channel="TVI FICCAO">
     <title lang="pt">O Prédio do Vasco</title>
+  </programme>
+  <programme start="20191012052600 +0100" stop="20191012063000 +0100" channel="TVI FICCAO">
+    <title lang="pt">Os Batanetes</title>
   </programme>
   <programme start="20191012063000 +0100" stop="20191012071500 +0100" channel="TVI FICCAO">
     <title lang="pt">Destinos Cruzados - Ep. 129</title>
