@@ -1076,198 +1076,198 @@
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11992739/M" />
     <episode-num system="onscreen">S4 E2</episode-num>
   </programme>
-  <programme start="20200427054800 +0100" stop="20200427060000 +0100" channel="MY CUISINE">
+  <programme start="20200427054800 +0100" stop="20200427060100 +0100" channel="MY CUISINE">
     <title lang="pt">Fim De Emissão</title>
     <desc lang="pt">Fim De Emissão.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13900044/M" />
   </programme>
-  <programme start="20200427060000 +0100" stop="20200427070500 +0100" channel="MY CUISINE">
+  <programme start="20200427060100 +0100" stop="20200427065600 +0100" channel="MY CUISINE">
     <title lang="pt">Globe Cooker</title>
     <desc lang="pt">Filipinas - Fred Chesneau guia-nos através da gastronomia global. Em cada episódio ficamos a saber como se pesca, cultiva e produz nos quatro cantos do mundo, e como são confecionados os diversos pratos de cada país.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12034759/M" />
     <episode-num system="onscreen">S1 E21</episode-num>
   </programme>
-  <programme start="20200427070500 +0100" stop="20200427073000 +0100" channel="MY CUISINE">
+  <programme start="20200427065600 +0100" stop="20200427072200 +0100" channel="MY CUISINE">
     <title lang="pt">Luana Cozinha Em Roma</title>
     <desc lang="pt">Acompanhe Luana numa viagem à capital italiana. Pelas ruas de Roma, Luana revela ao seu filho, Alessandro, segredos da sua infância e mostra-nos ainda as suas receitas favoritas que vão preparar em conjunto.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13900030/M" />
     <episode-num system="onscreen">E2</episode-num>
   </programme>
-  <programme start="20200427073000 +0100" stop="20200427075500 +0100" channel="MY CUISINE">
+  <programme start="20200427072200 +0100" stop="20200427074500 +0100" channel="MY CUISINE">
     <title lang="pt">Eu Sou Mais Bolos</title>
     <desc lang="pt">Convidado: Paula Bollinger/Bolo ´naked´. Com a participação de uma figura pública em cada episódio, a cake designer Carina Costa ensina as várias técnicas de decoração de bolos de uma forma simples e prática, de modo a que qualquer pessoa o possa fazer na sua casa.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11992693/M" />
     <episode-num system="onscreen">S1 E21</episode-num>
   </programme>
-  <programme start="20200427075500 +0100" stop="20200427082000 +0100" channel="MY CUISINE">
+  <programme start="20200427074500 +0100" stop="20200427081000 +0100" channel="MY CUISINE">
     <title lang="pt">Eu Sou Mais Bolos</title>
-    <desc lang="pt">Convidado: Assunção Cristas/Ocasião especial. Com a participação de uma figura pública em cada episódio, a cake designer Carina Costa ensina as várias técnicas de decoração de bolos de uma forma simples e prática, de modo a que qualquer pessoa o possa fazer na sua casa.(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12002746/M" />
-    <episode-num system="onscreen">S1 E1</episode-num>
+    <desc lang="pt">Convidado: Inês Folque/Chá com amigas. Com a participação de uma figura pública em cada episódio, a cake designer Carina Costa ensina as várias técnicas de decoração de bolos de uma forma simples e prática, de modo a que qualquer pessoa o possa fazer na sua casa.(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12002764/M" />
+    <episode-num system="onscreen">S1 E2</episode-num>
   </programme>
-  <programme start="20200427082000 +0100" stop="20200427084500 +0100" channel="MY CUISINE">
+  <programme start="20200427081000 +0100" stop="20200427083700 +0100" channel="MY CUISINE">
     <title lang="pt">Chakall Com Uma Pitada De…</title>
     <desc lang="pt">Convidado: Miguel Ribeiro. Neste programa Chakall entrevista músicos portugueses de todas as gerações e várias culturas com a condição de que todos eles cozinhem na sua casa. A partilha da cozinha e da música com muitas histórias e receitas pelo meio. A combinação perfeita de música e comida!(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11992730/M" />
     <episode-num system="onscreen">S1 E10</episode-num>
   </programme>
-  <programme start="20200427084500 +0100" stop="20200427090000 +0100" channel="MY CUISINE">
+  <programme start="20200427083700 +0100" stop="20200427090200 +0100" channel="MY CUISINE">
     <title lang="pt">Chakall Com Uma Pitada De…</title>
     <desc lang="pt">Convidado: Olavo Bilac. Neste programa Chakall entrevista músicos portugueses de todas as gerações e várias culturas, com a condição de que todos eles cozinhem na sua casa. A partilha da cozinha e da música com muitas histórias e receitas pelo meio. A combinação perfeita de música e comida!(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12060797/M" />
     <episode-num system="onscreen">S2 E1</episode-num>
   </programme>
-  <programme start="20200427090000 +0100" stop="20200427092500 +0100" channel="MY CUISINE">
+  <programme start="20200427090200 +0100" stop="20200427092600 +0100" channel="MY CUISINE">
     <title lang="pt">Jamie´s 15 Minute Meals</title>
     <desc lang="pt">Jamie’s 15 Minute Meals leva o conceito de comida rápida do dia-a-dia a um outro nível. Em cada episódio, Jamie mostra como confecionar dois pratos em tempo real, em apenas 15 minutos, ensina dicas e truques que irão ajudar todos os aspirantes a cozinheiros. Inspire-se com Jamie’s 15 Minute Meals e veja o que pode conseguir em apenas 15 minutos.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12002727/M" />
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
-  <programme start="20200427092500 +0100" stop="20200427095000 +0100" channel="MY CUISINE">
-    <title lang="pt">Jamie´s Quick And Easy Food</title>
-    <desc lang="pt">Com apenas 5 ingredientes, Jamie propõe receitas rápidas e deliciosas que em poucos minutos surpreendem família e amigos, mesmo quando o tempo parece não chegar para nada.(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12470956/M" />
+  <programme start="20200427092600 +0100" stop="20200427095100 +0100" channel="MY CUISINE">
+    <title lang="pt">Jamie´s 15 Minute Meals</title>
+    <desc lang="pt">Jamie’s 15 Minute Meals leva o conceito de comida rápida do dia-a-dia a um outro nível. Em cada episódio, Jamie mostra como confecionar dois pratos em tempo real, em apenas 15 minutos, ensina dicas e truques que irão ajudar todos os aspirantes a cozinheiros. Inspire-se com Jamie’s 15 Minute Meals e veja o que pode conseguir em apenas 15 minutos.(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13601311/M" />
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
-  <programme start="20200427095000 +0100" stop="20200427101500 +0100" channel="MY CUISINE">
+  <programme start="20200427095100 +0100" stop="20200427101500 +0100" channel="MY CUISINE">
     <title lang="pt">Luana Cozinha Em Roma</title>
     <desc lang="pt">Acompanhe Luana numa viagem à capital italiana. Pelas ruas de Roma, Luana revela ao seu filho, Alessandro, segredos da sua infância e mostra-nos ainda as suas receitas favoritas que vão preparar em conjunto.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13900032/M" />
     <episode-num system="onscreen">E1</episode-num>
   </programme>
-  <programme start="20200427101500 +0100" stop="20200427105000 +0100" channel="MY CUISINE">
+  <programme start="20200427101500 +0100" stop="20200427104900 +0100" channel="MY CUISINE">
     <title lang="pt">Luana Cozinha Em Roma</title>
     <desc lang="pt">Acompanhe Luana numa viagem à capital italiana. Pelas ruas de Roma, Luana revela ao seu filho, Alessandro, segredos da sua infância e mostra-nos ainda as suas receitas favoritas que vão preparar em conjunto.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13900030/M" />
     <episode-num system="onscreen">E2</episode-num>
   </programme>
-  <programme start="20200427105000 +0100" stop="20200427111500 +0100" channel="MY CUISINE">
+  <programme start="20200427104900 +0100" stop="20200427111300 +0100" channel="MY CUISINE">
     <title lang="pt">Eu Sou Mais Bolos</title>
     <desc lang="pt">Convidado: Ana Camara Pereira/Aniversário Surf - Com a participação de uma figura pública em cada episódio, a cake designer Carina Costa ensina as várias técnicas de decoração de bolos de uma forma simples e prática, de modo a que qualquer pessoa o possa fazer na sua casa.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12006740/M" />
     <episode-num system="onscreen">S1 E19</episode-num>
   </programme>
-  <programme start="20200427111500 +0100" stop="20200427114000 +0100" channel="MY CUISINE">
+  <programme start="20200427111300 +0100" stop="20200427114000 +0100" channel="MY CUISINE">
     <title lang="pt">Eu Sou Mais Bolos</title>
     <desc lang="pt">Convidado: Naide Gomes/Bolo Gengibre. Com a participação de uma figura pública em cada episódio, a cake designer Carina Costa ensina as várias técnicas de decoração de bolos de uma forma simples e prática, de modo a que qualquer pessoa o possa fazer na sua casa.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11992676/M" />
     <episode-num system="onscreen">S1 E20</episode-num>
   </programme>
-  <programme start="20200427114000 +0100" stop="20200427121000 +0100" channel="MY CUISINE">
+  <programme start="20200427114000 +0100" stop="20200427120900 +0100" channel="MY CUISINE">
     <title lang="pt">Chakall E Pulga</title>
     <desc lang="pt">Chakall e a sua cadelinha Pulga continuam a percorrer Portugal de Norte a Sul, dando-nos a conhecer o melhor de cada região. Neste episódio Chakall e a sua fiel companheira levam-nos até Guimarães.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13700066/M" />
     <episode-num system="onscreen">S2 E10</episode-num>
   </programme>
-  <programme start="20200427121000 +0100" stop="20200427124000 +0100" channel="MY CUISINE">
+  <programme start="20200427120900 +0100" stop="20200427123900 +0100" channel="MY CUISINE">
     <title lang="pt">Chakall E Pulga</title>
     <desc lang="pt">Chakall &amp; Pulga vão percorrer Portugal de lés-a-lés, combinando o melhor da gastronomia, turismo, cultura e os hábitos das nossas gentes. Hoje o Chef e a sua cadelinha levam-nos até Serpa. Acompanhe esta dupla e fique a conhecer as especialidades gastronómicas desta região. Brusheta e Açorda do Chakall e do Zé são as especialidades locais que o Chef vai transformar em autênticas iguarias de fazer crescer água na boca.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13635009/M" />
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
-  <programme start="20200427124000 +0100" stop="20200427132500 +0100" channel="MY CUISINE">
+  <programme start="20200427123900 +0100" stop="20200427132500 +0100" channel="MY CUISINE">
     <title lang="pt">Jamie &amp; Jimmy´s Food Fight Club</title>
     <desc lang="pt">Jodie Whittaker - Jamie e Jimmy estão de volta ao seu café, no cais de Southend, para continuarem a surpreender-nos com verdadeiras experiências gastronómicas. Sempre acompanhados por amigos especiais, não perca as melhores versões de cada prato, misturadas com boa disposíção e muita gargalhada.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12429388/M" />
     <episode-num system="onscreen">S7 E9</episode-num>
   </programme>
-  <programme start="20200427132500 +0100" stop="20200427141000 +0100" channel="MY CUISINE">
+  <programme start="20200427132500 +0100" stop="20200427141500 +0100" channel="MY CUISINE">
     <title lang="pt">Jamie &amp; Jimmy´s Food Fight Club</title>
     <desc lang="pt">Os amigos de infância, Jamie Oliver e Jimmy Doherty vão surpreender-nos com os seus fantásticos pratos, no seu café no cais de Southend. Com a visita de alguns amigos especiais, irão aprender a cozinhar a versão top do seu prato favorito com muitas gargalhadas à mistura. Boa comida é algo por que vale a pena lutar!(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12682274/M" />
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
-  <programme start="20200427141000 +0100" stop="20200427144000 +0100" channel="MY CUISINE">
+  <programme start="20200427141500 +0100" stop="20200427144500 +0100" channel="MY CUISINE">
     <title lang="pt">Nigellissima</title>
     <desc lang="pt">A essência da gastronomia italiana, tal como a cozinha de Nigella, é a simplicidade e a informalidade. Nesta série, Nigella demonstra como é possível mantermo-nos fiéis ao espírito da cozinha italiana, usando produtos que se podem comprar em qualquer supermercado.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12256805/M" />
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
-  <programme start="20200427144000 +0100" stop="20200427150500 +0100" channel="MY CUISINE">
+  <programme start="20200427144500 +0100" stop="20200427151500 +0100" channel="MY CUISINE">
     <title lang="pt">Eu Sou Mais Bolos</title>
     <desc lang="pt">No episódio de hoje a Carina tem como concorrente a Inês Metello. A Inês é advogada, vem de Lisboa e neste episódio vão confecionar em conjunto um “Bolo de Laranja sem Ovos” e treinar a técnica de modelagem, que é a que lhe traz mais dificuldade.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12113970/M" />
     <episode-num system="onscreen">S2 E3</episode-num>
   </programme>
-  <programme start="20200427150500 +0100" stop="20200427154000 +0100" channel="MY CUISINE">
+  <programme start="20200427151500 +0100" stop="20200427154600 +0100" channel="MY CUISINE">
     <title lang="pt">Eu Sou Mais Bolos</title>
     <desc lang="pt">A concorrente de hoje é a Claúdia Vilaça, pasteleira, vem de Braga e neste episódio vai confecionar em conjunto com a nossa Carina Costa um “Bolo de Limão e Sementes de Papoila”. A técnicas que quer aperfeiçoar é a modelagem de flores.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12170310/M" />
     <episode-num system="onscreen">S2 E4</episode-num>
   </programme>
-  <programme start="20200427154000 +0100" stop="20200427161000 +0100" channel="MY CUISINE">
+  <programme start="20200427154600 +0100" stop="20200427161500 +0100" channel="MY CUISINE">
     <title lang="pt">Chakall E Pulga</title>
     <desc lang="pt">Chakall &amp; Pulga vão percorrer Portugal de lés-a-lés, combinando o melhor da gastronomia, turismo, cultura e os hábitos das nossas gentes. Hoje o Chef e a sua cadelinha levam-nos até Beja. Acompanhe esta dupla e fique a conhecer as especialidades gastronómicas desta região. Veja com Crosta e Esparregado de Banana são as especialidades locais que o chef vai transformar em autênticas iguarias de fazer crescer água na boca.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13634985/M" />
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
-  <programme start="20200427161000 +0100" stop="20200427164000 +0100" channel="MY CUISINE">
+  <programme start="20200427161500 +0100" stop="20200427164700 +0100" channel="MY CUISINE">
     <title lang="pt">Chakall E Pulga</title>
     <desc lang="pt">Chakall &amp; Pulga vão percorrer Portugal de lés-a-lés, combinando o melhor da gastronomia, turismo, cultura e os hábitos das nossas gentes. Hoje o Chef e a sua cadelinha levam-nos até Coimbra. Acompanhe esta dupla e fique a conhecer as especialidades gastronómicas desta região. Crepes de Doce de Chila e Leitão á Moda de Mondego são as especialidades locais que o chef vai transformar em autênticas iguarias de fazer crescer água na boca.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13636412/M" />
     <episode-num system="onscreen">S1 E9</episode-num>
   </programme>
-  <programme start="20200427164000 +0100" stop="20200427170500 +0100" channel="MY CUISINE">
+  <programme start="20200427164700 +0100" stop="20200427171000 +0100" channel="MY CUISINE">
     <title lang="pt">Jamie´s 15 Minute Meals</title>
     <desc lang="pt">Jamie’s 15 Minute Meals leva o conceito de comida rápida do dia-a-dia a um outro nível. Em cada episódio, Jamie mostra como confecionar dois pratos em tempo real, em apenas 15 minutos, ensina dicas e truques que irão ajudar todos os aspirantes a cozinheiros. Inspire-se com Jamie’s 15 Minute Meals e veja o que pode conseguir em apenas 15 minutos.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11992709/M" />
     <episode-num system="onscreen">S1 E9</episode-num>
   </programme>
-  <programme start="20200427170500 +0100" stop="20200427173000 +0100" channel="MY CUISINE">
+  <programme start="20200427171000 +0100" stop="20200427173400 +0100" channel="MY CUISINE">
     <title lang="pt">Jamie´s 15 Minute Meals</title>
     <desc lang="pt">Jamie’s 15 Minute Meals leva o conceito de comida rápida do dia-a-dia a um outro nível. Em cada episódio, Jamie mostra como confecionar dois pratos em tempo real, em apenas 15 minutos, ensina dicas e truques que irão ajudar todos os aspirantes a cozinheiros. Inspire-se com Jamie’s 15 Minute Meals e veja o que pode conseguir em apenas 15 minutos.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12202659/M" />
     <episode-num system="onscreen">S1 E13</episode-num>
   </programme>
-  <programme start="20200427173000 +0100" stop="20200427181500 +0100" channel="MY CUISINE">
+  <programme start="20200427173400 +0100" stop="20200427181600 +0100" channel="MY CUISINE">
     <title lang="pt">Kitchen Nightmares USA</title>
     <desc lang="pt">Os donos de restaurantes em apuros recorrem ao conceituado Chef Gordan Ramsey para conseguirem salvar os seus negócios. De chefes de cozinha negligentes, passando por empregados temperamentais, a clientes mal servidos, Gordan Ramsey tem uma semana para pôr tudo na ordem e salvar mais um restaurante da falência.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11992627/M" />
     <episode-num system="onscreen">S6 E1</episode-num>
   </programme>
-  <programme start="20200427181500 +0100" stop="20200427190000 +0100" channel="MY CUISINE">
+  <programme start="20200427181600 +0100" stop="20200427190100 +0100" channel="MY CUISINE">
     <title lang="pt">Kitchen Nightmares USA</title>
     <desc lang="pt">Os donos de restaurantes em apuros recorrem ao conceituado Chef Gordan Ramsey para conseguirem salvar os seus negócios. De chefes de cozinha negligentes, passando por empregados temperamentais, a clientes mal servidos, Gordan Ramsey tem uma semana para pôr tudo na ordem e salvar mais um restaurante da falência.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12113961/M" />
     <episode-num system="onscreen">S6 E5</episode-num>
   </programme>
-  <programme start="20200427190000 +0100" stop="20200427194500 +0100" channel="MY CUISINE">
+  <programme start="20200427190100 +0100" stop="20200427194300 +0100" channel="MY CUISINE">
     <title lang="pt">Worst Cooks In America</title>
     <desc lang="pt">Com pouca ou nenhuma experiência culinária, os 15 piores cozinheiros da América testam os seus dotes na cozinha. Os Chefs Anne Burrel e Tyler Florence acompanham os resultados desastrosos.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13700082/M" />
     <episode-num system="onscreen">S15 E8</episode-num>
   </programme>
-  <programme start="20200427194500 +0100" stop="20200427203000 +0100" channel="MY CUISINE">
+  <programme start="20200427194300 +0100" stop="20200427202600 +0100" channel="MY CUISINE">
     <title lang="pt">Worst Cooks In America</title>
     <desc lang="pt">Com pouca ou nenhuma experiência culinária, os 15 piores cozinheiros da América testam os seus dotes na cozinha. Os Chefs Anne Burrel e Tyler Florence acompanham os resultados desastrosos.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13700090/M" />
     <episode-num system="onscreen">S15 E9</episode-num>
   </programme>
-  <programme start="20200427203000 +0100" stop="20200427211500 +0100" channel="MY CUISINE">
+  <programme start="20200427202600 +0100" stop="20200427211100 +0100" channel="MY CUISINE">
     <title lang="pt">Jamie &amp; Jimmy´s Food Fight Club</title>
     <desc lang="pt">Os amigos de infância, Jamie Oliver e Jimmy Doherty voltam a surpreender-nos com os seus fantásticos pratos, no seu café no cais de Southend. Com a visita de alguns amigos especiais, irão aprender a cozinhar a versão top do seu prato favorito com muitas gargalhadas à mistura. Boa comida é algo por que vale a pena lutar!(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12170326/M" />
     <episode-num system="onscreen">S2 E1</episode-num>
   </programme>
-  <programme start="20200427211500 +0100" stop="20200427220000 +0100" channel="MY CUISINE">
+  <programme start="20200427211100 +0100" stop="20200427215900 +0100" channel="MY CUISINE">
     <title lang="pt">Jamie &amp; Jimmy´s Food Fight Club</title>
     <desc lang="pt">Os amigos de infância, Jamie Oliver e Jimmy Doherty voltam a surpreender-nos com os seus fantásticos pratos, no seu café no cais de Southend. Com a visita de alguns amigos especiais, irão aprender a cozinhar a versão top do seu prato favorito com muitas gargalhadas à mistura. Boa comida é algo por que vale a pena lutar!(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12170444/M" />
     <episode-num system="onscreen">S2 E5</episode-num>
   </programme>
-  <programme start="20200427220000 +0100" stop="20200427224500 +0100" channel="MY CUISINE">
+  <programme start="20200427215900 +0100" stop="20200427224100 +0100" channel="MY CUISINE">
     <title lang="pt">Worst Cooks In America</title>
     <desc lang="pt">Anne Burrell e Robert Irvine, dois chefs de topo, recebem os piores cozinheiros da América para participarem num acampamento culinário. Cada chef lidera uma equipa e têm que transformar esses catorze recrutas desesperados em estrelas da cozinha. Acompanhe o caos e os desastres provocados por estes recrutas até ao final, onde apenas um vai ganhar o grande prémio.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12968047/M" />
     <episode-num system="onscreen">S14 E6</episode-num>
   </programme>
-  <programme start="20200427224500 +0100" stop="20200427233000 +0100" channel="MY CUISINE">
+  <programme start="20200427224100 +0100" stop="20200427232400 +0100" channel="MY CUISINE">
     <title lang="pt">Worst Cooks In America</title>
     <desc lang="pt">Anne Burrell e Robert Irvine, dois chefs de topo, recebem os piores cozinheiros da América para participarem num acampamento culinário. Cada chef lidera uma equipa e têm que transformar esses catorze recrutas desesperados em estrelas da cozinha. Acompanhe o caos e os desastres provocados por estes recrutas até ao final, onde apenas um vai ganhar o grande prémio.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12968094/M" />
     <episode-num system="onscreen">S14 E7</episode-num>
   </programme>
-  <programme start="20200427233000 +0100" stop="20200428001500 +0100" channel="MY CUISINE">
+  <programme start="20200427232400 +0100" stop="20200428001000 +0100" channel="MY CUISINE">
     <title lang="pt">Jamie Oliver Ultimate Veg</title>
     <desc lang="pt">O chef Jamie vai promover os legumes a estrelas da cozinha.… Não perca as receitas do chef, surpreendentes e cheias e sabor, que o vão transformar num verdadeiro vegetariano.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13195333/M" />
@@ -1431,68 +1431,63 @@
     <desc lang="pt">No prédio onde Vasco é porteiro existe um consultório médico, onde trabalha a mais bela das enfermeiras, um gabinete de advogados e um cabeleireiro. Daí a sua irritação permanente pelo rodopio de inquilinos, que lhe sujam a escada e os elevadores, para além de diminuírem substancialmente a segurança do condomínio.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13924147/M" />
   </programme>
-  <programme start="20200426063000 +0100" stop="20200426071500 +0100" channel="TVI FICCAO">
+  <programme start="20200426063000 +0100" stop="20200426070400 +0100" channel="TVI FICCAO">
     <title lang="pt">O Bando Dos Quatro</title>
     <desc lang="pt">Um grupo de quatro amigos, Carlos, Álvaro, Catarina e Frederico, entre os 11 e os 13 anos, é conhecido por envolver-se em inúmeras peripécias de forma corajosa e destemida. Juntos vão desvendar os mistérios que assolam a Vila Rica.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13882763/M" />
   </programme>
-  <programme start="20200426071500 +0100" stop="20200426080000 +0100" channel="TVI FICCAO">
+  <programme start="20200426070400 +0100" stop="20200426074100 +0100" channel="TVI FICCAO">
     <title lang="pt">Campeões E Detectives</title>
     <desc lang="pt">JP, Manuel, Tiago e Madalena reúnem-se de emergência pois, a cada dia que passa, sentem que estão a ser observados e têm de descobrir por quem. A equipa reúne-se e fala também da necessidade de arranjar um treinador.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13910746/M" />
   </programme>
-  <programme start="20200426080000 +0100" stop="20200426120000 +0100" channel="TVI FICCAO">
+  <programme start="20200426074100 +0100" stop="20200426124300 +0100" channel="TVI FICCAO">
     <title lang="pt">Morangos Com Açúcar</title>
     <desc lang="pt">Dá um novo sabor à tua vida e deixa-te refrescar por esta lufada de ar fresco!(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13882742/M" />
     <episode-num system="onscreen">E655</episode-num>
   </programme>
-  <programme start="20200426120000 +0100" stop="20200426140000 +0100" channel="TVI FICCAO">
+  <programme start="20200426124300 +0100" stop="20200426142400 +0100" channel="TVI FICCAO">
     <title lang="pt">Inspetor Max</title>
     <desc lang="pt">O inspetor Jorge Mendes é um homem solitário, cuja mulher morreu quando os filhos ainda eram pequenos. Trabalha em Investigação Criminal e conta com a preciosa ajuda de um cão chamado Max para o ajudar a resolver os crimes.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13910742/M" />
   </programme>
-  <programme start="20200426140000 +0100" stop="20200426180000 +0100" channel="TVI FICCAO">
+  <programme start="20200426142400 +0100" stop="20200426180000 +0100" channel="TVI FICCAO">
     <title lang="pt">I Love It - Compacto</title>
     <desc lang="pt">História de Beatriz, uma rapariga irreverente apaixonada pela música, que canta e compõe em casa, alimentando o sonho de fazer as suas criações musicais tocarem aqueles que as ouvem.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13882765/M" />
   </programme>
-  <programme start="20200426180000 +0100" stop="20200426200000 +0100" channel="TVI FICCAO">
+  <programme start="20200426180000 +0100" stop="20200426195800 +0100" channel="TVI FICCAO">
     <title lang="pt">Querido, Mudei a Casa!</title>
     <desc lang="pt">O novo magazine da TVI Ficção que semanalmente vai mudar a vida das pessoas através da decoração e renovação de interiores.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13882767/M" />
   </programme>
-  <programme start="20200426200000 +0100" stop="20200426210000 +0100" channel="TVI FICCAO">
+  <programme start="20200426195800 +0100" stop="20200426214400 +0100" channel="TVI FICCAO">
     <title lang="pt">Inspetor Max</title>
     <desc lang="pt">O inspetor Jorge Mendes é um homem solitário, cuja mulher morreu quando os filhos ainda eram pequenos. Trabalha em Investigação Criminal e conta com a preciosa ajuda de um cão chamado Max para o ajudar a resolver os crimes.(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13910744/M" />
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13936382/M" />
   </programme>
-  <programme start="20200426210000 +0100" stop="20200426220000 +0100" channel="TVI FICCAO">
+  <programme start="20200426214400 +0100" stop="20200426221200 +0100" channel="TVI FICCAO">
     <title lang="pt">O Prédio do Vasco</title>
     <desc lang="pt">No prédio onde Vasco é porteiro existe um consultório médico, onde trabalha a mais bela das enfermeiras, um gabinete de advogados e um cabeleireiro. Daí a sua irritação permanente pelo rodopio de inquilinos, que lhe sujam a escada e os elevadores, para além de diminuírem substancialmente a segurança do condomínio.(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13882759/M" />
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13936386/M" />
   </programme>
-  <programme start="20200426220000 +0100" stop="20200426223000 +0100" channel="TVI FICCAO">
-    <title lang="pt">Os Batanetes</title>
-    <desc lang="pt">Vários momentos de humor, compostos por sketches hilariantes, são sinónimo de muitas gargalhadas na companhia dos 'Batanetes'.(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13882761/M" />
-  </programme>
-  <programme start="20200426223000 +0100" stop="20200426233000 +0100" channel="TVI FICCAO">
+  <programme start="20200426221200 +0100" stop="20200426230300 +0100" channel="TVI FICCAO">
     <title lang="pt">Autores</title>
     <desc lang="pt">Com apresentação de Carlos Mendes, conhecido cantor, músico e autor, este espaço tem como objetivo a revelação de novos talentos. Com destaque para carreiras consolidadas, novos talentos e revelações do nosso panorama artístico.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13882771/M" />
   </programme>
-  <programme start="20200426233000 +0100" stop="20200427023000 +0100" channel="TVI FICCAO">
+  <programme start="20200426230300 +0100" stop="20200427030000 +0100" channel="TVI FICCAO">
     <title lang="pt">A Única Mulher - Compacto</title>
     <desc lang="pt">O colapso de um grande Banco nacional desencadeia o conflito entre duas famílias. Luís Miguel, um jovem engenheiro, e Mara, a enfermeira que o salva de morte certa. O pai de Mara é um empresário angolano com grande ressentimento contra os portugueses, que vem desde a guerra colonial. A herança deste passado e os interesses do presente transformam o que seria uma disputa empresarial num choque de dois mundos.(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13882773/M" />
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13936384/M" />
   </programme>
-  <programme start="20200427023000 +0100" stop="20200427033000 +0100" channel="TVI FICCAO">
+  <programme start="20200427030000 +0100" stop="20200427035500 +0100" channel="TVI FICCAO">
     <title lang="pt">Querido, Mudei a Casa!</title>
     <desc lang="pt">O novo magazine da TVI Ficção que semanalmente vai mudar a vida das pessoas através da decoração e renovação de interiores.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13882777/M" />
   </programme>
-  <programme start="20200427033000 +0100" stop="20200427063000 +0100" channel="TVI FICCAO">
+  <programme start="20200427035500 +0100" stop="20200427063000 +0100" channel="TVI FICCAO">
     <title lang="pt">Jogo Duplo - Compacto</title>
     <desc lang="pt">Tudo se passa entre o Médio Oriente, a Península de Tróia, a cidade de Setúbal e a região de Alcácer do Sal. Na trama, famílias disfuncionais, amores impossíveis e diferenças culturais vão ser colocados em confronto.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13910750/M" />
@@ -1536,71 +1531,71 @@
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13882749/M" />
     <episode-num system="onscreen">E117</episode-num>
   </programme>
-  <programme start="20200427123000 +0100" stop="20200427133000 +0100" channel="TVI FICCAO">
+  <programme start="20200427123000 +0100" stop="20200427130800 +0100" channel="TVI FICCAO">
     <title lang="pt">A Única Mulher</title>
     <desc lang="pt">O colapso de um grande Banco nacional desencadeia o conflito entre duas famílias. Luís Miguel, um jovem engenheiro, e Mara, a enfermeira que o salva de morte certa. O pai de Mara é um empresário angolano com grande ressentimento contra os portugueses, que vem desde a guerra colonial. A herança deste passado e os interesses do presente transformam o que seria uma disputa empresarial num choque de dois mundos.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13882747/M" />
     <episode-num system="onscreen">E94</episode-num>
   </programme>
-  <programme start="20200427133000 +0100" stop="20200427140000 +0100" channel="TVI FICCAO">
+  <programme start="20200427130800 +0100" stop="20200427140000 +0100" channel="TVI FICCAO">
     <title lang="pt">Vasquinho e Cª</title>
     <desc lang="pt">No prédio onde Vasco é porteiro existe um consultório médico, onde trabalha a mais bela das enfermeiras, um gabinete de advogados e um cabeleireiro. Daí a sua irritação permanente pelo rodopio de inquilinos, que lhe sujam a escada e os elevadores, para além de diminuírem substancialmente a segurança do condomínio.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13924215/M" />
   </programme>
-  <programme start="20200427140000 +0100" stop="20200427143000 +0100" channel="TVI FICCAO">
+  <programme start="20200427140000 +0100" stop="20200427141300 +0100" channel="TVI FICCAO">
     <title lang="pt">O Prédio do Vasco</title>
     <desc lang="pt">No prédio onde Vasco é porteiro existe um consultório médico, onde trabalha a mais bela das enfermeiras, um gabinete de advogados e um cabeleireiro. Daí a sua irritação permanente pelo rodopio de inquilinos, que lhe sujam a escada e os elevadores, para além de diminuírem substancialmente a segurança do condomínio.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13924213/M" />
   </programme>
-  <programme start="20200427143000 +0100" stop="20200427151500 +0100" channel="TVI FICCAO">
+  <programme start="20200427141300 +0100" stop="20200427151500 +0100" channel="TVI FICCAO">
     <title lang="pt">Os Batanetes</title>
     <desc lang="pt">Vários momentos de humor, compostos por sketches hilariantes, são sinónimo de muitas gargalhadas na companhia dos 'Batanetes'.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13914712/M" />
   </programme>
-  <programme start="20200427151500 +0100" stop="20200427161400 +0100" channel="TVI FICCAO">
+  <programme start="20200427151500 +0100" stop="20200427160400 +0100" channel="TVI FICCAO">
     <title lang="pt">Morangos Com Açúcar</title>
     <desc lang="pt">Dá um novo sabor à tua vida e deixa-te refrescar por esta lufada de ar fresco!(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13914714/M" />
     <episode-num system="onscreen">E656</episode-num>
   </programme>
-  <programme start="20200427161400 +0100" stop="20200427170000 +0100" channel="TVI FICCAO">
+  <programme start="20200427160400 +0100" stop="20200427164800 +0100" channel="TVI FICCAO">
     <title lang="pt">I Love It</title>
     <desc lang="pt">História de Beatriz, uma rapariga irreverente apaixonada pela música, que canta e compõe em casa, alimentando o sonho de fazer as suas criações musicais tocarem aqueles que as ouvem.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13914715/M" />
     <episode-num system="onscreen">E163</episode-num>
   </programme>
-  <programme start="20200427170000 +0100" stop="20200427180000 +0100" channel="TVI FICCAO">
+  <programme start="20200427164800 +0100" stop="20200427175500 +0100" channel="TVI FICCAO">
     <title lang="pt">Jogo Duplo</title>
     <desc lang="pt">Tudo se passa entre o Médio Oriente, a Península de Tróia, a cidade de Setúbal e a região de Alcácer do Sal. Na trama, famílias disfuncionais, amores impossíveis e diferenças culturais vão ser colocados em confronto.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13914717/M" />
     <episode-num system="onscreen">E71</episode-num>
   </programme>
-  <programme start="20200427180000 +0100" stop="20200427190000 +0100" channel="TVI FICCAO">
+  <programme start="20200427175500 +0100" stop="20200427192000 +0100" channel="TVI FICCAO">
     <title lang="pt">A Única Mulher</title>
     <desc lang="pt">O colapso de um grande Banco nacional desencadeia o conflito entre duas famílias. Luís Miguel, um jovem engenheiro, e Mara, a enfermeira que o salva de morte certa. O pai de Mara é um empresário angolano com grande ressentimento contra os portugueses, que vem desde a guerra colonial. A herança deste passado e os interesses do presente transformam o que seria uma disputa empresarial num choque de dois mundos.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13914719/M" />
     <episode-num system="onscreen">E95</episode-num>
   </programme>
-  <programme start="20200427190000 +0100" stop="20200427200000 +0100" channel="TVI FICCAO">
+  <programme start="20200427192000 +0100" stop="20200427200900 +0100" channel="TVI FICCAO">
     <title lang="pt">A Herdeira</title>
     <desc lang="pt">Retrata a história de uma rapariga criada por comunidades ciganas mas que, na verdade, é a herdeira de um grande império. A mulher que lhe roubou no passado vê agora o seu futuro ameaçado. O regresso da herdeira desencadeia lutas de poder e de afetos, e um amor à prova de tudo.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13914721/M" />
     <episode-num system="onscreen">E118</episode-num>
   </programme>
-  <programme start="20200427200000 +0100" stop="20200427210000 +0100" channel="TVI FICCAO">
+  <programme start="20200427200900 +0100" stop="20200427210000 +0100" channel="TVI FICCAO">
     <title lang="pt">Inspetor Max</title>
     <desc lang="pt">O inspetor Jorge Mendes é um homem solitário, cuja mulher morreu quando os filhos ainda eram pequenos. Trabalha em Investigação Criminal e conta com a preciosa ajuda de um cão chamado Max para o ajudar a resolver os crimes.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13914706/M" />
   </programme>
-  <programme start="20200427210000 +0100" stop="20200427220000 +0100" channel="TVI FICCAO">
-    <title lang="pt">O Prédio do Vasco</title>
-    <desc lang="pt">No prédio onde Vasco é porteiro existe um consultório médico, onde trabalha a mais bela das enfermeiras, um gabinete de advogados e um cabeleireiro. Daí a sua irritação permanente pelo rodopio de inquilinos, que lhe sujam a escada e os elevadores, para além de diminuírem substancialmente a segurança do condomínio.(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13914710/M" />
-  </programme>
-  <programme start="20200427220000 +0100" stop="20200427233000 +0100" channel="TVI FICCAO">
+  <programme start="20200427210000 +0100" stop="20200427223800 +0100" channel="TVI FICCAO">
     <title lang="pt">Os Batanetes</title>
     <desc lang="pt">Vários momentos de humor, compostos por sketches hilariantes, são sinónimo de muitas gargalhadas na companhia dos 'Batanetes'.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13914723/M" />
+  </programme>
+  <programme start="20200427223800 +0100" stop="20200427233000 +0100" channel="TVI FICCAO">
+    <title lang="pt">O Prédio do Vasco</title>
+    <desc lang="pt">No prédio onde Vasco é porteiro existe um consultório médico, onde trabalha a mais bela das enfermeiras, um gabinete de advogados e um cabeleireiro. Daí a sua irritação permanente pelo rodopio de inquilinos, que lhe sujam a escada e os elevadores, para além de diminuírem substancialmente a segurança do condomínio.(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13914710/M" />
   </programme>
   <programme start="20200427233000 +0100" stop="20200428003000 +0100" channel="TVI FICCAO">
     <title lang="pt">I Love It</title>
@@ -4133,9 +4128,9 @@
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13881752/M" />
   </programme>
   <programme start="20200426164500 +0100" stop="20200426171000 +0100" channel="A BOLA TV">
-    <title lang="pt">Memórias</title>
-    <desc lang="pt">Espaço de entrevistas às estrelas do passado. As personalidades que fizeram a história do desporto.(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13881736/M" />
+    <title lang="pt">Entrevista: Mário Monteiro</title>
+    <desc lang="pt">Ao longo dos anos, temos procurado acompanhar a carreira de alguns dos maiores nomes do desporto mundial, visitando-os e entrevistando-os mesmo quando estão fora do país. Fizemo-lo com Ricardinho, em Espanha, Jorge Jesus, na Arábia Saudita, Jesualdo Ferreira no Qatar, Toni no Irão ou com Paulo Sousa em França. Os protagonistas do presente e do passado na primeira pessoa.(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13936334/M" />
   </programme>
   <programme start="20200426171000 +0100" stop="20200426180000 +0100" channel="A BOLA TV">
     <title lang="pt">Doc. Desporto:Gascoigne, A Vida no Relvado</title>
@@ -4183,9 +4178,9 @@
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13881774/M" />
   </programme>
   <programme start="20200426210500 +0100" stop="20200426215500 +0100" channel="A BOLA TV">
-    <title lang="pt">World's Strongest Man</title>
-    <desc lang="pt">Quem é o Homem mais forte do Mundo? A competição que todos querem ver… E vencer! Os candidatos chegam do Mundo inteiro para ganhar o tão desejado título. Começam nos ‘Giants’, uma qualificação por zona geográfica, da qual sairão os finalistas para o confronto final, denominado ‘World´s strongest Man’.(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13881776/M" />
+    <title lang="pt">A Bola da Noite</title>
+    <desc lang="pt">Espaço informativo da noite.(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13936336/M" />
   </programme>
   <programme start="20200426215500 +0100" stop="20200426220500 +0100" channel="A BOLA TV">
     <title lang="pt">Flashnews</title>
@@ -4202,22 +4197,22 @@
     <desc lang="pt">A síntese, atualizada à hora certa, das principais notícias do dia.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13881780/M" />
   </programme>
-  <programme start="20200427001000 +0100" stop="20200427011500 +0100" channel="A BOLA TV">
+  <programme start="20200427001000 +0100" stop="20200427010000 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola da Noite</title>
+    <desc lang="pt">Espaço informativo da noite.(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13913613/M" />
+  </programme>
+  <programme start="20200427010000 +0100" stop="20200427020500 +0100" channel="A BOLA TV">
     <title lang="pt">Conversas Com…</title>
     <desc lang="pt">Conversas Com… é um programa de entrevistas, neste caso será dirigida pelo jornalista do jornal A BOLA, Rogério Azevedo e tem como entrevistado o treinador de futebol, Vítor Manuel.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13881782/M" />
   </programme>
-  <programme start="20200427011500 +0100" stop="20200427020000 +0100" channel="A BOLA TV">
-    <title lang="pt">Riding Portugal</title>
-    <desc lang="pt">Riding Portugal é uma série em que o surfista João Kopke vai à procura da história para lá das ondas nas grandes zonas de surf em Portugal. Explorar a cultura do País através de um olhar jovem e aventureiro é o desafio que vai mantê-lo interessado até ao último minuto. O episódio 1 vai levá-lo numa viagem à zona Oeste e ao famoso canhão da Nazaré.(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13881784/M" />
-  </programme>
-  <programme start="20200427020000 +0100" stop="20200427021000 +0100" channel="A BOLA TV">
+  <programme start="20200427020500 +0100" stop="20200427021500 +0100" channel="A BOLA TV">
     <title lang="pt">Flashnews</title>
     <desc lang="pt">A síntese, atualizada à hora certa, das principais notícias do dia.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13881780/M" />
   </programme>
-  <programme start="20200427021000 +0100" stop="20200427025500 +0100" channel="A BOLA TV">
+  <programme start="20200427021500 +0100" stop="20200427025500 +0100" channel="A BOLA TV">
     <title lang="pt">Póquer - Aposta Mundial</title>
     <desc lang="pt">Profissionais de topo, locais exóticos e um enorme ‘pote dourado’ transformam o World Poker Tour num viciante espetáculo televisivo. Qualquer um que pague o ‘buy -in’ pode entrar, esperando, no entanto, encontrar fortes adversários e muitas dificuldades para garantir um lugar na mesa final.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13881786/M" />
